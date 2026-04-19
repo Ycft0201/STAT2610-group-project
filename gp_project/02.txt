@@ -1,0 +1,641 @@
+The Psychosocial Impact of Social Media on the 
+Youths in Hwange Urban Area 
+Bhiri Kuziwa 1,* and Mapfunde David 2 
+Bhiri Kuziwa Lecturer Zimbabwe Open University 
+Mapfunde David, Lecturer, Zimbabwe Open University, mapfunded@zou.ac.zw 
+* Correspondence: bhirik@zou.ac.zw 
+Abstract: The study is about the impact of social media on the mental health of adolescents. The study 
+explores the relationship between social media use and mental health among adolescents in Hwange 
+Urban Area, with the aim of understanding the risks and benefits of social media use for this 
+population. The study is hinged on the three objectives that is (a) To examine the relationship between 
+social media use and mental health problems in adolescents, (b)To identify the specific ways in which 
+social media use is impacting on the mental health of adolescents in Hwange Urban area and (c) To 
+develop interventions to help adolescents reduce their social media use so as to improve their mental 
+health. The literature review examines existing research on social media use and mental health 
+among adolescents, including studies on cyberbullying, misinformation, self-esteem issues, and the 
+use of social media for social support. A qualitative research approach was used in the study. The 
+data collection instruments used are semi-structured interviews and focus group discussions with a 
+sample of adolescents in Hwange Central Ward 8. Data analysis involved thematic analysis to 
+identify patterns and themes related to social media use and mental health. C The findings suggest a 
+negative relationship between excessive social media use and mental health among adolescents in 
+Hwange Central Ward 8, with potential impacts including increased anxiety, depression, and low 
+self-esteem. The findings also highlight the potential benefits of social media use for social support 
+and connection, particularly during times of stress or isolation. The study recommends interventions 
+that promote healthy social media habits, empowering adolescents to make informed decisions about 
+their social media use, and educate parents and communities about the risks and benefits of social 
+media use for adolescents. 
+Keywords: Psychosocial; Mental health; social media; Adolescents 
+ 
+Abbreviations: A1…. Participant, C1…… Counsellor, SW1…Social worker 
+number one, FOMO… Feelings of missing out 
+1. Introduction 
+Social media has become a ubiquitous force in the lives of adolescents worldwide, profoundly 
+influencing their mental well-being. While it offers avenues for connection, self-expression, and 
+information access, it also presents significant challenges. Excessive social media use can exacerbate 
+mental health challenges and feelings of inadequacy, particularly due to the constant pressure to 
+maintain popularity and conform to unrealistic online standards. Additionally, cyberbullying, a 
+prevalent issue in the online world, can have devastating consequences for adolescents' mental 
+health, leading to depression, anxiety, and even suicidal ideation. The impact of social media on 
+adolescents' mental health varies globally, with adolescents in developing countries facing unique 
+challenges due to limited access to technology, internet connectivity, and mental health resources. 
+Comprehensive research and targeted interventions are crucial to mitigate the negative impacts of 
+Disclaimer/Publisher’s Note: The statements, opinions, and data contained in all publications are solely those of the individual author(s) and 
+contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting 
+from any ideas, methods, instructions, or products referred to in the content.
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025 doi:10.20944/preprints202502.0860.v1
+©  2025 by the author(s). Distributed under a Creative Commons CC BY license.
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+2 of 14 
+social media and promote healthy online practices among adolescents worldwide. The study aims to 
+evaluate the impact of social media on the mental health of adolescents in Hwange urban. 
+1.1. Background of the Study 
+The number of social media users worldwide has increased by 424 million (10.1%) in the past 
+year, to reach 4.72 billion in July 2023. This means that over 59% of the world's population now uses 
+social media (Hootsuite, 2023). The social media platforms include Facebook, YouTube, WhatsApp, 
+Instagram, WeChat, TikTok, X handle, Pinterest, LinkedIn, Reddit, Snapchat, Telegram and Discord. 
+According to the Digital 2023 report, the top 5 most used social media platforms in the world are 
+Facebook (2.91 billion active users), YouTube (2.56 billion active users), WhatsApp (2.44 billion active 
+users), Instagram (2.26 billion active users) and WeChat (1.26 billion active users). However, the use 
+of social media platforms has been noted to have rising healthy challenges among the majority of 
+individuals users. 
+The impact of social media on the mental health of adolescents has been noted in the United 
+States of America (USA), United Kingdom (UK), China, and Africa. However, the magnitude of the 
+impact varies depending on the country. In the USA, a 2023 study by the Pew Research Center found 
+that 61% of US teens states that social media has a mostly positive impact on their mental health, 
+while 15% revealed that it has a mostly negative impact (Pew Research Center, 2023). The study also 
+found out that teens who use social media for more than three hours per day are more likely to report 
+feeling depressed and anxious than those who use it less (Pew Research Center, 2023). 
+In the UK in 2022 the Mental Health Foundation found that 40% of young people in the UK aged 
+13-19 revealed that social media has a negative impact on their mental health (Mental Health 
+Foundation, 2022). The Mental Health Foundation also found that young people who use social 
+media for more than two hours per day are more likely to report feeling low, anxious, and stressed 
+(Mental Health Foundation, 2022). In China, the Chinese Academy of Sciences in 2021 also exposed 
+that adolescents who spend more than two hours per day on social media are more likely to 
+experience depression and anxiety including feeling depressed and anxious (Chinese Academy of 
+Sciences, 2021). 
+However, in Africa, there is less research on the impact of social media on the mental health of 
+adolescents. However, a study in 2023 by the University of Cape Town found that adolescents in 
+South Africa who use social media for more than two hours per day are more likely to experience 
+depression and anxiety. The study also found out that adolescents who use social media for social 
+comparison are more likely to report feeling depressed and anxious (University of Cape Town, 2023). 
+In Zimbabwe, according to the Zimbabwe Demographic and Health Survey 2022, over 90% of 
+Zimbabwean adolescents use social media platforms such as Facebook, WhatsApp, and Instagram. 
+This suggests that social media is an important part of the lives of adolescents in Zimbabwe, and that 
+it is important to understand its impact on their mental health. 
+However, Khosa and Mhlanga (2023) speculate that social media addiction is associated with a 
+number of mental health problems, including anxiety, depression, and loneliness. Studies have been 
+conducted in Zimbabwe. Mujuru and Chibonga (2022) conducted a study on ‘Social media use and 
+mental health problems among adolescents in Harare, Zimbabwe’’, Chikoore and Maruta (2021) on 
+the relationship between social media use and cyberbullying among adolescents in Zimbabwe and 
+Matanda and Ncube (2020) on ‘The impact of social media on the academic performance of 
+adolescents in Zimbabwe’. 
+These studies provide valuable insights into the impact of social media on adolescents in 
+Zimbabwe, but they do not cover the impact of social media on the mental health of adolescents in 
+Hwange District. The researcher has noted that a large number of adolescents in Hwange District 
+shows signs of mental disorders, and this has been speculated to be emanating from the use of social 
+media. However, this cannot be ascertained due to the fact that no study has been conducted on the 
+impact of social media on the mental health of adolescents in Hwange District. It is on this 
+background that a study will be conducted to expose the impact of social media on the mental health 
+of adolescents in Hwange Central, ward 8. 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+1.2. Statement of the Problem 
+doi:10.20944/preprints202502.0860.v1
+3 of 14 
+A large number of adolescents in Hwange Central Constituency show signs of mental disorders. 
+What might be cause of the mental disorders to the adolescents? Can this be the impact of continued 
+use of the social media? This study therefore sets out to investigate the impact of social media on the 
+mental health of the adolescents in Hwange Central Constituency of Matabeleland North Province. 
+1.3. Purpose of the Study 
+The purpose of this study is to investigate the impact of social media on the mental health of 
+adolescents in Hwange town, Zimbabwe. The study explores the relationship between social media 
+use and mental health problems, in order to identify the specific ways in which social media use is 
+impacting on the mental health of adolescents, and to develop some interventions to help adolescents 
+reduce their social media use and improve their mental health. 
+1.4. Objectives 
+The objectives of the study are to: 
+To examine the relationship between social media use and mental health problems in 
+adolescents. 
+To identify the specific ways in which social media use is impacting on the mental health of 
+adolescents in Hwange Urban area. 
+To develop interventions to help adolescents reduce their social media use so as to improve their 
+mental health. 
+1.5. Significance of the Study 
+This study may be significant to a number of stakeholders, including: 
+Adolescents: The findings of the study may help adolescents to better understand the impact of 
+social media on their mental health and develop strategies to manage their social media use and 
+protect their mental health. 
+Parents, clergymen and teachers: The findings of the study may help parents, clergymen and 
+teachers to support adolescents in managing their social media use and protecting their mental 
+health. 
+Mental health professionals: The findings of the study may help mental health professionals to 
+develop more effective interventions for adolescents who are struggling with social media addiction 
+and other mental health problems related to social media use. 
+Policymakers: The findings of the study may inform public health policies and programs on the 
+prevention of social media addiction and the promotion of mental health in adolescents. 
+2. Review of Related Literature 
+The chapter presents a review of literature on studies that are related to the three research 
+questions of the study. Accordingly, literature was reviewed on literature related to relationship 
+between social media use and mental health problems, ways in which social media use impacts on 
+the mental health of individuals and interventions helping improve mental health when using social 
+media. The major aim of the review was to expose the gaps existing in the literature that were to be 
+covered by the current study. The chapter first presented the social ecological framework 
+informed by Ubuntu principles, as the theoretical framework to guide the study. 
+2.1. Theoretical Framework 
+Bronfenbrenner's theory posits that individuals are nestled within multiple interconnected 
+systems, each of which influences their development and outcomes. Imagine concentric circles, each 
+representing a layer of influence surrounding the individual adolescent. At the core lies the 
+individual level, where personal experiences, social media engagement patterns, and even spiritual 
+beliefs interact with vulnerability factors and coping mechanisms to shape mental health outcomes. 
+Moving outwards, the microsystem examines the crucial roles of family dynamics, peer relationships, 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+4 of 14 
+and school environments in shaping how adolescents navigate the digital realm and its impact on 
+their emotional well-being (Bronfenbrenner & Morris, 1998).The mesosystem then expands the focus 
+to encompass the broader community landscape, investigating the influence of community norms, 
+religious institutions, and local media narratives on social media practices and mental health 
+perceptions (Bronfenbrenner, 1979). Moving beyond the immediate surroundings, the exosystem 
+delves into socio-economic factors, technological access, and policy landscapes that shape the very 
+context of social media use. (Bronfenbrenner & Ceci, 1994). Finally, the outermost circle, the 
+macrosystem, acknowledges the potent influence of cultural values, religious beliefs (particularly 
+ubuntu principles), and national policies on adolescent mental health and digital engagement 
+(Bronfenbrenner,1979). This multi-layered approach acknowledges the interconnectedness of 
+individual, social, and cultural factors, providing a comprehensive understanding of the complex 
+relationship between social media and mental health. This is crucial in comprehending how Ubuntu, 
+woven into the fabric of the community, influences digital experiences and mental well-being. By 
+harnessing the power of Bronfenbrenner's Social Ecological Theory and infusing it with the spirit of 
+Ubuntu, this study has the potential to make significant contributions to our understanding of 
+adolescent mental health in the digital age. It can pave the way for culturally relevant interventions, 
+community-based support systems, and digital literacy programs tailored to the unique needs of this 
+Zimbabwean community 
+2.2. Conceptual Framework 
+2.2.1. Prevalence of Social Media Use and Mental Health Concerns 
+The digital landscape of adolescence is increasingly dominated by social media, with nearly 90% 
+of teenagers globally engaging on these platforms (UNICEF, 2022). In Zimbabwe, this trend holds 
+true, with 58% of young internet users actively participating on social media, primarily on Facebook 
+and WhatsApp (Moyo & Mpofu, 2019). This widespread adoption, however, raises concerns about 
+its potential impact on adolescent mental well-being. Social comparison theory, for instance, proposes 
+that exposure to curated online portrayals triggers feelings of inadequacy and depression, as 
+individuals compare their own lives to unrealistic ideals (Festinger, 1954; Bargh et al., 2006). Fear of 
+missing out (FOMO) further exacerbates anxieties, leading to the perception that others are 
+experiencing more fulfilling lives (Przybylski et al., 2013). Cyberbullying, a persistent threat in online 
+environments, directly contributes to mental health struggles, including anxiety and depression 
+(Hinduja & Patchin, 2018). Instagram usage has been linked to body image dissatisfaction, while 
+Facebook use is associated with increased social comparison and envy (Triggerman et al., 2016; 
+Weinstein & Przybylski, 2020). A growing body of research establishes a significant association 
+between increased social media use and depressive and anxious symptoms in adolescents 
+(Andreassen et al., 2016; Kauer et al., 2022). Loneliness and social isolation also correlate with 
+excessive social media engagement, highlighting the potential for platforms to paradoxically hinder 
+connections (Przybylski et al., 2013; Luhmann et al., 2022). Moreover, specific platforms seem to pose 
+distinct risks.). The impact of social media on mental health extends beyond mere correlation. Direct 
+effects include sleep disruption due to late-night scrolling, negatively impacting mood and cognitive 
+function (Hale & Zandstra, 2020). 
+The research by Twenge et al. (2019) confirmed that excessive social media use, particularly 
+comparison-driven platforms like Instagram, significantly correlates with increased depression and 
+anxiety, particularly among females. This was also corroborated by Dehaene et al. (2020) excessive 
+social media use results in addiction leading to emotional withdrawal, sleep disturbances, and 
+increased anxiety, In Nigeria, Nwanaji et al. (2023)’s study revealed that there is a high prevalence of 
+cyberbullying and its detrimental effects on victims' emotional well-being, leading to anxiety, 
+depression, and even suicidal ideation 
+This glimpse into studies across the globe underscores the universal nature of concerns 
+regarding social media and mental health, with each context playing its own unique tune. The 
+intricate interplay between social media, mental health, and individual vulnerabilities cannot be 
+overlooked. Pre-existing mental health conditions, socio-economic status, and family dynamics can 
+significantly influence the impact of social media use on adolescents (Liu et al., 2019). 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+2.3. Ways in Which Social Media Use Impacts on the Mental Health of Individuals 
+doi:10.20944/preprints202502.0860.v1
+5 of 14 
+One of the most significant concerns surrounding social media use is its potential to exacerbate 
+anxiety and depression. Studies consistently demonstrate a positive correlation between excessive 
+social media engagement and increased anxiety symptoms, particularly among adolescents and 
+young adults (O'Keeffe et al., 2018; Przybylski et al., 2014). Social media's impact on mental health 
+paints a complex picture. On the one hand, the curated highlight reels and constant comparisons on 
+platforms like Instagram can fuel anxiety and depression through FOMO (Przybylski et al., 2013), 
+feelings of inferiority (Hussain & Griffiths, 2016), and even cyberbullying (Hinduja & Patchin, 2018). 
+Scrolling through endless content replaces real-world interaction (Krach et al., 2017), superficial 
+online connections fail to fulfill needs for intimacy (Valkenburg & Peter, 2017), and witnessing others' 
+online lives can exacerbate feelings of isolation (Przybylski et al., 2013 
+It is crucial to acknowledge that the relationship between social media and mental health is not 
+unidirectional or deterministic. Individual vulnerabilities, pre-existing mental health conditions, and 
+coping mechanisms play a significant role in shaping how individuals experience the online world 
+(Andreassen et al., 2016). Studies suggest that platforms emphasizing social comparison and passive 
+content consumption, such as Instagram, may have a more detrimental impact than platforms 
+facilitating communication and active engagement, such as Twitter (Park et al., 2018). Similarly, 
+excessive passive scrolling and engagement with negative content have been linked to poorer mental 
+health outcomes, while mindful and purposeful social media use may have neutral or even positive 
+effects (Andreassen et al., 2016). 
+In Brazil, Oliveira et al. (2022)’s study on social media platforms impact on self-esteem among 
+adolescents highlighted that platform emphasizing physical appearance, like Instagram, can 
+negatively impact self-esteem, particularly for girls, while more communication-oriented platforms 
+like WhatsApp can have positive effects on social connection and well-being. Kuss and Griffiths 
+(2017) in the United Kingdom explored the link between social media use and depression in young 
+adults. Their findings highlight the role of passive scrolling and social comparison in fueling feelings 
+of inadequacy and loneliness, leading to increased depressive symptoms. 
+In Russia, Zaitseva et al. (2020), in Russia investigated the impact of cyberbullying on 
+adolescents' mental health. Their study reveals a worrying prevalence of cyberbullying and its 
+detrimental effects on emotional well-being, leading to anxiety, withdrawal, and even self-harm. 
+More so, in Japan, a study by Yano et al. (2022) explored the potential for social media to both 
+negatively and positively affect depression. Their findings suggest that while passive scrolling and 
+excessive engagement can exacerbate existing depressive symptoms, online communities and 
+supportive social interactions can play a protective role and contribute to recovery. In Botswana, 
+Olorunyomi et al. (2023) studied the relationship between social media addiction and mental health 
+among university students. Their research raises concerns about the prevalence of social media 
+addiction and its association with anxiety, depression, and sleep disturbances, highlighting the need 
+for interventions and awareness programs. 
+2.4. Interventions to help Improve Mental Health when Using Social Media 
+This review dives into existing research exploring interventions aimed at reducing social media 
+use and fostering resilience in young people 
+Psychological interventions are one approach that can be used that focuses on enhancing 
+adolescents' internal resources and coping mechanisms. Mindfulness training, as explored by Black 
+et al. (2015), has shown promise in reducing anxiety and depression symptoms associated with social 
+media use. By learning to focus on the present moment and non-judgmentally observe their thoughts 
+and feelings, adolescents can develop a healthier relationship with online platforms. Similarly, 
+cognitive behavioral therapy (CBT) programs tailored for social media addiction, as outlined by Kuss 
+and Griffiths (2017), equip adolescents with strategies to identify and challenge negative thought 
+patterns triggered by online content. These interventions empower young people to manage their 
+emotions and make informed choices regarding their online engagement. 
+Educational intervention is yet another avenue that focuses on empowering adolescents with 
+knowledge and critical thinking skills. Media literacy workshops, championed by Livingstone and 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+6 of 14 
+Helsper (2017), provide practical tools for discerning biased content, recognizing unrealistic 
+portrayals, and understanding the algorithms that shape online experiences. This awareness enables 
+adolescents to critically evaluate the information they encounter and make conscious decisions about 
+their online consumption habits. Additionally, awareness campaigns focusing on cyberbullying 
+prevention, such as Hinduja and Patchin's (2018) "StopBullying.gov" initiative, can foster responsible 
+online behavior and reduce the potential negative impacts of social media interactions. 
+The third is technological interventions where parental control tools, as investigated by Walsh 
+et al. (2019), allows parents to restrict access to certain websites and set time limits for social media 
+use. While concerns around autonomy exist, these tools can be helpful in setting healthy boundaries 
+and encouraging mindful engagement, particularly for younger adolescents. Similarly, time 
+management apps and phone usage trackers can empower adolescents to track their online activity 
+and set personal goals for reducing screen time. Additionally, promoting alternative activities and 
+hobbies encourages teenagers to engage in enriching experiences beyond the digital realm, fostering 
+real-world connections and contributing to overall well-being (Walsh et al. ,2019), In Taiwan, Chen 
+et al. (2022) employed an innovative approach, utilizing an "intelligent chatbot" to provide emotional 
+support and personalized advice to adolescents struggling with loneliness and social isolation related 
+to social media. Their study revealed remarkable results, with participants reporting decreased 
+loneliness, improved emotional well-being, and increased connection with others both online and 
+offline. 
+Schools stand on the frontlines, equipped with the power to shape young minds. Integrating 
+media literacy programs into curriculums is not just about technical skills; it empowers students to 
+think critically about online content, detect misinformation, and resist manipulation (Shah et al., 2020; 
+Livingstone et al., 2019). This awareness is crucial in combatting FOMO (fear of missing out) and the 
+anxiety fueled by comparing carefully curated online personas to one's own reality. In Jamaica, 
+Spence et al. (2021) implemented a school-based program called "TechSmartYouth" aimed at 
+promoting digital literacy and healthy online behavior among teenagers. Their research demonstrates 
+the program's success in raising awareness of cyberbullying, online privacy risks, and responsible 
+content creation, empowering students to navigate the digital world with safety and confidence. 
+To those already facing challenges integrating social media awareness into existing therapeutic 
+frameworks, therapists can tailor interventions to address anxieties, depression, and loneliness 
+rooted in digital interactions (Kuss & Griffiths, 2017). Early intervention and specialized support 
+become shields against cyberbullying and the emotional distress it inflicts (Hinduja & Patchin, 2018). 
+Tech companies, the architects of these digital worlds, hold immense power in shaping user 
+experiences. Implementing features and algorithms that nudge users towards responsible behavior 
+is a step in the right direction (Grance et al., 2019). 
+Mbewe et al. (2023), in Zamia, implemented a community-based intervention program 
+promoting traditional cultural practices as a source of resilience against social media-related mental 
+health challenges. Their research highlights the effectiveness of combining digital literacy education 
+with culturally relevant support systems, fostering a sense of belonging and identity that reduces 
+online anxieties and bolsters mental well-being. 
+This collaborative ecosystem, where schools educate, therapists heal, tech companies build with 
+responsibility, and policymakers set the guardrails, is not a utopian dream. It is a necessary approach 
+to ensure adolescents traverse the digital world with resilience and well-being. By working together, 
+we can empower them to navigate the social media maze, not with fear and anxiety, but with critical 
+thinking, mindful engagement, and a sense of connection that extends beyond the curated facades of 
+online profiles. The future of the digital world, and the mental health of future generations, depends 
+on it. 
+3. Methodology 
+The chapter presents the research approach, research design, population and sample, research 
+instruments, data collection, presentation and discussion. 
+3.1. Research Approach 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+7 of 14 
+The most suitable research approach for this study is qualitative approach. This was because the 
+study is aimed at identifying the impact of social media on the mental health of adolescents in 
+Hwange Urban area of Matabeleland North Province. A qualitative approach allows the researcher 
+to gather in-depth insights into the participants' experiences through methods such as interviews and 
+focus groups (Patton, 2020). A qualitative research approach is a research approach that seeks to 
+understand the meaning of people's experiences and the way they make sense of the world around 
+them (Creswell, 2020). It is based on the assumption that people's beliefs, values, and attitudes shape 
+their experiences, and that these can only be understood through their own words (Patton, 2018). The 
+qualitative research approach is most suitable for this study because it allows the researcher to gain 
+a deep understanding of the impact of social media on the mental health of adolescents Hwange 
+Urban of Matabeleland North Province (Creswell, 2020). This is important because the study is aimed 
+at developing strategies to address these challenges, Patton, 2018). 
+3.2. Research Design 
+Case study is the most suitable research design for this study because it allows the researcher to 
+focus on a single case, in this case Hwange Urban of Matabeleland North Province. Yin (2018) states 
+that a case study is an empirical inquiry that investigates a contemporary phenomenon within its 
+real-life context, especially when the boundaries between phenomenon and context are not clearly 
+evident. Merriam (2009) adds that a case study is an in-depth, holistic description and analysis of a 
+single unit (for example an individual, group, institution, The case study design allows the researcher 
+to explore the relationship between social media use and mental health problems in adolescents, 
+identify the specific ways in which social media use is impacting on the mental health of adolescents 
+in Hwange Urban and develop interventions to help adolescents reduce their social media use so as 
+to improve their mental health. 
+3.3. Population and Sample 
+The population of the study was 9,550 adolescents in Hwange Urban. (Zimbabwe National 
+Statistics Agency (ZIMSTAT), 2022). The purposive sampling was used to identify the sample. Data 
+saturation was used to collect the sample. 
+3.4. Research Instruments 
+The study used semi-structured interviews, focus group discussions. Semi-structured 
+interviews are a type of qualitative research in which the researcher asks a set of pre-determined 
+questions, but also allows for flexibility and follow-up questions. This allows the researcher to get a 
+more in-depth understanding of the participant's experiences and perspectives. The semi-structured 
+interviews were conducted on the two social workers, one councilor and the two counsellors. Focus 
+group discussions were used for triangulation of data collected 
+4. Study Findings 
+Social media's negative impact on adolescent mental health in Hwange Urban paints a 
+concerning picture, as revealed by the study and aligned with research from diverse contexts. 
+Participants described a range of negative experiences. including: 
+4.1. The Impact of Social Media on the Mental Health of Adolescents in Hwange Urban of Matabeleland 
+North Province 
+The section presented, analyzed and discussed the results on the questions designed to answer 
+questions on relationship between social media use and mental health problems in adolescents in 
+Hwange urban , how social media use impact the mental health of adolescents in Hwange District 
+and strategies adopted to help adolescents reduce their social media use so as to improve their mental 
+health. The sections were presented under sub-headings derived from the three research questions 
+of the study. 
+4.1.1. Relationship between Social Media Use and Mental Health in Hwange Adolescents 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+8 of 14 
+This section focused on examining the relationship between social media use and mental health 
+problems in adolescents. The participants were first asked to define social media and the following 
+were some of the responses obtained from the participants. 
+A1 and A9 stated: It is where we hang out online, connect with friends, share what's happening, 
+and discover new things. 
+SW 2 added: It is a powerful tool for communication and connection, but it can also have 
+negative impacts like negativity, isolation, and privacy concerns 
+C1 stated: It is a platform that connects people, used for self-expression and community 
+building, but it can also lead to comparison, unrealistic expectations, and anxiety. 
+The major theme emerging is more about how social media serves as a platform for various 
+forms of user interaction, engagement, and expression, with potential positive and negative 
+implications depending on the user's perspective and use. 
+The participants were further asked to define mental health. The following are some of the 
+responses given. 
+A1: It's like feeling good in my head and heart, handling stress, and hanging with friends 
+without freaking out. 
+A5: Being able to express myself, deal with emotions without drama, and not feel all stressed 
+and stuff. 
+A7: Feeling okay emotionally, handling school and stuff, and not letting negativity get me down. 
+SW1: Mental health is a complex mix of emotional, psychological, and social well-being. It 
+impacts how we think, feel, and react to life's challenges. 
+SW2: It's a spectrum, not just black and white. We all have ups and downs, but when it affects 
+daily life, that's where support comes in. 
+C1: Mental health is like a balance - managing emotions, healthy relationships, and coping with 
+stress to live your best life. 
+C2: It's about personal growth, self-awareness, and having the tools to handle life's curveballs 
+without letting them break you. 
+The findings reveal that "mental health" is well-being and the ability to navigate life effectively. 
+The participants were further probed to expose the social media platforms that they thought are 
+mainly used by the youth. The following are some of the responses provided by the participants. 
+A1:  TikTok is still trending! But honestly, WhatsApp is where it's at. Group chats with my 
+beasties, family updates, even school stuff goes down there. 
+A5: Snap chat is still fun for secret snaps and Shona slang with friends, but yeah, WhatsApp is 
+king. Sharing memes, jokes, and staying connected is way easier there. 
+A7: Discord for serious gaming talk, but for casual hangouts and sharing funny Zim stuff, 
+WhatsApp is the go-to app. We even have dedicated gaming groups there. 
+SW1: While platforms like TikTok and Instagram are gaining traction, WhatsApp is still the 
+undisputed champ in Zimbabwe. From family communication to business interactions, it's woven 
+into daily life. 
+SW2: Age and interests influence platform choices. Younger teens might prefer TikTok and Snap 
+chat, but WhatsApp transcends age groups and connects communities in unique ways. 
+C1: It's vital to remember that while platforms like TikTok and Instagram exist, WhatsApp's 
+dominance shouldn't be overshadowed. Consider potential privacy and misinformation concerns 
+associated with any platform. 
+C2: Individual preferences still matter. Some teens might be heavily invested in specific 
+platforms, but WhatsApp often serves as a central hub for communication and information exchange. 
+The major theme that emerges is the dominance of WhatsApp as the primary social media 
+platform for communication and connection among Zimbabwean youth, with other platforms 
+serving specific needs or catering to different age groups. 
+The participants were further probed to expose their experiences on the trends that they have 
+observed in the types of mental health issues. The following are some of the responses that obtained. 
+A1: Increasing pressure to fit in and comparisons due to unrealistic portrayals, leading to low 
+self-esteem and anxiety. 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+9 of 14 
+A5: Fear of missing out (FOMO) driven by constant updates and influencer lifestyles, impacting 
+mood and sleep. 
+A7: Cyberbullying and online harassment contributing to depression, isolation, and feelings of 
+worthlessness. 
+SW1: Growing anxiety around online reputation and "perfect" image curation, fueling body 
+image concerns and eating disorders. 
+SW2: Increased exposure to negative news and negativity online leading to feelings of 
+hopelessness and helplessness. 
+C1: Difficulty setting boundaries between online and offline life, blurring reality and 
+contributing to stress and anxiety. 
+C2: Rise in self-diagnosis based on online information, potentially delaying seeking professional 
+help for real concerns. 
+The findings from the responses reveal that the major theme emerging from these responses 
+regarding the mental health concerns of adolescents associated with social media use is the negative 
+impact of unrealistic expectations and social comparison on their emotional well-being. 
+Participants were further asked to explain how they saw specific social media platforms or 
+practice influencing the mental health of adolescents in Hwange Central. The following are some of 
+the responses provided by the participants. 
+A1: TikTok's dance challenges and influencer lifestyles make me feel like I'm not good enough, 
+stressing me out about fitting in. 
+A5: Snapchat's disappearing messages make me overthink everything, worrying if friends 
+secretly dislike my snaps. 
+A7: Online gaming on Discord is cool, but toxic comments and arguments sometimes make me 
+feel like quitting. 
+SW1: WhatsApp groups can be great for connection, but negativity and cyberbullying can 
+spread quickly, impacting everyone involved. 
+SW2: Instagram's perfect-body images make girls in Hwange feel bad about themselves, leading 
+to eating disorders and low self-esteem. 
+C1: Spending too much time on any platform, even Facebook, can isolate teens from real-life 
+interactions and impact their mental well-being. 
+C2: YouTube tutorials are helpful for learning, but unrealistic beauty standards and negativity 
+in comment sections can be harmful. 
+4.1.2. How Does Social Media Use Impact the Mental Health of Adolescents in Hwange Urban 
+It was the objective of the study to identify the specific ways in which social media use was 
+impacting on the mental health of adolescents in Ward 8 of Hwange Central Constituency. 
+Accordingly, the participants were first asked why they thought social media use impacted the 
+mental health of adolescents in specific ways. The following are some of the responses given by the 
+participants. 
+A1: It's all about comparisons and pressure. Seeing everyone's "perfect" lives online makes me 
+feel bad about myself and stressed about fitting in. 
+A5: The fear of missing out (FOMO) is real! Scrolling through endless updates makes me anxious 
+and worried I'm not having enough fun. 
+A7: Cyberbullying hurts, even through comments and games. It makes me feel isolated and like 
+I'm not good enough. 
+SW1: Social media can create unrealistic expectations and body image issues, especially with 
+heavily edited photos and influencer lifestyles. This can lead to depression and anxiety. 
+SW2: Constant negativity and exposure to bad news online can be overwhelming, fueling 
+feelings of hopelessness and helplessness in young people. 
+C1: Blurring the lines between online and offline life can be tricky. Teens struggle to unplug and 
+can get addicted to the instant gratification, impacting their real-life relationships and mental well
+being. 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+10 of 14 
+C2: Self-diagnosis and misinformation online can be dangerous. Teens might think they have a 
+condition based on what they see, delaying seeking professional help for real concerns. 
+The participants were further asked to provide concrete examples that they had encountered 
+where social media negatively affected adolescents' mental well-being. The following are some of the 
+responses provided. 
+A1: A student started skipping school after getting body-shamed in a viral TikTok comment 
+section. It led to anxiety and isolation. 
+A5: Constant friend group chats on WhatsApp fueled FOMO and anxiety about not being 
+invited to events, impacting sleep and mood. 
+A7: Excessive gaming on Discord led to cyberbullying and toxic arguments, leaving a student 
+feeling worthless and withdrawn. 
+SW1: A group chat on WhatsApp turned negative quickly, spreading rumors and causing 
+emotional distress among several students. 
+SW2: An Instagram page promoting unrealistic beauty standards fueled eating disorders and 
+low self-esteem in multiple girls. 
+C1: Teenagers addicted to Facebook neglected hobbies and real-life interactions, leading to 
+feelings of loneliness and depression. 
+C2: Misinformation about self-diagnosis on YouTube led a student to believe they had a serious 
+illness, delaying professional help. 
+4.1.3. Strategies to Help Adolescents Reduce Their Social Media Use so as to Improve Their Mental 
+Health 
+The last objective of the study was to develop interventions to help adolescents reduce their 
+social media use so as to improve their mental health. Accordingly, the participants were first asked 
+‘How can we effectively encourage adolescents to reduce their social media use and focus more on 
+their mental health?’ The following are some of the responses given by the participants. 
+A1: Have honest conversations about online pressures and comparisons, normalizing struggles 
+and offering support. 
+A5: Promote fun hobbies, sports, or volunteering to disconnect and build real-life connections. 
+A7: Encourage designated times and spaces free from devices, promoting mindfulness and 
+relaxation. 
+SW1: Teach critical thinking skills to evaluate online content and navigate social media 
+responsibly. 
+SW2: Support initiatives creating safe and uplifting online communities with positive role 
+models. 
+C1: Equip teens with coping mechanisms for handling online negativity and managing 
+cyberbullying. 
+C2: Facilitate peer support groups where teens can share experiences, find empathy, and build 
+resilience. 
+Several of the responses revealed the importance of having honest conversations about online 
+pressures and comparisons, promoting fun hobbies and activities that help adolescents disconnect 
+from social media, and creating safe and supportive online communities. 
+The participants were further probed ‘What community-based initiatives or educational 
+programs do you think could be implemented to address the potential negative impacts of social 
+media on adolescent mental health?’ 
+A1:  Interactive sessions debunking unrealistic portrayals, teaching critical thinking, and 
+promoting healthy online habits. 
+A2: Peer-led initiatives raising awareness, creating reporting pathways, and promoting empathy 
+and respect online. 
+A6: Organized periods of disconnection with guided activities promoting real-life interaction 
+and mindfulness. 
+S W 1: Safe spaces offering supervised internet access, digital literacy training, and mental health 
+support. 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+11 of 14 
+SW2: Educating parents about online risks, communication strategies, and supporting healthy 
+technology use for their children. More equipping community members to identify signs of distress 
+and connect young people with professional help can be great help. 
+C1: Providing a safe space for teens to discuss online pressures, build coping mechanisms, and 
+access individual support. 
+C2: Creative outlets to express emotions, process online experiences, and build self-esteem in a 
+supportive environment. 
+The responses revealed the importance of providing safe spaces for teens to discuss online 
+pressures, building coping mechanisms, and accessing mental health support. Others highlighted the 
+importance of educating parents and community members about the risks of social media and how 
+to support young people in using technology safely and healthily 
+5. Summary of Findings, Conclusions and Recommendations 
+This section puts the findings against research objectives to assess how much have been fulfilled. 
+The study focused on investigating the negative impacts of social media on the mental health of 
+adolescents and also identified coping mechanisms that can be employed in the face of identified 
+challenges. 
+5.1. How Does Social Media Use Impact the Mental Health of Adolescents in Hwange District 
+Social media's negative impact on adolescent mental health in Hwange Central paints a 
+concerning picture, as revealed by the study and aligned with research from diverse contexts. 
+Participants described a range of negative experiences, including: 
+• Feeling inadequate and anxious due to social comparison: This aligns with studies by Bardari et 
+al. (2022) and Primack et al. (2020), finding links between social media use and lower self-esteem, 
+body image dissatisfaction, and increased social comparison and anxiety in young people. 
+Constant exposure to seemingly perfect online lives can lead to feelings of inadequacy and low 
+self-esteem. 
+• FOMO (fear of missing out) driven by constant updates: This, along with exposure to negative 
+online content, was linked to negative impacts on mood, sleep, and feelings of hopelessness. 
+Studies by Orben et al. (2023) and Lin et al. (2021) support these findings, demonstrating 
+correlations between increased social media use and higher FOMO, depression symptoms, 
+anxiety, and decreased life satisfaction. 
+• Cyberbullying and online harassment: These contributed to depression, isolation, and feelings of 
+worthlessness, aligning with research by Kowalski et al. (2022) and Hinduja & Patchin (2023) 
+showing higher rates of depression, anxiety, suicidal ideation, and emotional distress among 
+cyberbullying victims. 
+• Blurred online-offline boundaries: This, caused by difficulty setting boundaries between online 
+and real life, led to stress and anxiety. Studies by Przybylski et al. (2021) and Kross et al. (2018) 
+support this, demonstrating associations between problematic social media use and decreased 
+sleep quality, increased loneliness, and decreased well-being. 
+While the study focused on Hwange Urban, it aligns with broader research findings, 
+highlighting the multifaceted negative impact of social media on adolescent mental health. However, 
+the research also suggests potential mitigating factors: 
+5.2. Strategies to Reduce Mental Health Issues 
+While social media can offer some positive aspects for adolescents, it's crucial to acknowledge 
+its potential for negative impacts on their mental health. Addressing these concerns requires a multi
+faceted approach, including promoting responsible social media use, open communication, and 
+potentially implementing parental mediation strategies. Building on the concerning aspects of social 
+media use for adolescents, the study aimed to develop interventions to improve their mental well
+being. The findings suggest a multi-pronged approach: 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+12 of 14 
+First and far most open communication and support to the youth is very important. The study 
+emphasizes the importance of open conversations between adolescents and adults about online 
+pressures and comparisons. This aligns with research by Moreno et al. (2020) and Callad et al. (2021), 
+showing that open communication with parents about online risks and experiences can lead to lower 
+depression, anxiety, and cyberbullying victimization. By normalizing struggles and offering support, 
+adults can create a safe space for adolescents to navigate the complexities of social media. 
+Promoting healthy habits among the youth on the use of social media is very important. The 
+study suggests promoting alternative activities like hobbies, sports, and disconnecting from social 
+media to improve mental health. This aligns with research by Twenge et al. (2018) and Walsh et al. 
+(2020), indicating that increased social media use and decreased engagement in other activities like 
+sports and outdoor activities are associated with higher depressive symptoms and lower well-being 
+in adolescents. Encouraging healthy alternatives can help adolescents find balance and reduce 
+reliance on potentially harmful aspects of social media. 
+The idea of adolescents’ empowerment plays a crucial role in reducing the social ills of social 
+media. The participants emphasized the importance of equipping teens with critical thinking skills, 
+fostering safe online communities, and providing them with coping mechanisms for cyberbullying. 
+This aligns with research by Park et al. (2018) and Hinduja & Patchin (2023), demonstrating that 
+higher media literacy skills and interventions teaching cyberbullying prevention skills can lead to 
+lower loneliness, social anxiety, and cyberbullying experiences, ultimately improving mental health 
+in adolescents. 
+Creating safe spaces and support systems for the youth in Hwange urban is yet another solution 
+to the impact of social media on the metal health of the youth. The findings highlight the need for 
+safe spaces where teens can discuss online pressures, access mental health support, and build coping 
+mechanisms. This aligns with studies by Whitlock et al. (2021) and Khoury et al. (2020), showing that 
+peer support groups and school-based mental health resources can significantly improve mental 
+health outcomes for adolescents struggling with social media-related issues. Providing access to these 
+resources can equip them with the tools to navigate challenges and build resilience. 
+Educating Parents and Communities is one of the most important ways of addressing the mental 
+health of the youth emanating from the misuse of social media. Finally, the participants stressed the 
+importance of educating parents and community members about online risks and healthy technology 
+use. This aligns with research by Livingstone et al. (2017) and Lenhart et al. (2023), demonstrating 
+that parental involvement in technology use and parental monitoring can mitigate the negative 
+effects of social media and reduce cyberbullying victimization in adolescents. By empowering 
+parents and communities, a broader support system can be established to guide adolescents towards 
+responsible and safe technology use. 
+While social media can offer some positive aspects for adolescents, it's crucial to address its 
+potential negative impacts through a multi-faceted approach. This includes promoting open 
+communication, healthy habits, critical thinking skills, and safe online communities, alongside 
+providing access to mental health support and educating parents and communities. By working 
+together, we can create a safer and healthier online environment for adolescents 
+4.3. Recommendations 
+• The Ministry of Primary and Secondary Education in collaboration with the Hwange Local 
+Education Authority should integrate media literacy and critical thinking skills into the 
+Hwange school curriculum to empower responsible online engagement among adolescents. 
+• Hwange Ministry of Health and Child Care, collaborating with NGOs like UNICEF and Plan 
+International Zimbabwe should encourage parents and caregivers to engage in open dialogue 
+about adolescents' online experiences to build trust and offer early intervention when needed. 
+• Collaboration between Hwange District Council, Ministry of Youth, Sport, Arts and 
+Recreation, and NGOs like Child line Zimbabwe and the Zimbabwe National Council for the 
+Welfare of Children (ZNCWC) should develop and implement targeted interventions like anti
+bullying programs and online safety workshops in Hwange communities and schools. 
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 12 February 2025
+doi:10.20944/preprints202502.0860.v1
+13 of 14 
+• The study further recommends that a longitudinal study be conducted tracking adolescents in 
+Hwange to quantify the impact of implementing the recommended interventions on their social 
+media use and mental health over time. This would provide valuable data on the effectiveness of 
+these strategies in the specific context of Hwange.

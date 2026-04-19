@@ -1,0 +1,275 @@
+Teenagers in the New Media Era: The Dual Dilemma of Sleep
+and Anxiety
+Xiyue Liu
+School of Literature and Journalism, Hubei Engineering University, Xiaogan, China
+Lucia520510@outlook.com
+Abstract. With the popularization of digital technology and the rapid development of mobile
+Internet technology, new media has become an important part of teenagers' daily lives.
+Social media is becoming the core platform for them to obtain information and engage in
+social interaction. This study focuses on the adolescent group and systematically explores
+the influence mechanism of new media content and dissemination methods on their sleep
+quality and anxiety. Research has found that the impact of new media on the mental health
+of teenagers exhibited a multi-path characteristic: new media intensifies teenager’s’
+catastrophic cognition through the information cocoon effect and big data push, triggers a
+crisis of social confidence through social comparison, and disrupts sleep rhythms by altering
+their circadian rhythms. It is inducing the magnification of appearance anxiety and other
+factors that exacerbate the anxiety of teenagers. The research finally puts forward targeted
+suggestions from multiple aspects such as individuals, families and schools, providing
+theoretical references for improving the mental health status of teenagers.
+Keywords: New media, teenager, sleep quality, anxiety
+1.  Introduction
+Teenagers around the world are undergoing profound changes brought about by digital technology.
+According to the 2024 Report on Chinese Adolescents' Internet Usage by Beijing Normal
+University: By 2024, Internet users aged 10 to 19 accounted for 13.6% of global Internet users, with
+their average daily online time exceeding three hours. Among them, social media, short-video
+platforms and instant messaging tools are the: teenagers primarily use social media short-video
+platforms and instant messaging tools. New media profoundly influences the cognitive patterns and
+emotional regulation of teenagers through personalized algorithms, immersive interaction design
+and virtual identity construction. However, this technological empowerment comes with significant
+risks: According to data from the World Health Organization (WHO), 28% of teenagers worldwide
+suffer from sleep disorders, among which 43% report moderate to severe anxiety symptoms. The
+popularization of new media highly coincides with the high incidence of mental health problems
+among teenagers in terms of time. This study aims to reveal how new media content and
+dissemination methods affect sleep and anxiety through cognitive and behavioral pathways, such as
+information cocoons, erosion of social confidence, and the spread of bad behaviors.
+©	2026	The	Authors.	This	is	an	open	access	article	distributed	under	the	terms	of	the	Creative	Commons	Attribution	License	4.0
+(https://creativecommons.org/licenses/by/4.0/).
+76
+Proceeding	of	ICIHCS	2025	Symposium:	Integration	&	Boundaries:	Humanities/Arts,	Technology	and	Communication
+DOI:	10.54254/2753-7064/2025.KM29111
+2.  Core concept definition
+2.1.  The definition and characteristics of new media
+New media is a concept that differs from traditional media such as newspapers, radio and television.
+It refers to a form of communication that relies on digital technology, network technology and
+mobile communication technology, and provides information and entertainment services to users
+through channels such as the Internet, wireless communication networks and satellites, with
+terminals such as computers, mobile phones and tablets as the carriers [1].
+Its core functions include personalized recommendation, achieving precise content delivery
+through user profiling, such as the "For You" page of Tik Tok [2]. Multimodal interaction,
+integrating short videos, live streaming, and virtual reality (VR), enhances immersive experiences
+[3].
+With the deep integration of new media into daily life, its implicit and explicit impacts on
+individuals' physical and mental health are continuously drawing attention from both the academic
+community and society. Teenagers, as the most active group in using new media, are in a critical
+period of physical and psychological development. Their sleep quality, emotional state and other
+aspects, influenced by the unique mechanism of new media, have become important topics for in
+depth analysis.
+2.2.  Measurement of anxiety disorders and sleep quality
+Anxiety levels and sleep quality are important indicators reflecting the physical and mental health of
+adolescents.
+Anxiety disorder is a group of mental disorders characterized by mental health conditions marked
+by persistent worry as the main clinical manifestation. Adolescent anxiety disorder is age specific. It
+is often manifested as excessive worry about studies, social interactions, appearance and other
+aspects [4]. Unlike situational anxiety, pathological anxiety is characterized by persistence (lasting
+for more than six months), a sense of loss of control (unable to be relieved through self-regulation),
+and functional damage (affecting study, life and interpersonal communication). Common types of
+anxiety among teenagers include social anxiety disorder (fear of being evaluated), generalized
+anxiety disorder (excessive worry about multiple things), and specific phobias (such as fear of facial
+defects).
+Sleep quality refers to the effectiveness and satisfaction of the sleep process, including
+dimensions such as time to fall asleep, sleep duration, sleep continuity and sleep depth [5].
+Teenagers (aged 13 to 19) need 8 to 10 hours of sleep every day. Poor sleep quality can lead to
+problems such as inattention, large mood swings, and weakened immunity. The measurement
+indicators include sleep latency (more than 30 minutes is abnormal), the number of awakenings at
+night (more than 2 times is abnormal), and sleep efficiency (less than 85% is abnormal). Studies
+have shown that insufficient sleep (<7 hours per day) increases the risk of anxiety by 2.3 times [2].
+3.  The impact of new media on the sleep quality of teenagers
+3.1.  Disorder of physiological rhythms
+The blue light emitted by new media devices (such as. mobile phones and tablets) can inhibit the
+secretion of melatonin, which is a key hormone regulating the sleep-wake cycle. A follow-up study
+on teenagers aged 15 to 18, Among the 200 adolescent participants in the study, the male-to-female
+77
+Proceeding	of	ICIHCS	2025	Symposium:	Integration	&	Boundaries:	Humanities/Arts,	Technology	and	Communication
+DOI:	10.54254/2753-7064/2025.KM29111
+ratio was 1:1. The result shows that teenagers who use their mobile phones one hour before going to
+bed secrete 37% less melatonin than those who do not. The average delay in falling asleep for them
+is 48 minutes [6]. For instance, many teenagers are accustomed to watching short videos before
+going to bed. The continuous blue light from the screen stimulates the retina, causing the brain to
+misinterpret cues as indicators of daytime. and thus, disrupting the biological clock. In addition, the
+"emotional awakening" effect of new media content intensifies physical excitement. Violent games,
+thrilling short videos and other stimulating content can increase the heart rate and cortisol (stress
+hormone) levels of teenagers. Even if it is stopped, it still takes several hours for teenagers to return
+to a relaxed physiological state and prolong the latency to sleep [7].
+3.2.  The disruption of sleep continuity caused by information overload
+Stimulating content recommended by algorithms (such as violence, sex, disaster news) can cause
+cognitive excitement in teenagers, making it difficult for them to fall into slow-wave sleep or REM
+stages. The "immediality" and "unlimited content flow" design of new media have led teenagers to
+"passively stay up late". For instance, the "pull-down refresh" feature of short-video platforms and
+the "continuous attraction" recommended by algorithms make teenagers keep using them under the
+psychological suggestion of "watch the last one", directly reducing their sleep time. In addition,
+nighttime message notifications disrupt sleep continuity. To maintain social connections, teenagers
+often set their mobile phones to "never mute" mode. At night, message alerts from social apps like
+WeChat and QQ frequently disrupt their deep sleep. Studies have found that teenagers who
+frequently check their mobile phone messages at night have 2.3 times more nocturnal awakenings
+than those who do not check, and this fragmented sleep can seriously reduce sleep quality [8].
+3.3.  A comparative analysis of previous empirical research designs
+From the perspective of the selection of research subjects, the international academic community
+pays more attention to the representativeness and heterogeneity of the samples. The transnational
+study covered 87,000 adolescents aged 11-19 in 15 countries in Europe, North America and East
+Asia [9]. Through three-dimensional stratified sampling of family income, parents' educational level
+and urban-rural attributes, the moderating role of SES in media use and sleep quality and new media
+usage on sleep was discovered: Teenagers with low SES, due to the lack of family guidance on
+"digital boundary management", such as parental regulation over nighttime screen use. They use
+their mobile phones 2.1 times more frequently before going to bed than those with high SES, and the
+incidence of sleep disorders is 37% higher. This study overcome through the limitation of a single
+nation sampling and revealed the moderating effect of the social environment on the relationship
+between new media and sleep.
+Chinese research, focuses more on the particularity of local educational scenarios. One prior
+study conducted a comparison between Chinese teenagers in the compulsory education stage (grades
+7-9) and those in the high school stage (grades 10-12) [10]. A sample size of 3,200 people (58%
+junior high school students and 42% senior high school students) was found to have developed a
+"compensatory usage" pattern among senior high school students due to the pressure of further
+education. Although the average daily usage duration (2.1 hours) was lower than that of junior high
+school students (2.8 hours), the "obsession degree" of using it before going to bed (such as the self
+reported proportion of "unable to fall asleep without using the phone") was significantly higher
+(62% vs 41%), and the negative correlation between sleep efficiency and usage duration was
+78
+Proceeding	of	ICIHCS	2025	Symposium:	Integration	&	Boundaries:	Humanities/Arts,	Technology	and	Communication
+DOI:	10.54254/2753-7064/2025.KM29111
+stronger (r=-0.43 vs -0.31). This discovery echoes the "stress-media dependence" theory, which
+suggests that academic pressure may intensify the disruptive effect of new media on sleep.
+Both international and Chinese studies have confirmed that new media use has a significant
+negative impact on adolescents' sleep, social environmental and individual stress factors. Such as
+socioeconomic status and academic pressure will strengthen this association. However, both share
+common limitations, including inadequate sample coverage, insufficient verification of causal
+relationships, and a lack of long-term tracking data.
+4.  The influence of new media on the anxiety level of teenagers
+4.1.  Information cocoon and the solidification of disaster-oriented thinking
+New media algorithms push homogeneous content through user profiling, forming an "information
+cocoon”. The algorithm achieves invisible manipulation of cognition through selective push, which
+is essentially a form of "mental manipulation”. It takes advantage of teenagers' curiosity and sense
+of unease to repeatedly reinforce specific viewpoints, causing them to lose their independent
+judgment ability and fall into the cognitive framework set by the algorithm. Some teenagers, due to
+frequently coming across the term "infidelity in love", firmly believe that everyone will be betrayed,
+thus developing a fear of love and feeling anxious and uneasy in it. Teenagers who have been
+exposed to disaster news for a long time will worry that constantly fear for their family members’
+safety . Even if they come home a little late, they will become overly anxious and their emotions
+will break down. This mechanism distorts teenagers' judgment of risk probability by repeatedly
+presenting negative cases, magnifying low-probability events as "inevitable" disasters [11]. The
+above phenomena may lead to an increase in the anxiety levels of teenagers.
+4.2.  Erosion of social confidence
+For introverts: Introverted teenagers are usually passive and sensitive in real social interactions,
+while the anonymity and delayed response functions on social media make it easier for them to
+express themselves. However, for a long time, the textual embellishment, the assistance of
+emoticons and the "think twice before you act" responses in online communication have made them
+unable to adapt in face-to-face communication and even more self-conscious. Teenagers who spend
+more than 20 hours a week on online socializing are 3.1 times more likely to experience anxiety
+symptoms such as incoherent speech and avoiding eye contact in real social interactions than
+ordinary teenagers.
+For extroverts, social anxiety is more common: Although extroverted teenagers are passionate
+about socializing, the "performative" nature of social media can exacerbate their anxiety. They need
+to maintain a "popular" image (such as high likes and many comments) and constantly compare
+themselves with others' "perfect lives". A study of Instagram users, Among the 350 13- to 17-year
+old adolescent samples participating in the study, the ratio of male to female was 52% to 48%. The
+study found that the proportion of extroverted teenagers experiencing anxiety due to the fear of "no
+attention on their posts" reached 68%, significantly higher than that of introverts [12].
+4.3.  Appearance anxiety and body shape anxiety
+Social media has constructed single aesthetic standards. through filters, photo editing tools and the
+effect of Internet celebrities. After teenagers repeatedly encounter these ideal figures, they will
+internalize these idealized body image as the standards for self-evaluation and become dissatisfied
+79
+Proceeding	of	ICIHCS	2025	Symposium:	Integration	&	Boundaries:	Humanities/Arts,	Technology	and	Communication
+DOI:	10.54254/2753-7064/2025.KM29111
+with their own appearance and figure. On social media, when they post their own videos or photos
+on Tik, Tok or Instagram, the evaluations of others can also affect their perception of themselves,
+causing anxiety and a lack of confidence. Some junior high school students imitate the "fasting
+weight loss method" of Internet celebrities, which leads to adverse effects such as malnutrition,
+sleep disorders and menstrual irregularities.
+Anxiety further drives some irrational behaviors: Some. teenagers, to become more beautiful
+quickly, choose unregulated medical aesthetic procedures (such as injecting illegal hyaluronic acid),
+which result in facial infections. Some others devote too much energy to "becoming beautiful",
+neglecting their studies and academic responsibilities and extracurricular pursuits. When their
+appearance fails to meet expectations, they fall into deeper self-denial.
+4.4.  Imitation of bad behavior and secondary anxiety
+Some parents and schools adopt a one-size-fits-all ban strategy towards new media content, such as
+strictly prohibiting access to sex education content and deleting social media apps. Moreover,
+teenagers in their rebellious period are thus aroused with an even stronger sense of curiosity. The
+anonymity, immediacy and easy accessibility of new media have made it a "grey channel" for some
+teenagers to release their anxiety. Moreover, this kind of release is essentially a case of short-term
+relief strategy that proves counterproductive. Instead, it will intensify anxiety through psychological
+backlash and further deteriorate sleep quality. The algorithmic push of pornographic content and the
+dissemination of distorted knowledge are typical traps of "anxiety transfer". Some teenagers, after
+experiencing anxiety due to academic pressure and social setbacks, will search for pornographic
+content through new media. The algorithm of the platform will continuously push explicit
+information based on the browsing records, forming a cycle of "browsing - brief pleasure - deeper
+emptiness". What is even more dangerous is that non-scientific sexual knowledge on new media
+(such as "sexual conquest proves charm") can distort their perception. Some teenagers imitate the
+behaviors in vulgar content to prove their self-worth, which leads to emotional disputes or
+unexpected consequences. This sense of "behavior-consequence" loss of control can cause their
+anxiety levels to rise sharply. When browsing such content at night, not only does blue light inhibit
+the secretion of melatonin, but the interweaving of psychological shame and excitement also
+prolongs the latency to sleep and may even lead to frequent awakenings at night. Cyberbullying is
+another distorted form of "aggressive release". The anxiety that teenagers accumulate in reality
+(such as being isolated and lagging behind in academic performance) can be transformed into
+attacks on others through the anonymous environment of new media. They will quickly cause harm
+through behaviors such as real-time on-screen messages (also known as “danmu”), sending private
+messages to abuse, and editing pictures to spread rumors, taking advantage of the platform's
+immediate interactivity. What is more serious is that the "digital traces" of bullying behavior (such
+as chat records and screenshots) may become a long-term threat. This sense of worry about being
+exposed at any time can transform anxiety from a "temporary release" to a "chronic distress". This
+further leads teenagers into a vicious cycle of "staying up late to check the traces on their phones 
+worse sleep – symptoms such as restlessness, Irritability, or sleep disturbances". These teenagers
+involved in cyberbullying may either be anxious for fear of retaliation or have moral anxiety for
+harming others [13].
+80
+Proceeding	of	ICIHCS	2025	Symposium:	Integration	&	Boundaries:	Humanities/Arts,	Technology	and	Communication
+DOI:	10.54254/2753-7064/2025.KM29111
+4.5.  A comparative analysis of previous empirical research designs
+International research shows a diverse differentiation in the application of theoretical frameworks
+[14]. A meta-analysis based on the "Social Comparison Theory" (including 53 studies with a sample
+size of 23,000 people) found that the intensity of the association between social media use and
+adolescent anxiety varies depending on the direction of comparison: The effect size of the upward
+comparison (compared with the superior ones) (r=0.38) was significantly higher than that of the
+downward comparison (r=0.09), and the frequency of the upward comparison among female
+adolescents was 1.7 times that of male adolescents, which partly explains the gender difference in
+anxiety. This study, through subgroup analysis, refined the boundaries of the role of social
+comparison in different groups.
+Chinese research, focuses more on the interaction between "face anxiety" in the context of local
+culture. In this study, the local culture is mainly manifested as the collectivist tendency and social
+mobility psychology unique to China. Collectivism makes people pay more attention to group
+evaluations in social interactions. Online feedback such as the number of likes is prone to cause
+anxiety. The strong desire of rural teenagers for "upward mobility" in the context of urban and rural
+areas makes them more sensitive to the "display gap" of online life. These cultural traits profoundly
+influence their psychological responses in new media interaction. One study based on the
+"Impression Management Theory", selected 1,380 adolescents (covering both urban and rural areas)
+and found that the predictive effect of "likes on Moments" on anxiety was more significant in groups
+with a strong collectivist tendency (β=0.32 vs 0.18) [15]. Moreover, rural teenagers have a stronger
+desire for upward mobility and are more sensitive to the "online display gap" (on a five-point self
+reported anxiety scale, with a difference in anxiety scores of 1.2 out of 5). This discovery combines
+the Western theoretical framework with local cultural variables, expanding the applicability of the
+theory.
+5.  Discussion and suggestions
+5.1.  Research findings and discussions
+This study confirms the impact of new media on the sleep quality and anxiety of teenagers. Its
+influence does not refer to through a single channel. Instead, it functions through multiple pathways
+such as the physiological level (blue light from the screen), the psychological level (information
+cocoon), and the social level (social comparison). Furthermore, improper control may exacerbate the
+problem. Simple prohibitions or excessive control by parents can cause rebellious psychology in
+teenagers. This turns them to covert use (playing with their mobile phones under the covers),
+increasing the risk of exposure to inappropriate content and affecting their sleep quality.
+5.2.  Targeted suggestions
+Teenagers should learn to identify the information cocoon, take the initiative to get in touch with
+diverse information, discuss with friends and family around them, and not let their thinking become
+rigid. They need to enhance their social skills through discussion and communication, become more
+positive and confident, and replace the use of social media with exercise and meditation. Parents
+should not avoid excessive control either. They can spend more time with their children and reduce
+teenagers’ reliance on new media. In response to their doubts during their growth, provide
+reasonable and correct suggestions. Effectively popularize sexual knowledge and prevent children
+81
+Proceeding	of	ICIHCS	2025	Symposium:	Integration	&	Boundaries:	Humanities/Arts,	Technology	and	Communication
+DOI:	10.54254/2753-7064/2025.KM29111
+from learning related knowledge through bad websites. Schools should offer relevant media literacy
+courses to teach students to view new media content critically, combat inappropriate information
+such as cyberbullying, and guide teenagers to develop diverse, open and reasonable thinking.
+Schools can set up psychological counseling rooms and offer group counseling sessions to address
+anxiety caused by new media, such as social skills training and stress management courses. Schools
+can also organize offline activities (such as sports meets and club activities) to provide teenagers
+with real social opportunities and reduce their reliance on virtual socializing.
+6.  Conclusion
+The influence of new media on the sleep quality and anxiety of teenagers is complex: The
+information cocoon constructed by algorithms solidifies catastrophic thinking, and social media
+weakens the confidence in social media in reality. Appropriate control by parents can lead to
+irrational behavior and intensify rebellious imitation. These influences are not uncontrollable but can
+be mitigated through the joint efforts of teenagers themselves, their families, schools and society.
+Through continuous attention and intervention, it is expected to build a healthier new media
+environment and promote the physical and mental health development of teenagers.

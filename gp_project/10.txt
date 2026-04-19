@@ -1,0 +1,2297 @@
+Social media is harming 
+adolescents at a scale large 
+enough to cause changes 
+at the population level
+Jonathan Haidt
+Stern School of Business, New York University
+Zachary Rausch
+Stern School of Business, New York University
+We thank Anum Aslam, Nikolaus Greb, Jacob Lebwohl, Carmen Hui Jing Lim,  
+Mckenzie Love, Jason Lu, Alec McClean, Emma Park, Bennett Sippel, David Stein, 
+Richard Layard, Barry Grimes, Mariano Rojas, the full editorial team for the  
+World Happiness Report, and the several anonymous reviewers who provided 
+invaluable feedback on early versions of the draft.
+doi.org/10.18724/WHR-G490-BG86
+This version was last updated on 11 March 2026. Please see worldhappiness.report for the latest data.
+So where do  
+digital media  
+products fall on  
+this spectrum?  
+Are they more  
+like bicycles  
+or guns?
+World Happiness Report 2026
+Key Insights
+Is social media use reasonably safe for children and adolescents?  
+We call this the “product safety question”, and we present seven  
+lines of evidence showing that the answer is no.
+The evidence of harm is found in: 1) surveys of young people;  
+2) surveys of parents, teachers, and clinicians; 3) contents from  
+corporate documents; 4) findings from cross-sectional studies;  
+5) findings from longitudinal studies; 6) findings from social media 
+reduction experiments; and 7) findings from natural experiments. 
+We show there is now overwhelming evidence of severe and  
+widespread direct harms (such as sextortion and cyberbullying), and 
+compelling evidence of troubling indirect harms (such as depression 
+and anxiety). Furthermore, we show that the harms and risks to  
+individual users are so diverse and vast in scope that they justify the 
+view that social media is causing harm at a population level. 
+We further argue that when these lines of evidence are considered 
+alongside the timing, scope, and cross-national trends in adolescent 
+wellbeing and mental health, they can help answer a second question: 
+was the rapid adoption of always-available social media by adolescents 
+in the early 2010s a substantial contributor to the population-level 
+increases in mental illness that emerged by the mid 2010s in many 
+Western nations? We call this the “historical trends question”. We 
+draw on our findings about the vast scale of harm uncovered while 
+answering the product safety question to argue that the answer to 
+the historical trends question is “yes”.
+69
+World Happiness Report 2026
+Introduction
+In this essay, we address an academic debate 
+whose resolution carries enormous implications 
+for public policy, legal liability, and parental 
+decision-making: is social media safe for  
+adolescents? By “safe” we mean a product  
+whose ordinary use does not place young users  
+at substantially elevated risk of mental health 
+problems (especially depression and anxiety)  
+or regularly expose them to serious direct harms. 
+The average US teen now spends nearly five 
+hours per day on social media (which includes 
+roughly 2 hours on YouTube, 1.5 hours on TikTok, 
+and 1 hour on Instagram).1 A recent survey found 
+that one-quarter of 13- to 14-year-olds in the US 
+were on social media for seven or more hours 
+each day.2 While time spent varies across coun
+tries (see Chapter 5), five hours per day can be 
+considered ordinary common use, and even seven 
+is not unusual. Are these levels safe? We refer to 
+this as “the product safety question”.
+By “adolescence” we mean the broad develop
+mental period from roughly ages 10 to 19.3 Puberty 
+occurs in the first part of adolescence, usually 
+beginning around ages 9 to 11 and reaching 
+completion for most adolescents by age 15 or 16. 
+Puberty is of special interest because it is well 
+known as a period of very high brain plasticity.  
+It is a “sensitive period” in which environmental 
+factors and repeated experiences (such as  
+watching very short videos for many hours each 
+day) are especially likely to alter neuronal growth, 
+pruning, and myelination.4 
+By “social media” we mean platforms that include 
+user profiles, user-generated content, networking, 
+interactivity, and (in most cases) algorithmically 
+curated content. Platforms such as Facebook, 
+Instagram, Reddit, Snapchat, TikTok, X, and 
+YouTube all share these features.5 This means 
+that ordinary use includes interacting with  
+anonymous adult strangers.
+Photo Aisvri on Unsplash
+70
+World Happiness Report 2026
+Social media use can harm adolescents in many 
+ways. Direct harms include exposing them to 
+videos of graphic pornography and real-life 
+violence, facilitating cyberbullying and deepfakes, 
+promoting dangerous “challenges”, connecting 
+them with sexual predators, and facilitating the 
+purchase of illegal drugs. As far as we know, no 
+researchers challenge the claim that millions of 
+adolescents around the world experience these 
+harms every year on the major platforms.6 These 
+experiences are so common that they should also 
+count as ordinary use.
+But social media use can also harm adolescents 
+indirectly, by gradually making them more  
+anxious and depressed, or more prone to  
+self-harm and eating disorders.7 These mental 
+health outcomes have garnered the largest  
+body of research and are at the centre of the 
+f
+iercest scientific debate. Therefore, in evidence 
+lines four to seven we will focus on the indirect 
+harms and, in particular, elevated risks of  
+depression and anxiety from heavy use of  
+social media (five or more hours per day) over  
+an extended period of time. These harms are 
+often found to be more substantial for girls.  
+But our larger argument about the product  
+safety question is about the totality of harms –  
+direct and indirect, to boys as well as girls.  
+Are these harms happening at a scale large 
+enough to change population-level measures  
+of mental health?
+The historical trends question
+There is a different but related question often 
+asked about social media: was the spread of 
+social media in the early 2010s (as smartphones 
+were widely adopted) a major contributing cause 
+of the big increases in adolescent depression, 
+anxiety, and self-harm that began in the US and 
+other Western countries soon afterward? We call 
+this the “historical trends question” because it 
+concerns changes across entire populations, 
+measured over many years. 
+Multiple studies and long-running surveys show 
+that adolescent mental health and wellbeing 
+declined across many Western nations in the 
+2010s, before the arrival of the COVID-19  
+pandemic.8 To take one example, between 2015 
+Multiple studies and long-running 
+surveys show that adolescent 
+mental health and wellbeing  
+declined across many Western 
+nations in the 2010s, before the 
+arrival of the COVID-19 pandemic.
+and 2018, there were nearly universal declines  
+in life satisfaction among 15-year-olds in the 
+Program for International Student Assessment 
+(PISA). Out of 47 countries and territories with 
+PISA data, for both 2015 and 2018, 40 revealed 
+statistically significant evidence of a decline, six a 
+statistically insignificant outcome, and only one – 
+Republic of Korea – a statistically significant 
+increase. These declines were strong and universal 
+for both boys and girls.9 Similarly, in that same 
+dataset, there were nearly universal increases in 
+adolescent school loneliness between 2012 and 
+2018 (increases in 34 out of 35 countries).10  
+For additional studies and a discussion of 
+cross-national trends in adolescent mental health 
+and wellbeing, see the online appendix. 
+Answering the historical trends question is more 
+difficult than answering the product safety 
+question. Surveys and experiments run today can 
+provide strong evidence about whether social 
+media use is safe for individual teens right now, 
+but they are insufficient, on their own, to settle 
+debates about what caused historical trends that 
+began over a decade ago.11 
+In this essay, we begin by focusing on the  
+product safety question. We show that the 
+answer is “no”, social media is not safe for  
+adolescents. Additionally, the evidence we lay  
+out reveals direct and indirect harm on a scale  
+so vast – affecting millions of adolescents each 
+year in the US alone – that it becomes evidence 
+that those harms are causing changes at the 
+population level. This makes it more plausible that 
+the answer to the historical trends question is 
+“yes”, which means the wholesale movement of 
+adolescent social life onto social media platforms 
+that began in most Western nations in the early 
+or mid 2010s was a substantial contributor to the 
+71
+World Happiness Report 2026
+large increases in mental illness (especially 
+depression and anxiety) at the population level, 
+which began soon afterward in many countries.
+The structure of this essay
+To address the product safety question, we 
+present seven independent lines of evidence.  
+We begin with three lines of evidence which, 
+collectively, we refer to as “testimony”. These 
+testimonies reveal what adolescents report about 
+their experiences; what parents, teachers, and 
+clinicians observe; and what company documents 
+and insiders reveal about design choices and 
+known risks. These three lines of testimony are 
+evidence that social media platforms are causing 
+a variety of harms to adolescents.12 
+We then turn to the four lines of evidence that 
+constitute most of the academic debate: 
+cross-sectional studies, longitudinal studies, 
+randomised controlled trials (RCTs), and natural 
+experiments. These studies typically examine or 
+manipulate the number of hours per day that 
+young people spend using social media and relate 
+them to measures of wellbeing or mental health. 
+We show that these four lines, taken together, 
+undermine the hypothesis favoured by Mark 
+Zuckerberg and some researchers that social 
+media use is merely correlated with poor mental 
+health rather than causing it.13
+Combining all seven lines of evidence reveals 
+consistent and converging evidence that the 
+major social media platforms such as Facebook, 
+Instagram, Snapchat, TikTok, and X, as they are 
+currently designed and commonly used, are 
+dangerous consumer products that harm  
+adolescents at a massive scale. The evidence  
+of harm – both direct and indirect – is so strong 
+and comes from so many sources in so many 
+countries that we believe policymakers around 
+the world now have enough evidence to justify 
+action to protect children and adolescents. 
+Which standard of evidence?
+We will present seven lines of evidence in a 
+framework modelled after a legal proceeding. 
+Most readers have seen enough courtroom 
+dramas to understand how an attorney lays out a 
+Combining all seven lines of  
+evidence reveals consistent and 
+converging evidence that the 
+major social media platforms  
+such as Facebook, Instagram, 
+Snapchat, TikTok, and X, as  
+they are currently designed and  
+commonly used, are dangerous 
+consumer products that harm 
+adolescents at a massive scale.
+case against a defendant in a series of exhibits. 
+But if the readers of this essay are the jury, then 
+what standard of proof should they use? In a 
+criminal case, the standard is very high: “beyond 
+a reasonable doubt”. The prosecuting attorney 
+must convince the jury that the defendant is 
+almost certainly guilty. This high standard is 
+necessary because a false positive (convicting an 
+innocent person) is a much graver error than a 
+false negative (acquitting a guilty person). 
+But a lower standard is used in a civil trial:  
+“the preponderance of the evidence”. The jury’s 
+task is simpler – decide, based on the evidence  
+presented, whether the plaintiff is probably  
+right or probably wrong. This standard is  
+appropriate because there is little reason to  
+think that either error is vastly or consistently 
+worse than the other. 
+So what is the right standard for the jury in our 
+imaginary legal case about the product safety 
+question? It would be absurd to insist that the 
+evidence must prove guilt “beyond a reasonable 
+doubt”. The cost of incorrectly concluding that 
+social media is unsafe is not very large. The main 
+cost is that children would have to wait a while – 
+until the age of 16, according to some reform 
+proposals – before they could open social media 
+accounts. There are plenty of other ways for  
+them to communicate and connect online and  
+in person. And, as we’ll show in Exhibit A, many 
+young people say they would prefer to wait if 
+everyone else waited too.
+72
+World Happiness Report 2026
+In contrast, the cost of the opposite error –  
+incorrectly concluding that social media is safe 
+for adolescents – is catastrophically high. If the 
+case we lay out below is even partially correct, 
+then the cost of not acting is to condemn millions 
+of children to higher levels of mental illness, 
+self-harm, and online victimisation. 
+We therefore ask you, the reader, to use the 
+preponderance standard.14 As you consider our 
+seven lines of evidence, please evaluate whether 
+the preponderance of the evidence indicates that 
+the major social media platforms are probably 
+safe for children and adolescents, or whether they 
+are probably not safe. 
+We also want to be transparent about our own 
+beliefs. We come to this essay having written a 
+book (The Anxious Generation) that argues that 
+social media use poses significant risks to  
+adolescents, and that the current evidence base 
+supports policy changes. We are making the case 
+for the prosecution. Nonetheless, we aim to 
+present the evidence fairly and transparently, and 
+to engage with counterevidence where it exists. 
+There are many researchers who agree with us,15 
+and there are many who don’t. We urge you to 
+read the work of our critics alongside this essay.16 
+Let’s begin.
+Photo Jerry Wang on Unsplash
+73
+World Happiness Report 2026
+Evidence Line One:  
+What the victims say
+If the victim of a crime gets a good look at the 
+alleged perpetrator, the prosecutor often calls 
+that victim to the stand to tell her story. In this 
+case, that victim is Gen Z (born 1996 to 2011 or 
+so).17 They were the first people to go through 
+puberty while using social media platforms  
+that were constantly accessible on their new 
+smartphones (beginning around 2012). When  
+they look at their lives so far, do they feel grateful 
+that these products were a part of their  
+childhoods? Or do they believe that the social 
+media platforms harmed them? If we could call 
+Gen Z to the witness stand, what would they say? 
+ Exhibit A:  
+Surveys of young people show harm and regret
+Each year, the Pew Research Center releases a 
+survey on US teens’ experiences with social 
+media, and consistently finds that many report 
+direct negative effects firsthand.18 In 2024, nearly 
+one-third of respondents reported being on  
+at least one social media platform “almost  
+constantly”.19 Among teenage girls, 20% said it 
+hurts their confidence, 25% said it harms their 
+mental health, and 50% said it negatively affects 
+their sleep.20 34% of teen girls (and 20% of teen 
+boys) said it makes them feel worse about their 
+own lives. At scale, this amounts to many millions 
+of US adolescents. 
+The study also found that many adolescents  
+point to benefits. The most common benefits 
+cited were that “what they see makes them feel 
+more accepted or as if they have people who will 
+support them through tough times” (52%), that  
+it gives them a creative outlet (63%), and makes 
+them feel more connected to what is happening 
+in their friends’ lives (74%). However, the relevant 
+product safety question is not whether some 
+users (even a majority) report benefits, but 
+whether a substantial share experiences harm. If 
+teens were surveyed about alcohol, many would 
+likely report benefits as well; that is not relevant 
+to the product safety question. 
+A more revealing test is to ask young people 
+whether, in retrospect, they wish these products 
+had never been invented. In a US survey of Gen Z 
+adults (ages 18 to 27), that we conducted with the 
+Harris Poll,21 regret was low for products such as 
+YouTube (15%), Netflix (17%), and messaging apps 
+(19%), but much higher for social media platforms: 
+34% wished Instagram had never been created, 
+43% said the same about Snapchat, and nearly 
+half expressed regret about TikTok (47%) and X 
+(50%). In other words, one-third to one-half of 
+young adults wish that some of the platforms 
+they use for five or more hours each day had 
+never existed.22
+We are not the only ones to find this high level of 
+regret. A 2023 study led by Leonardo Bursztyn 
+found that 58% of US college students would 
+prefer a world without Instagram and 57% without 
+TikTok. Even among active users, one-third of 
+TikTok users and over half of Instagram users said 
+the same.23 The researchers also asked how much 
+money they would have to pay participants to 
+give up TikTok or Instagram for a month. The 
+answer? $59 and $47, respectively. But when 
+asked how much it would take if most others on 
+their campus also gave up the apps, the average 
+answer dropped below zero. In other words, the 
+participants were willing to pay the researchers to 
+help them and their peers get off social media. 
+You can read more about this study and the 
+concept of ‘product traps’ in Chapter 6.
+In the UK, a nationally representative survey 
+conducted by More in Common in 2025 found 
+that 62% of young people (ages 16 to 24) believe 
+social media does more harm than good for those 
+under 16, rising to 66% among Gen Z women.  
+55% said life would be better if social media were 
+banned for under-16s, compared to 22% who said 
+it would be worse.24 A different survey, by BSI, 
+the UK’s national standards body, finds similarly 
+grim assessments in 2025 from young people in 
+the UK (ages 16 to 21) about their online lives.25
+Australian survey data show similar patterns,  
+with young people identifying social media as a 
+leading contributor to declining youth mental 
+health.26 In sum, when the apparent victims are 
+surveyed, they positively identify social media as 
+the perpetrator. There is little gratitude27 and a  
+lot of regret expressed toward these companies 
+and their products,28 at least across three  
+74
+World Happiness Report 2026
+75
+English-speaking countries. More work is needed 
+in other countries, but other chapters in this 
+report analyse the global data we have so far. 
+ Exhibit B: 
+Internal surveys from social media companies 
+show that Gen Z perceives high levels of harm 
+In October 2021, Facebook whistleblower Frances 
+Haugen released thousands of internal documents 
+and screenshots revealing that the company was 
+well aware of the many harms its platforms were 
+causing teens.29 We will cover what Facebook/
+Meta’s leaders and employees said in a later 
+exhibit. For now, we will focus on the surveys 
+they conducted or commissioned about the 
+experiences of their young users. 
+Among the most widely cited of these findings is 
+an internal study – covering Brazil, India, Indonesia, 
+Japan, Türkiye, and the United States – showing 
+that one in three teen girls said Instagram made 
+their body image issues worse (while 22% said it 
+improved their body image).30 Meta researchers 
+also analysed qualitative data (i.e., what the teens 
+said in their own words). From the report they 
+submitted to Meta: “Teens blame Instagram for 
+increases in the rate of anxiety and depression 
+[…] This reaction was unprompted and consistent 
+across all groups.”31 
+A separate internal survey of 50,590 Instagram 
+users across 10 countries – Australia, Brazil, 
+France, Germany, India, Japan, Mexico, Republic 
+of Korea, the UK, and the US – found that more 
+than one-third of teen girls (37%) reported often 
+Figure 3.1: % of US youth (ages 18–27) who wish social media platforms didn’t exist
+Harris Poll (2024) 
+50%
+34%
+37%
+47%
+43%
+21%
+19%
+17%
+17%
+15%
+X (Twitter)
+TikTok
+Snapchat
+Facebook
+Instagram
+Smartphones
+Messaging apps
+The internet
+Netflix
+YouTube
+World Happiness Report 2026
+Photo Erik Mclean on Unsplash
+or always seeing posts that made them feel  
+worse about their bodies, compared to 26% of 
+users overall.32
+Two years after the release of the Facebook  
+Files, another whistleblower, Arturo Béjar, came 
+forward with internal research he had led at 
+Instagram.33 His study of more than 200,000 
+Instagram users, known as the Bad Experiences 
+and Encounters Framework Survey, offered a 
+snapshot of what teens were facing on the 
+platform.34 The picture was alarming. Among 
+Instagram users aged 13 to 15, 13% reported 
+receiving unwanted sexual advances – in the  
+past week alone. That same percentage had seen 
+violent, bloody, or disturbing images during the 
+same time frame, and 28% reported witnessing 
+bullying on the platform. 
+Additional internal research from other platforms – including Snapchat and TikTok35 – reveals 
+similarly troubling patterns. In a 2024 court  
+f
+iling by the Nebraska Attorney General,  
+evidence drawn from TikTok’s own internal 
+studies showed that:
+76
+World Happiness Report 2026
+[U]sers found that overuse of TikTok 
+caused “negative emotions”, “interfered 
+with [users’] obligations and productivity”, 
+and led to “negative impacts […] on  
+their lives”, including “lost sleep, missed 
+deadlines, poor school performance, 
+running late, etc.” It reported that “many 
+participants described their use of TikTok 
+disturbing their sleep, which limited their 
+productivity and performance the follow
+ing day”, and that “[e]very participant 
+indicated that time management on 
+TikTok was especially difficult compared 
+to other social media platforms.”
+Across the board, these internal user surveys  
+and related documents reveal that the companies 
+know that millions of their young users perceive  
+a great deal of harm to themselves and their 
+peers from the ordinary use of these products. 
+In a courtroom, it is powerful when a victim  
+points to the defendant and says “he did it”. The 
+exhibits we highlighted – surveys of adolescents 
+from independent organisations like Pew as well 
+as the social media companies themselves – make 
+it clear that Gen Z is pointing to social media 
+platforms as the perpetrator.
+Of course, the victim could be mistaken or  
+could be lying, so direct positive identification is 
+strengthened when corroborated by eyewitness 
+testimony. The same logic applies here, so let’s 
+move to our second line of evidence and call a 
+variety of witnesses to the stand.
+Evidence Line Two:  
+What the witnesses say 
+One of the most striking patterns we encountered 
+in our research and conversations is that in every 
+group of adults that works closely with young 
+people – parents, teachers, school counsellors, 
+doctors, coaches, therapists, and more – many  
+tell us they’ve seen firsthand a dramatic shift in 
+kids’ mental health beginning in the 2010s, well 
+before the arrival of COVID-19. Their testimony 
+corroborates the claims made by so many  
+members of Gen Z.
+Internal user surveys and  
+related documents reveal  
+that the companies know that  
+millions of their young users  
+perceive a great deal of harm  
+to themselves and their peers 
+from the ordinary use of  
+these products.
+ Exhibit C:  
+Parents fear social media and perceive harm
+Parents are on the front lines. They know their 
+children intimately. They watch closely as new 
+experiences, relationships, and technologies 
+shape their children’s development. When  
+something changes, parents are often the first  
+to notice and to care.
+When it comes to social media, most parents  
+are deeply concerned about its impact on their 
+children’s wellbeing. They’re not just reacting to 
+headlines or stories about a crime committed  
+far away, as in media-driven panics over comic  
+books in the 1950s. Rather, parents are observing  
+changes in their children’s behaviour, moods, 
+sleep, and self-esteem after they give their 
+children touchscreen devices and social media 
+accounts. Parents see how these products and 
+platforms are affecting their kids’ daily lives. In 
+survey after survey, they corroborate the claims 
+made by members of Gen Z in Evidence Line One.
+A 2025 Pew survey of US teens and their parents 
+found that 44% of parents identified social media 
+as the single most negative influence on teen 
+mental health, ahead of “technology generally”.36 
+Similarly, the 2025 UK survey by More in Common 
+(discussed in Exhibit A) asked parents to identify 
+what most negatively affects their own children’s 
+mental health. The top response was “social 
+media use/excessive screen time”, followed by 
+concerns closely linked to digital technology, 
+including exposure to harmful online content, 
+bullying, low self-esteem, and lack of sleep (see 
+Figure 3.2 below).
+77
+World Happiness Report 2026
+78
+In our own research with the Harris Poll, we 
+surveyed 1,013 US parents to gauge regret, as  
+we did with Gen Z (see Exhibit A).37 Specifically, 
+we asked parents to reflect on the role of various 
+products in their children’s lives by considering 
+the sentence: “When I think about my child’s 
+experience growing up, I wish ____ had never 
+been invented.” Their responses are shown in 
+Figure 3.3.
+Not surprisingly, few parents expressed regret 
+about bicycles (9%), even though many children 
+have been injured riding one. Bicycles are viewed 
+as positive tools for growth and independence, 
+despite their risks. In contrast, most parents  
+see products like alcohol, guns, and pornography 
+as clearly harmful in the context of childhood 
+development.
+So where do digital media products fall on this 
+spectrum? Are they more like bicycles or guns?
+For some items, like smartphones and YouTube, 
+there was ambivalence: about one-third of  
+parents said they wished these had never been 
+invented, but the majority did not. But for social 
+media platforms, especially Facebook, Instagram, 
+TikTok, and X, the results were far more stark. A 
+majority of parents said they wished social media 
+had never been created. For TikTok and X, 62% of 
+parents expressed regret – higher than for alcohol 
+and equal to guns.
+Figure 3.2: The biggest negative effects on young people’s mental health, 
+according to UK parents
+More in Common (2025) 
+45%
+2%
+9%
+12%
+7%
+10%
+17%
+31%
+4%
+10%
+12%
+22%  
+9%
+12%
+19%
+32%
+Social media use/Excessive screen time
+Exposure to harmful content online
+Bullying
+Low self-esteem or self-confidence
+School workload (homework and exams)
+Lack of sleep
+Difficulty making or keeping friends
+Body image concerns or eating disorders
+Financial difficulties at home
+Lack of access to green spaces or outdoor play
+Conflict within the family or at home
+Substance use (e.g., smoking, alcohol)
+Concerns about global issues (e.g., climate change, war)
+Physical health issues
+Don’t know
+Other (please specify)
+World Happiness Report 2026
+79
+It’s not just parents in Anglophone countries who 
+are worried.38 An Ipsos survey of parents with 
+school-age children, conducted in 30 countries, 
+found that mental health was the top concern, far 
+ahead of physical health.39 The survey also found 
+that majorities in all 30 countries favoured banning 
+everyone under the age of 14 from having a social 
+media account, although concerns about social 
+media were generally higher in developed Western 
+nations than in developing nations.
+Parents are not unanimous, but increasingly,  
+and across many nations, they are expressing 
+their beliefs that smartphones and social media 
+are harming their children.
+Figure 3.3: Percentage of US parents who wish social media platforms didn’t exist
+Harris Poll (2024) 
+72%
+60%
+53%
+62%
+56%
+44%
+26%
+17%
+34%
+20%
+14%
+9%
+62%
+57%
+45%
+33%
+19%
+62%
+55%
+38%
+20%
+15%
+Mature online content
+Guns
+TikTok
+X (Twitter)
+Snapchat
+Alcohol
+Instagram
+Social media
+Facebook
+ChatGPT
+Messaging apps
+Smartphones
+YouTube
+Video games
+Location sharing tools
+Streaming services
+Basic mobile phones
+Large vehicles
+Television
+Newspapers
+Radio
+Bicycles
+“When I think about my child’s experience growing up,
+ I wish __ had never been invented”
+World Happiness Report 2026
+Photo Fajar Herlambang Studio on Unsplash
+Exhibit D:  
+Educators perceive harms to education  
+and mental health
+Another group of adults with a front-row view  
+of what is happening to young people are the 
+teachers and school administrators who see them 
+every school day. These adults witness firsthand 
+how students behave, focus, interact, and learn. 
+Many have been around long enough to witness 
+how students have changed since 2010. So what 
+do they see? Do they view social media as a 
+relatively benign tool for social connection, or  
+as something more harmful?
+In recent years, several important surveys have 
+explored exactly this question. These studies  
+span different countries and school roles.
+One 2024 study conducted by the television 
+network NBC surveyed 559 US elementary and 
+secondary school principals about the impact of 
+smartphones and social media on their students.40 
+Just 1.3% believed that concerns about these 
+technologies were “overblown”. In contrast, 42.2% 
+said they firmly believe that smartphones and 
+social media are “major causes of deteriorating 
+student mental health”. When asked about the 
+effects of smartphones on their own student 
+bodies, large majorities said that they see these 
+harmful effects: distraction and tiredness;  
+depression, anxiety, and loneliness; as well as 
+student conflicts and bullying. Few said they  
+saw evidence of benefits, such as improving 
+students’ work (3.4%) or improving their mental 
+health (5.6%).
+80
+World Happiness Report 2026
+What about the teachers themselves? A 2024 
+survey of 2,889 US educators – members of  
+the National Education Association – asked 
+participants to rate how much various factors 
+contribute to student mental health challenges  
+in their schools.41
+The top concern was “lack of parental involvement 
+and communication” (92%). But just below that 
+were two factors that point directly to technology: 
+84% of educators said that “social media use” 
+contributes to student mental health issues, and 
+81% said the same for “cell phone or personal 
+device use after school hours”.
+Beyond mental health, US educators overwhelm
+ingly agree that social media and smartphones 
+are a major source of distraction that interferes 
+with learning. In a recent Pew survey, 72% of  
+US high school teachers said that cell phone 
+distraction is a major problem in their classrooms.42 
+Another survey of 595 US educators from EdWeek 
+Research Center found that approximately nine 
+out of ten believe social media harms students’ 
+communication skills, their treatment of others, 
+and girls’ mental health.43
+We find similar concerns among teachers in other 
+Western countries, including England,44 Spain,45 
+and France.46 One survey of teachers (80% of 
+sample), school leaders, and parents across the 
+European Union found that 54% believe that 
+mobile phone use negatively affects the overall 
+school environment, 56% reporting a negative 
+impact on social interactions and wellbeing, and 
+71% reporting that it worsens students’ ability to 
+focus.47 Taken together, these findings show that 
+the belief that social media and smartphones are 
+harming students’ education and mental health is 
+The belief that social media  
+and smartphones are harming 
+students’ education and mental 
+health is not isolated or fringe.  
+It is the dominant perception 
+among educators across many 
+Western nations.
+not isolated or fringe. It is the dominant perception 
+among educators across many Western nations. 
+They stand in the witness box, point to social 
+media platforms, and say: “They did it”. 
+ Exhibit E:  
+Clinicians perceive harm to mental health  
+(according to Meta)
+A third group with deep insight into young 
+people’s lives are mental health clinicians. They 
+work closely with young people, observe their 
+problems firsthand, are trained to identify and 
+treat their distress, and see how those challenges 
+change over time. So what do they report about 
+social media’s impact on their clients?
+While there is limited research available on the 
+views of clinicians, Meta itself conducted a 
+mixed-methods study of more than 1,000  
+psychiatrists, psychologists, therapists, and social 
+workers to answer this question.48 According to 
+f
+indings disclosed in court documents from a 
+Multi-District Litigation brought by US school 
+districts, 81% of clinicians said social media 
+exacerbates anxiety disorders in their patients, 
+78% said it worsens depressive disorders, and 
+85% agreed that social media can be addictive.  
+In other words, Meta itself found that clinicians 
+believe that social media platforms are causing 
+harm to adolescents.
+We close our discussion of Evidence Line Two 
+with an observation about the witnesses. No 
+group or occupational category that works 
+closely with children has come forth to say that 
+social media is, overall, beneficial for adolescent 
+mental health. No group or professional body has 
+stepped forward as a character witness to say 
+that the defendants are benefactors to young 
+people, or that they are not the sort of companies 
+that would knowingly harm young people. 
+As we will show in Evidence Line Three, they are 
+very much the sort of companies that knowingly 
+harm young people.
+81
+World Happiness Report 2026
+Evidence Line Three:  
+What company documents  
+and insiders reveal
+Executives and some employees at TikTok, Snap, 
+and Meta know (or seem to believe) that they  
+are causing widespread harm to adolescents on 
+their platforms. Quotations and statistics revealed 
+through whistleblowers, lawsuits, and leaked 
+documents and studies from inside the major 
+social media companies make this clear.49  
+We’ve compiled and organised such quotes and 
+statistics – including direct quotes, internal slide 
+decks, and stories of teens harmed.50 Journalists 
+such as Jeff Horwitz at The Wall Street Journal 
+and Reuters have also reported extensively  
+on the matter.51 We also created a website,  
+MetasInternalResearch.org, which compiles all  
+of the publicly available information about dozens 
+of internal research projects carried out by Meta 
+and brought out by whistleblowers, or in the 
+process of discovery during legal proceedings.
+Below we highlight just a few of the most revealing 
+internal quotations and statistics. These are 
+admissions from company insiders and external 
+consultants hired to offer advice.
+ Exhibit F:  
+TikTok knows or believes that it is  
+harming children at an industrial scale
+In our essay “TikTok Is Harming Children at an 
+Industrial Scale”,52 we collected direct quotations 
+from TikTok employees and executives, drawn 
+from the briefs of two court cases, and posted 
+online by the Attorneys General of Kentucky and 
+Nebraska.53 Here are just a few of the most 
+incriminating quotations. The text in boldface 
+comes directly from company employees and 
+internal memos. The normal text around it was 
+supplied by attorneys to frame the quotes.
+“Compulsive usage correlates with a 
+slew of negative mental health effects 
+like loss of analytical skills, memory 
+formation, contextual thinking,  
+conversational depth, empathy, and 
+increased anxiety”, in addition to  
+“interfer[ing] with essential personal 
+responsibilities like sufficient sleep, 
+work/school responsibilities, and  
+connecting with loved ones.” 
+—TikTank Report, an internal TikTok 
+research group 54
+“The product in itself has baked into  
+it compulsive use.” 
+—TikTok executive
+“The reason kids watch TikTok is  
+because the algo[rithm] is really good 
+[…] But I think we need to be cognizant 
+of what it might mean for other  
+opportunities. And when I say other 
+opportunities, I literally mean sleep,  
+and eating, and moving around the room,  
+and looking at somebody in the eyes.”
+ —TikTok executive 55
+Internal documents highlight the fact  
+that minor users are “particularly  
+sensitive to reinforcement in the form  
+of social award”, have “minimal ability  
+to self-regulate effectively”, and “do  
+not have executive function to control 
+their screen time”.
+—TikTok internal document 56
+The full list of quotations is much longer.57 The  
+evidence is clear: TikTok employees know they 
+are harming millions of children.
+Executives and some employees 
+at TikTok, Snap, and Meta know 
+(or seem to believe) that they  
+are causing widespread harm to 
+adolescents on their platforms. 
+Quotations and statistics revealed 
+through whistleblowers, lawsuits, 
+and leaked documents and studies 
+from inside the major social  
+media companies make this clear.
+82
+World Happiness Report 2026
+Photo Zulfugar Karimov on Unsplash
+Exhibit G:  
+Snap Inc. knows or believes that it is harming 
+children at an industrial scale
+Our second essay in this series was “Snapchat Is 
+Harming Children at an Industrial Scale”.58 As we 
+did for TikTok, we drew quotations from a legal 
+brief that was posted online, in this case by the 
+Attorney General of New Mexico.59 The results are 
+just as incriminating. One of the most widespread 
+of the serious direct harms on Snapchat is  
+sextortion, which causes great distress to its 
+victims and sometimes leads directly to suicide  
+as an escape from deep shame.60 As of 2022,  
+Snap was internally aware that they receive:
+“[A]round 10,000 user reports of  
+sextortion each month,” and “that  
+10k monthly reports likely represents  
+a small fraction of this abuse as this is  
+an embarrassing issue that is not easy  
+to categorize in reporting.”
+—Snap Trust and Safety Team Member 61
+One year later, in March of 2023, an 
+employee stated “God I’m so pissed  
+that we’re over-run by this sextortion  
+shit right now. We’ve been twiddling  
+our thumbs and wrung our hands all  
+f…ing year.”
+—Snap employee 62
+It’s not just sextortion; Snap’s design makes it an 
+excellent platform for cyberbullying, which is also 
+a common cause of death by suicide:
+In a February 2022 ‘In-App Reporting 
+Research’ deck by Snap’s consultant, Snap 
+found, “cyberbullying, both anonymous 
+and from known contacts, was a  
+commonly cited problem [among users] 
+[...] Disappearing messages can embolden 
+bullies to harass people with less fear  
+of consequence.”
+—Internal research deck from Snap  
+consultant 63
+83
+World Happiness Report 2026
+Because Snapchat is a way by which anonymous 
+adults can easily reach young people once they 
+connect with any young person (via the “quick 
+add” or “find friends” feature), it is a vector for 
+the sale of many illegal and dangerous products: 
+An undated internal Snap presentation 
+acknowledged that Snap had a “problem” 
+with drugs and guns; that dealers are 
+using Snapchat’s “sharing mechanisms” 
+“to reach teens on Snapchat they would 
+never encounter in real life” and that 
+“some teens have even died as result of 
+buying drugs that they found through 
+Snapchat”.
+—Snap internal presentation 64 
+While quotations about depression and anxiety 
+do not seem to be as common at Snapchat as 
+they are at Instagram and TikTok, the evidence 
+that Snapchat’s design facilitates a variety of very 
+dangerous encounters is strong, and these direct 
+harms can cause anxiety and exacerbate mental 
+illness. Snap employees know they are harming 
+millions of young people, and they know that 
+these harms are directly linked to specific product 
+design choices that they made.
+Exhibit H:  
+Meta knows or believes that it is harming  
+children at an industrial scale
+In September 2021, whistleblower Frances Haugen 
+brought out thousands of pages of internal 
+Facebook reports, memos, and emails. The Wall 
+Street Journal published these revelations in a 
+series of articles titled The Facebook Files.65 Below 
+we draw quotations from those documents, as 
+well as from disclosures by Arturo Béjar,66 anoth
+er whistleblower from Meta, and from New 
+Mexico v. Meta and Northern District of California 
+v. Meta, two major ongoing lawsuits.67 
+[…] [A]n internal Meta email to Adam 
+Mosseri stated “[o]ur overall goal  
+remains total teen time spent […] with 
+some specific efforts (Instagram) taking 
+on tighter focused goals like U.S. teen 
+total time spent.” Another 2018 email 
+stated Meta’s focus succinctly: “Short 
+summary is ‘the young ones are the best 
+ones.’ You want to bring people to your 
+service young and early.”
+—Internal Meta email 68 
+Facebook’s founding President, Sean 
+Parker, in 2017: The thought process that 
+went into building these applications, 
+Facebook being the first of them […] was 
+all about: “How do we consume as much 
+of your time and conscious attention as 
+possible?” “And that means that we need 
+to sort of give you a little dopamine hit 
+every once in a while, because someone 
+liked or commented on a photo or a post 
+or whatever. And that’s going to get you 
+to contribute more content, and that’s 
+going to get you […] more likes and 
+comments.” “It’s a social-validation 
+feedback loop […] exactly the kind of 
+thing that a hacker like myself would 
+come up with, because you’re exploiting 
+a vulnerability in human psychology.” 
+“The inventors, creators – it’s me, it’s 
+Mark [Zuckerberg], it’s Kevin Systrom  
+on Instagram, it’s all of these people – 
+understood this consciously. And we  
+did it anyway.”
+—Facebook founding president 69 
+“There are reasons to worry about 
+self-control and use of our products”  
+and presenting a “quick rundown of 
+evidence” – including “[a]n experiment 
+[which] found that a 1-month break  
+from Facebook improved self-reported 
+wellbeing.” In response, another senior 
+data scientist at Meta (who also holds a 
+PhD in neuroscience, and taught a  
+university course on addiction) warned: 
+“It seems clear from what’s presented 
+here that some of our users are addicted 
+to our products. And I worry that driving 
+sessions incentivizes us to make our 
+product more addictive, without providing 
+much more value. How to keep someone 
+returning over and over to the same 
+behavior each day? Intermittent rewards 
+84
+World Happiness Report 2026
+are most effective (think slot machines) 
+reinforcing behaviors that become 
+especially hard to extinguish – even 
+when they provide little reward, or cease 
+providing reward at all.”
+—A member of Meta’s core data science 
+team and a senior data scientist at Meta 70
+“Oh my gosh yall IG is a drug […] We’re 
+basically pushers […] We are causing 
+Reward Deficit Disorder bc people are 
+binging on IG so much they can’t feel 
+reward anymore […] like their reward 
+tolerance is so high […] I know Adam 
+[Mosseri] doesn’t want to hear it —  
+he freaked out when I talked about 
+dopamine in my teen fundamentals leads 
+review but its undeniable! Its biological 
+and psychological […] the top down 
+directives drive it all towards making 
+sure people keep coming back for more. 
+That would be fine if its productive but 
+most of the time it isn’t […] the majority 
+is just mindless scrolling and ads.”
+—A chat between two UX Meta  
+researchers 71
+Meta employees know they are harming millions 
+of children and adolescents. They know this  
+from their own research. As Sean Parker said, 
+they knew what they were doing, and they did  
+it anyway.
+We have now examined the first three lines of 
+evidence. Let us pause for a moment to evaluate 
+the case so far. We have shown that:
+•  The victims identify the defendants as having 
+harmed them (Exhibits A and B). 
+•  Multiple witnesses who had a clear view of the 
+scene agree (Exhibits C, D, and E). 
+•  The defendants themselves talked and wrote 
+extensively about the many ways that their 
+products were harming adolescents (Exhibits F, 
+G, and H). 
+We believe that these eight exhibits, comprising 
+three distinct lines of evidence, are sufficient in 
+themselves to answer the product safety question. 
+The answer is: no, social media platforms are not 
+safe for children and adolescents. Even the 
+people who run them say so, in private, which 
+may explain why many tech executives place  
+very severe restrictions on their own children’s 
+exposure to smartphones and social media.72
+Let us now turn from the three lines of “testimony” 
+to the four lines of academic research that are at 
+issue in academic debates over social media and 
+adolescent mental health: cross-sectional studies, 
+longitudinal studies, randomised controlled trials 
+(RCTs), and natural experiments. 
+Our goal is not to provide a comprehensive 
+review of the academic literature, but rather  
+to explain the four main kinds of studies that 
+researchers are debating, and to show that,  
+within each line, there are many studies showing 
+compelling evidence of harm. We also show that 
+the studies most often cited as failing to show  
+risk or harm do, in fact, show risk or harm when 
+the analysis is “unblended” or when other  
+problems are fixed.
+Evidence Line Four:  
+Cross-sectional studies 
+The most common type of study surveys  
+hundreds or thousands of young people (often 
+college students) about their daily social media 
+use (self-reported in hours per day) and their 
+mental health (also self-reported). Researchers 
+who conduct these cross-sectional studies are 
+trying to determine if there is an association 
+between social media use and adolescent mental 
+health outcomes. Cross-sectional studies do  
+not establish causal relationships on their own, 
+but they are a first step in public health and 
+epidemiological research. If heavy users of  
+social media are much worse off than light users 
+(after controlling for relevant factors), then there 
+is more reason to suspect a causal relationship 
+than if there had been no association, or a  
+reverse association. 
+85
+World Happiness Report 2026
+86
+These cross-sectional (or correlational) studies 
+now number in the thousands, but researchers 
+differ on how to interpret the findings. Most 
+studies find statistically significant associations; 
+heavy users of social media are nearly always 
+found to be in worse mental health than light 
+users or non-users.73 But some researchers 
+interpret the associations as being “too small to 
+warrant policy change”74 while others (including 
+us) interpret the associations as being much  
+more worrisome, and comparable in size to other 
+public health risks for which societies take action. 
+Which camp is correct?
+ Exhibit I:  
+Cross-sectional studies show that heavy  
+users have elevated risk of depression
+One of the most careful studies to date analysed 
+data from 10,904 14-year-olds in the UK Millennium 
+Cohort Study.75 The authors found that adolescents 
+who spent five or more hours per day on social 
+media were about two times more likely to  
+meet criteria for depression than those who used 
+it for less than one hour per day (see Figure 3.4 
+below). In this study, heavy social media users 
+(five or more hours per day) constituted roughly 
+one-fourth of 14-year-old girls and 10% of boys.
+Additional studies reinforce these findings.76  
+A 2022 meta-analysis found that the odds of 
+depression increased by about 13% for every 
+additional hour per day of social media use  
+(OR = 1.13).77 Given that the average adolescent 
+now spends roughly five hours per day on social 
+media in the US (4.4 hours for boys, and 5.3 for 
+girls),78 this translates into a very large cumulative 
+risk. Using these numbers, we can extrapolate 
+that even average daily use is associated with 
+over a 50% increase in the risk of depression 
+compared with little or no use – with even larger 
+effects among girls.79
+Figure 3.4: The association between depression in UK 14-year-olds 
+and hours spent on social media per weekday
+Kelly et al. (2019)
+40
+35
+30
+25
+20
+15
+10
+5
+0
+ None .5 hr 1 hr 2 hrs 3 hrs 4 hrs 5+ hrs
+Girls
+Boys
+Clinically relevant symptoms (%)
+World Happiness Report 2026
+In this same UK Millennium Cohort Study dataset, 
+the risk elevation of heavy social media use for 
+depression among girls (RR = 2.65 between those 
+who spend more than five hours a day and those 
+who spend less than one) is comparable to that of 
+sleep deprivation (sleeping less than seven hours 
+per night, RR = 2.45) and victimisation by online 
+harassment (RR = 2.56).80 The risk elevation from 
+heavy social media use is greater than the risk 
+elevation from poverty (RR = 1.22) for adolescent 
+depression.81
+These elevated risk findings were central to the 
+US Surgeon General’s warnings in 2023 and 
+2024.82 Citing studies which documented that 
+high levels of social media use predicted double 
+the future risk of depression among adolescents,83 
+the Surgeon General cautioned that heavy and 
+problematic use of social media poses “profound 
+risk” to youth mental health. 
+Yet, some researchers do not account for these 
+f
+indings and argue that there is little or no associ
+ation between social media use and adolescent 
+mental health. They tend to cite a few influential 
+studies to make their case. In the section below, 
+we show that even these studies, when analysed 
+correctly, reveal risks to adolescent mental health. 
+ Exhibit J:  
+Studies that report null findings actually  
+yield significant associations when examining 
+adolescent girls, heavy social media use,  
+and internalising disorders 
+Many of the most-cited “null” findings focus on 
+broad wellbeing scales that dilute the primary 
+outcomes of concern – anxiety and depression in 
+adolescents. One of the most influential reviews 
+that critics use to dismiss the harms of social 
+media was conducted by Jeff Hancock and 
+colleagues in 2022.84 Their meta-analysis of 226 
+studies was prominently cited in the National 
+Academies of Sciences report Social Media and 
+Adolescent Mental Health, which Mark Zuckerberg 
+cited for exoneration in front of the US Senate.85 
+The headline claim in their abstract was that 
+“social media use is not associated with an 
+aggregated measure of well-being” (r = 0.01). 
+Here, the aggregated wellbeing outcome  
+blended together questions about anxiety and 
+depression with eudaimonic and hedonic  
+wellbeing as well as social wellbeing, which is  
+not a mental wellbeing outcome.
+Yet, Hancock and colleagues themselves found 
+that when the aggregated wellbeing measure is 
+unblended and narrowed down to measures of 
+internalising disorders, the correlations are  
+much larger: r = 0.18 for anxiety, and r = 0.13  
+for depression.86 
+In another study widely cited by researchers in 
+the “too small” camp,87 a re-analysis found much 
+larger associations.88 When the three large  
+datasets in that study were “unblended” so that 
+associations between social media use (not all 
+digital media) and internalising disorders (not a 
+broad measure of many diverse outcomes) were 
+calculated for girls (not all teens), the associations 
+were, once again, much larger.
+These examples show why apparent “null”  
+f
+indings should not be taken at face value.  
+Blending populations, technologies, and  
+outcomes can often suppress the associations  
+at the centre of the debate about social media’s 
+effects on adolescent mental health.89 Once these 
+studies analyse the core hypothesis that heavy 
+social media use is causing internalising disorders 
+in adolescent girls, social media’s exonerating 
+evidence ends up pointing in the same direction 
+as Exhibit I: adolescents who are heavy social 
+media users are at substantially elevated risk for 
+depression, especially girls. 
+Blending populations,  
+technologies, and outcomes  
+can often suppress the  
+associations at the centre  
+of the debate about social  
+media’s effects on adolescent 
+mental health.
+87
+World Happiness Report 2026
+Evidence Line Five:  
+Longitudinal studies 
+The longitudinal literature on social media and 
+mental health allows researchers to follow  
+individuals over time and can help clarify whether 
+social media use predicts subsequent changes  
+in mental health, whether poor mental health 
+predicts subsequent social media use, or some 
+combination of the two. The available longitudinal 
+studies present clear and consistent evidence  
+that social media use predicts later depression,  
+as we’ll see in Exhibits K and L.
+ Exhibit K:  
+Social media use at Time 1 predicts 
+depression at Time 2
+Overall, recent high-quality work provides  
+support for the hypothesis that heavier use of 
+social media predicts later increases in depressive 
+symptoms90 – especially when the focus is on 
+time spent on social media and depressive out
+comes in adolescent populations. Bidirectional 
+effects have also been documented, with some 
+evidence that declining wellbeing predicts subse
+quent increases in social media use, particularly in 
+studies that rely on broader definitions of use, 
+wider age ranges, or broad measures of wellbeing.
+The strongest evidence comes from recent 
+large-scale cohort studies. An analysis of a 
+sample of 6,595 US adolescents, ages 12–15,  
+found that heavy social media use predicted  
+later increases in internalising symptoms.91 Using 
+the longitudinal Adolescent Brain Cognitive 
+Development (ABCD) dataset, findings showed 
+that increases in social media use predicted 
+subsequent increases in depression.92 Meanwhile, 
+other researchers using the ABCD dataset 
+showed that earlier internalising disorders failed 
+to predict subsequent social media use.93 A study 
+which focused on “screen time” extended this to 
+younger children, documenting bidirectional 
+relationships: heavier use of screens predicted 
+later depression, and depression symptoms also 
+Photo Yeon Li on Unsplash
+88
+World Happiness Report 2026
+Together, these studies suggest 
+that while reverse pathways are 
+sometimes found, the forward 
+relationship from social media use 
+to depressive symptoms is robust, 
+particularly for adolescents.
+predicted greater subsequent use.94 Together, 
+these studies suggest that while reverse pathways 
+are sometimes found, the forward relationship 
+from social media use to depressive symptoms is 
+robust, particularly for adolescents.
+However, some researchers claim that the literature 
+shows that poor mental health at Time 1 predicts 
+later social media use, but not the other way 
+around. For example, psychologist Candice 
+Odgers wrote in Nature:
+When associations over time are found, 
+they suggest not that social-media use 
+predicts or causes depression, but that 
+young people who already have mental- 
+health problems use such platforms more 
+often or in different ways from their 
+healthy peers.95 
+But the three studies Odgers cited do not in fact 
+support her “reverse predictability only” claim.96
+In sum, most of the recent high-quality longitudinal 
+studies indicate that heavier social media use at 
+one moment in time predicts later depression, 
+especially for adolescent girls.97
+Evidence Line Six:  
+Randomised controlled trials  
+of time reduction 
+We now turn to the major body of experimental 
+research: social media time reduction experiments. 
+These experiments randomly assign a portion of 
+the participants to reduce or abstain from social 
+media for a set period of time and then measure 
+changes in their mental health outcomes, compared 
+to a control group that made no change.98 
+The pattern of results is surprisingly consistent: 
+sustained reduction in time on social media tends 
+to improve mental health, particularly depression. 
+As with correlational studies, disputes in the  
+f
+ield often arise from how data are analysed  
+and, especially, from the problem of blending 
+together heterogeneous interventions, outcomes, 
+and populations. Likewise, effects that appear 
+small on a statistical scale can translate into 
+meaningful improvements when considered 
+across large populations.
+ 
+Exhibit L:  
+Experiments show that social media 
+reduction leads to reduced depression
+Among the most rigorous meta-analyses to date, 
+researchers synthesised 32 randomised controlled 
+trials of social media reduction experiments 
+(5,544 participants, 91 effect sizes).99 The analysis 
+found that restricting social media produced 
+consistent improvements in mental health and 
+wellbeing outcomes, with pooled significant 
+effects of:100
+•  Depression: Hedges’ g = 0.19  
+(roughly 19% of one standard deviation)101
+•  Anxiety: Hedges’ g = 0.28
+•  Wellbeing: Hedges’ g = 0.22
+In fact, among the 16 experiments that provided a 
+clear measure of depression, 14 found reductions 
+in depression, and among the 10 that offered a 
+clear measure of anxiety, 8 found reductions.102 
+One especially important study103 examined the 
+effects of social media reduction among already 
+distressed young people – a group of particular 
+clinical concern. The researchers recruited 220 
+distressed US youth, ages 17–25, and randomly 
+assigned them to either (a) reduce social media 
+use to one hour per day for three weeks, or (b) 
+continue their usual use. Compared to the control 
+group, those who reduced their use showed 
+significant decreases in depression, anxiety, and 
+fear of missing out (FOMO), along with improved 
+sleep. These benefits were observed for both men 
+and women.
+89
+World Happiness Report 2026
+Exhibit M:  
+Studies that report no improvement from  
+social media reduction actually do reveal  
+benefits to depression when unblended
+The first widely discussed meta-analysis of social 
+media reduction experiments was conducted  
+by psychologist Chris Ferguson, who analysed  
+27 studies and reported an average effect size of 
+d = 0.088 with a confidence interval that included 
+zero (–0.018, 0.197). He concluded that these 
+f
+indings “undermine causal claims […] that  
+reductions in social media time would improve 
+adolescent mental health” (p. 205). However,  
+this conclusion rests on major conceptual and 
+methodological flaws.104 Most notably, the  
+analysis pooled together highly heterogeneous 
+studies that varied widely in duration, design,  
+and outcomes. The analysis also included several 
+studies that did not examine reductions in social 
+media use, and thus cannot be used to assess  
+the effects of social media reduction.
+By blending highly heterogeneous studies and 
+outcomes, Ferguson’s analysis obscured how 
+short-term abstinence experiments (one or two 
+days) often induce withdrawal-like responses 
+(e.g., irritability, craving, and worse mood), 
+whereas longer reductions (a week or more) 
+usually improve mental health. Reanalysing 
+Ferguson’s dataset, researchers found that 
+interventions lasting under one week worsened 
+mental health (d = –0.175), while those lasting 
+longer than one week improved it (d = 0.156).105 
+Additionally, when the studies that included 
+clinical outcomes like anxiety and depression 
+were isolated from studies that used broad, 
+blended, composite wellbeing measures, effects 
+were substantially larger: a study found d = 0.22 
+(using Ferguson’s own dataset) for experiments 
+measuring symptoms of internalising disorders,106 
+and another study reported (as noted above) 
+robust pooled improvements (anxiety: g = 0.28; 
+depression: g = 0.19).107
+Taken together, these analyses show that when 
+studies are unblended and properly analysed, 
+they confirm that a sustained reduction in social 
+media use (a week or longer) does in fact  
+improve adolescent mental health – especially  
+for anxiety and depression.
+ Exhibit N:  
+Meta’s own RCT shows that social media reduction 
+leads to multiple mental health benefits
+In November 2025, documents obtained via 
+discovery in a lawsuit brought by US school 
+districts against Meta and other platforms revealed 
+that Meta had run its own reduction experiment  
+in 2020, with Nielsen (the media measurement 
+company).108 The project, code-named Project 
+Mercury, asked a randomly selected group of 
+users to deactivate their Facebook accounts for 
+one week. According to Meta’s own summary, 
+“people who stopped using Facebook for a week 
+reported lower feelings of depression, anxiety, 
+loneliness, and social comparison.”
+An internal researcher noted, “the Nielsen study 
+does show causal impact on social comparison”, 
+adding an unhappy-face emoji. Another staffer 
+reportedly warned that burying such results 
+would put the company in the same position  
+as the tobacco industry “doing research and 
+knowing cigs were bad and then keeping that  
+info to themselves.”
+Internal documents show that Meta subsequently 
+called off further work and dismissed the findings 
+as being “tainted” by the “existing media narrative” 
+around the company. Yet the core fact is that 
+Meta’s own experiment found that sustained 
+abstention from their product led to improvements 
+in user mental health.109 
+Evidence Line Seven:  
+Natural experiments
+One type of study rarely addressed in the debate 
+over social media and mental health is the natural 
+experiment, which is a research design that 
+attempts to estimate causal effects without true 
+random assignment. 
+ Exhibit O:  
+The evidence from natural experiments  
+points to harm
+The most common natural experiments examine 
+the rollout of high-speed internet during the late 
+2000s and early 2010s. These studies leverage 
+variation in broadband expansion to estimate its 
+90
+World Happiness Report 2026
+All four studies reach a similar 
+conclusion: the spread of high
+speed internet and social media 
+platforms worsened mental 
+health. The harms were most  
+pronounced among young people 
+and disproportionately affected 
+women and adolescent girls.
+causal impact on mental health in the newly 
+connected region. This approach provides  
+population-level insights that are not possible in 
+short-term lab experiments. These studies rely  
+on the assumption that the rollout of high-speed 
+internet greatly increased access and time  
+spent on social media platforms (which seems 
+reasonable given that it was very slow to load 
+photos and videos before high-speed internet).
+Researchers110 have examined four such studies in 
+Germany,111 Italy,112 Spain,113 and the US.114 Across 
+diverse contexts and datasets, including national 
+health surveys, hospital admission records, and 
+suicide statistics, all four studies reach a similar 
+conclusion: the spread of high-speed internet and 
+social media platforms worsened mental health. 
+The harms were most pronounced among young 
+people and disproportionately affected women 
+and adolescent girls. Documented outcomes 
+include declines in self-reported mental health in 
+Germany, increases in hospital-diagnosed mental 
+disorders in Italy, rising adolescent mental health 
+diagnoses (especially among girls) in Spain, and 
+higher suicide rates in the US, as well as increased 
+depression symptoms among US college students. 
+Similar conclusions were drawn in another recent 
+review of these studies.115 
+Three further studies augment this body of 
+evidence. The first found negative effects of the 
+arrival of high-speed internet in England on 
+adolescent wellbeing.116 These effects were 
+strongest among heavy users (>5 hours per day) 
+and were associated with social networking site 
+use in particular. The second found similar results 
+looking at suicidal conduct among teens from 2009 
+to 2019 in the wake of broadband introduction  
+in the US.117 The impacts of broadband were 
+associated with cyberbullying and body  
+dissatisfaction for girls, and with decreases in 
+sleep for boys. The third exploited a difference- 
+in-differences design based on Facebook’s staged 
+rollout to US colleges and universities between 
+2004 and 2006.118 They found that whenever 
+Facebook arrived on campus, symptoms of 
+mental illness soon increased.119 Chapter 8 in  
+this report also estimates that increased internet 
+use reduced wellbeing on average in over 30 
+European countries from 2016–2024, with strong 
+negative effects among Gen Z but near-zero or 
+positive effects for older adults. 
+We have only found one study that points in the 
+opposite direction.120 It found improved aggre
+gate wellbeing, reduction in suicides, and im
+proved physical and mental health from broad
+band expansion in the US from 2000–2008.121 The 
+authors themselves interpret these gains as 
+stemming mainly from improved local economic 
+conditions (lower unemployment, reduced  
+poverty, more business activity) rather than from 
+changes in internet or social media use itself.
+Summary of the evidence on  
+the product safety question
+We have now presented 15 exhibits organised 
+into seven separate and independent lines of 
+evidence. First, we presented three lines of 
+“testimony” from the groups that had the clearest 
+view of the effects of social media: Gen Z (Line 
+One); parents, teachers, school administrators 
+and clinicians (Line Two); and employees and 
+consultants working for the major social media 
+platforms (Line Three).
+Next, we presented four lines of academic  
+research showing that heavy users of social 
+media suffer from substantially elevated risks of 
+depression (Line Four); social media use at Time 1 
+predicts depression at Time 2 (Line Five); reducing 
+time on social media causes improvements to 
+mental health (Line Six); and, when high-speed 
+internet entered into communities and regions, 
+mental health outcomes got worse soon afterward, 
+especially for girls and women (Line Seven). 
+91
+World Happiness Report 2026
+These findings converge on the conclusion that 
+when adolescents use social media for several 
+hours every day, it causes their mental health to 
+suffer (on average).
+What do you think, readers? Is social media 
+probably safe for children and teens, or probably 
+not? Do you think that more research is needed 
+before we can answer that question?
+Of course, it is important to hear the arguments 
+on the other side. You should hear from researchers 
+who take a more positive view of social media,  
+or who take issue with our work. We urge you to 
+read the main essay cited by journalists as a 
+rebuttal of our work – Candice Odgers’ review in 
+Nature.122 We also recommend reading a new 
+evidence review led by Amy Orben.123 But after 
+presenting our seven lines of evidence, including 
+RCTs, natural experiments, and many quotes from 
+social media employees stating directly that their 
+products are causing harm to adolescents at a 
+massive scale, we believe that the preponderance 
+of the evidence points to a clear answer to the 
+product safety question: no, social media platforms 
+are not safe for children and adolescents.
+Now let us turn, at last, to the historical trends 
+question.
+Harm to millions is change at  
+the population level
+As we noted in the introduction, the product safety 
+question is easier to answer than the historical 
+trends question, which we formulated like this: 
+“Was the spread of social media in the early 2010s 
+(as smartphones were widely adopted) a major 
+contributing cause of the big increases in adoles
+cent depression, anxiety, and self-harm that 
+began in many Western countries soon afterward?” 
+While our seven lines of evidence do not prove 
+that social media was a major cause of those 
+population-level changes, which are still with  
+us today, they make it much more plausible.  
+Conversely, had the preponderance of the evidence 
+shown that social media was safe for adolescents 
+at the individual level, that would have made it 
+less plausible that social media caused those big 
+increases at the population level. 
+In this section, we present an estimate of the 
+scale of direct harm, as well as an estimate of the 
+scope of harm to mental health based purely on 
+the size of the effect in the social media reduction 
+experiments. For illustration purposes, we  
+calculate the damage to adolescents in the  
+United States, which, in 2023, had a population  
+of approximately 43 million young people within 
+the US Census age band of 10 to 19. If we assume 
+that 90% of them use at least one social media 
+platform,124 that gives us about 39 million teens.125 
+How many of those 39 million may have been 
+harmed by social media usage in ways that might 
+have affected their mental health?
+Direct harms to millions
+Addiction and problematic use: Rates of addiction 
+and problematic use often fall around 10%.126 
+Facebook itself determined that 12.5% of its users 
+were engaging in compulsive use of social media 
+that affected their sleep, work, parenting, or 
+relationships, and they found that teens have 
+even less self-control than adults.127 So, if we 
+assume that 10% of all adolescents suffer from 
+problematic use of at least one platform, that 
+gives us just under four million in the US alone.
+Sleep deprivation: According to Pew’s 2025 
+Teens, Social Media, and Mental Health report,128 
+45% of US teens (17.5 million) report that social 
+media hurts the amount of sleep that they get. 
+Given the widely acknowledged harmful effects 
+of sleep deprivation on mental illness, this effect 
+alone could account for substantial changes at 
+the population level.
+Sextortion: Snapchat was getting 10,000 reports 
+of sextortion from its own users each month in 
+2022, which would be 120,000 cases per year.129 
+One employee noted that this was likely just the 
+“tip of the iceberg”, meaning that most cases 
+were not reported. Sextortion happens on many 
+other platforms too, so the total number of 
+victims per year could be well over a million.130
+Sexual harassment: Meta whistleblower Arturo 
+Béjar conducted a global study while working for 
+Instagram.131 He found that 13% of Instagram 
+users, ages 13 to 15, self-reported having received 
+unwanted sexual advances via the platform within 
+92
+World Happiness Report 2026
+Photo Houcine Ncib on Unsplash
+the previous seven days. If the US is on par with 
+this global average, 13% of 39 million is 5.7 million 
+adolescents in any given week. Béjar explained 
+that if “looked at over time, it is likely the largest- 
+scale sexual harassment of teens to have ever 
+happened, and one that clearly calls for action.”132 
+We could go on. We could bring in the millions of 
+teens cyberbullied each year,133 and the millions  
+of vulnerable teens who are fed self-harm content 
+by the platforms’ algorithms every week.134 We 
+could quantify the number of additional drug 
+overdose deaths caused by the easy access to 
+drugs on social media platforms.135
+Our point is that the direct harms from social 
+media are not just occasional events or freak  
+accidents that are happening to a few hundred 
+adolescents each year. It would be bad policy to 
+remove consumer products from the market 
+every time one child finds an unusual way to get 
+hurt by it. But there are so many different kinds  
+of harm happening to adolescents who use social 
+media for several hours every day that the  
+number of victims likely exceeds ten million each 
+year in the United States alone. This estimate is 
+consistent with the Pew finding that 25% of girls 
+(and 14% of boys) in the US believe that social 
+media is harming their mental health.136
+Given the scale of these harms, we believe it is 
+plausible and likely that the introduction of 
+smartphones with chronically available social 
+media caused a substantial portion of the  
+decrease in adolescent mental health and  
+wellbeing that has been documented in the 
+English-speaking countries and Western Europe 
+(see Chapter 2 of this report), and more broadly 
+across the Western world in other datasets.137
+93
+World Happiness Report 2026
+Indirect harms to millions
+Shifting to social media’s indirect harms, we  
+can use the effect sizes from the social media 
+reduction experiments (Evidence Line Six) to 
+estimate how a widespread reduction in social 
+media use would affect a population’s wellbeing 
+and mental health.
+As noted in Exhibit L, research has reported  
+an average effect of roughly g = 0.22 (about 
+one-fifth of a standard deviation) for “wellbeing” 
+outcomes in sustained social media reduction 
+studies.138 The “wellbeing” outcome is often 
+measured by the Warwick–Edinburgh Mental 
+Wellbeing Scale (WEMWBS), which is normally 
+distributed in national samples with a mean near 
+51 and a standard deviation near seven. On this 
+scale, scores below 41 have been used as an 
+indicator of probable clinical depression.139
+Using these parameters, we can estimate that a 
+plausible population impact of social media 
+reduction for just two weeks by young adults 
+If carried out at scale, we  
+predict that the widespread  
+reduction of social media use  
+by adolescents would cause  
+substantial improvements in  
+population-level measures of 
+wellbeing and mental health.
+would be a decline in the prevalence of clinical 
+depression by roughly one-third, and a plausible 
+impact of a consequent return to regular social 
+media use would be the rise in the prevalence of 
+clinical depression by one-half (see the online 
+appendix for details).
+As a point of comparison, others estimate  
+that the increased risk of depression and  
+anxiety attributable to childhood maltreatment 
+corresponds to effects of d = 0.22 and d = 0.25, 
+Photo Dipqi Ghozali on Unsplash
+94
+World Happiness Report 2026
+respectively.140 The fact that something as simple 
+as a week or two of social media reduction 
+produces improvements of a similar magnitude 
+suggests to us that the relevant effect sizes are 
+not “too small” to warrant policy change. 
+If carried out at scale, we predict that the  
+widespread reduction of social media use  
+by adolescents would cause substantial  
+improvements in population-level measures  
+of wellbeing and mental health.141 
+Group-level effects make population  
+effects even larger
+The cross-sectional, longitudinal, and experimental 
+lines of evidence that we reviewed all examine 
+the effects of social media and its associations 
+with mental illness at the individual level, usually 
+by measuring or manipulating the number of 
+hours per day that each individual spends on 
+social media. But when social media reconfigured 
+teen social networks in the early 2010s, it had 
+large group-level or emergent effects. Time spent 
+with friends decreased rapidly, well before  
+COVID-19,142 and when teens are spending less 
+time together then eye contact, physical touch, 
+food-sharing, and other ancient human bonding 
+mechanisms become rarer too, even for the 
+minority who did not open accounts. Teens just 
+aren’t hanging out in person as much.
+Once nearly everyone was on these platforms, 
+everyone was stuck in a collective action trap. 
+Even if the platforms were harming 100% of  
+the adolescents who used them, any individual  
+who quit might find herself even worse off  
+because she would lose her online connections 
+and might have difficulty finding ways to  
+replace them offline.
+Once nearly everyone was  
+on these platforms, everyone  
+was stuck in a collective action 
+trap… any individual who quit 
+might find herself even worse  
+off because she would lose her  
+online connections.
+The 2023 study led by Leonardo Bursztyn that we 
+discussed in Exhibit A gives us a vivid illustration 
+of the collective-action trap.143 College students 
+said they’d have to be paid to quit social media, 
+as individuals. But when the researchers asked 
+them their price for quitting if most other  
+students were also quitting, the students said 
+they’d be willing to pay the researchers to make 
+that happen. 
+These group-level effects change so many  
+aspects of daily social interaction, for so many  
+adolescents, that they could turn out to be much 
+larger than the individual-level effects found in 
+studies that ask individuals to decrease social 
+media usage for one week. See Chapter 6 of this 
+report for a more detailed discussion.
+Sensitive period effects make population  
+effects even larger
+A key theme of The Anxious Generation was that 
+puberty is a sensitive period during which habits 
+of attention, emotion, and social interaction will 
+guide the rapidly changing brain in ways that 
+could yield permanent effects. Neurons that fire 
+together, wire together, and this is especially true 
+during the years of heightened neural plasticity 
+known as puberty. 
+One study specifically examined whether the 
+associations of social media use and poor mental 
+health varied by age. Researchers144 found that 
+there did seem to be sensitive periods – age 
+ranges within which hours-per-day measures 
+showed higher correlations with measures of  
+poor mental health. For girls, that period was 
+ages 11 to 13. For boys, who hit puberty a bit later, 
+it was ages 14 to 15. This is a good reason for 
+nations to set minimum ages for opening social 
+media accounts no lower than 16.
+If radical changes in social and cognitive  
+environments during puberty can lead to large 
+and possibly lasting changes to an adolescent’s 
+brain and personality, then any effect sizes 
+computed from brief reduction experiments using 
+college students could be vast underestimates  
+of the harms caused by heavy social media use 
+over several years during puberty.
+95
+World Happiness Report 2026
+Conclusion
+The academic debate over whether social media 
+is harming adolescents has been complicated  
+by the occasional confusion of two different 
+questions: the product safety question and  
+the historical trends question. Social media 
+executives have deflected questions about 
+product safety by asserting there is insufficient 
+evidence to answer the historical trends question 
+with certainty.145 But as we have shown, there is 
+now plenty of evidence to answer the product 
+safety question. The preponderance of the 
+evidence points to this conclusion: social media is 
+not safe for adolescents. The seven independent 
+lines of evidence we presented show, collectively, 
+that the major social media platforms (such as 
+Instagram, Snapchat, and TikTok) are causing 
+substantial harm to the mental health of  
+adolescents, especially girls.
+Admittedly, it is more difficult to prove causality 
+for historical population-level changes in  
+adolescent mental health trends. However, while 
+answering the product safety question, we have 
+shown that the scale of harm from the ordinary 
+use of these dangerous consumer products is  
+so great, and affects such a large percentage of 
+their users, that it justifies as highly plausible  
+the following answer to the historical trends 
+question: the sudden introduction of always- 
+available social media, made possible by the 
+spread of smartphones in the early 2010s, was a 
+substantial contributor to the sharp increases in 
+mental illness observed in many Western nations, 
+and beyond, in the 2010s.146
+Academic debates over media effects often take 
+decades to resolve. We expect that this one will 
+continue for many years. But parents and policy
+makers cannot wait for resolution; they must 
+make decisions now, based on the preponderance 
+of the evidence. 
+We believe that the evidence is now sufficient  
+to justify the sort of action that the Australian 
+government took in 2025 when it raised the age 
+for opening or maintaining a social media account 
+to 16. Just as the recent international trend of 
+removing smartphones from schools is beginning 
+to produce educational benefits,147 the research 
+We believe that the  
+preponderance of the  
+evidence points to a clear  
+answer to the product safety 
+question: no, social media  
+platforms are not safe for  
+children and adolescents.
+we have reviewed suggests that removing social 
+media from early adolescence is likely to produce 
+mental health benefits.
+Countries around the world ran a giant  
+uncontrolled experiment on their own children  
+in the 2010s by giving them smartphones and 
+social media accounts. The available evidence 
+suggests that the experiment has harmed them.  
+It is time to call it off.
+96
+World Happiness Report 2026
+Endnotes
+1  
+Rothwell (2023). Note that Snapchat was not included in 
+the survey options.
+2 Sawyer et al. (2018); Twenge (2025).
+3 World Health Organization (n.d.). 
+4 Steinberg (1985).
+5 Haidt (2024).
+6 See Evidence Line Three later in this essay.
+7  We note that there are additional indirect harms, such as 
+stunted social development, interference with cognitive 
+development, and declining educational outcomes that fall 
+beyond the scope of this essay. See Nagata et al. (2025). 
+and Nguyen et al. (2025). 
+8  See Blanchflower et al. (2024); McGorry et al. (2024); 
+Rausch and Haidt (2023a); Rausch and Haidt (2023b); 
+Schrijvers et al. (2024); Twenge et al. (2021).
+9  See Table A1.2 in Marquez et al. (2024). See Chapter 3 
+Appendix in Helliwell et al. (2024). We note there is 
+variation by sex. For boys, there were 33 statistically  
+significant decreases, 13 statistically insignificant  
+outcomes, and 1 statistically significant increase  
+(Republic of Korea). For girls, there were 41 statistically 
+significant decreases, 5 statistically insignificant  
+outcomes, and 1 statistically significant increase (Greece).
+10 Twenge et al. (2021).
+11  
+The difference between these two questions is important 
+because they are often conflated. In his 2024 Senate 
+testimony, Mark Zuckerberg told the US Senate that a 
+report from the National Academies of Sciences “did not 
+support the conclusion that social media causes changes 
+in adolescent mental health at the population level.” That 
+statement pertains to whether current evidence can 
+explain historical shifts in aggregate rates (the historical 
+trends question). This conclusion does not speak to 
+whether present-day use of specific platforms elevates risk 
+for individual teens (the product safety question). Indeed, 
+that same report includes a long chapter (Chapter Four) 
+documenting a variety of harms at the individual level. In 
+other words: it is possible to conclude that “social media  
+is unsafe for young people” even when the causes of past 
+population trends remain uncertain.
+12  People’s beliefs about causation may not be reliable for 
+cancer or other diseases that don’t become visible for 
+many years after the events that caused them. People 
+have much better insight into the foods that cause their 
+allergic reactions. Social media is much more like allergies 
+than like cancer in this regard. Like food allergies, some 
+effects of social media show up within minutes, and people 
+have many chances to observe the dose-response effect of 
+their time on social media. This is why we consider these 
+testimonials to be evidence of causation.
+13 Fridman (2022); Odgers (2024).
+14  We note that parents and legislators often use an even 
+lower standard of proof: the precautionary principle,  
+which says that when there is credible evidence that harm 
+is possible, preventive action should be taken, especially 
+when the costs of such action are low.
+15  See Haidt and Rausch (2025c) on the Consensus Study, 
+which found strong agreement among a large group of 
+experts that 25 out of 26 claims drawn from The Anxious 
+Generation were “probably true”.
+16  Our most vocal critic is Candice Odgers. See her main 
+essay: Odgers (2024). Or see Schiffer (2024) for an essay 
+that interviews several critics.
+17  Pew says that Gen Z begins with the birth year 1997. 
+Twenge (2017) said that “iGen” began with the birth year 
+1995. In The Anxious Generation, we split the difference 
+and considered that 1996 was the first year. Of course the 
+change in generations did not happen in a single year, but 
+the mid to late 1990s seems to be the span of time in 
+which it happened.
+18 Faverio et al. (2025).
+19 Faverio and Sidoti (2024).
+20  The survey does not provide gender breakdowns for the 
+experience of benefits. For teens in general, 4% report that 
+social media improves their sleep, 19% report it improves 
+their confidence, and 10% report it improves their mental 
+health. Faverio et al. (2025).
+21 Haidt and Johnson (2024).
+22  Gen Z men and women showed similar amounts of regret 
+across platforms, besides TikTok. Men were significantly 
+more likely to wish that TikTok was never invented  
+(55% to 39%). See Skiera (2024).
+23 Bursztyn et al. (2023).
+24 More in Common (2025).
+25  The British Standards Institution (2025). This study found 
+that, “half (47%) of young people aged 16 to 21 would prefer 
+to be young in a world without the internet, with 50% also 
+saying a social media curfew would improve their lives.” 
+26 headspace and Brunton (2018).
+27  We have been looking for writings by members of Gen Z 
+that defend social media, or that claim that it has been 
+good for their generation. Such writings are hard to find, 
+while it is very easy to find essays by members of Gen Z 
+that blame social media for personal or generational harm.
+28  See also Coe et al. (2023) McKinsey Health Institute’s 2022 
+Global Gen Z Survey of 42,000 people across 26 countries, 
+although the key question about social media was actually 
+about “technology and social media” so the regret 
+numbers are lower, but they are consistently highest for 
+Gen Z.
+29 Wells et al. (2021).
+30 Meta (2021).
+31 Wells et al. (2021). 
+97
+World Happiness Report 2026
+32  Appearance-Based Social Comparison Study, December 
+2020, available at MetasInternalResearch.org.
+33 Béjar (2024).
+34  State of New Mexico ex rel. Torrez v. Meta Platforms, Inc. 
+(2024). 
+35 Haidt and Rausch (2025a); Haidt and Rausch (2025b).
+36 Faverio et al. (2025).
+37  The Harris Poll (2025). Also see Haidt et al. (2025) for a 
+summary of findings.
+38  See country specific surveys in France (Fondation pour 
+l’Enfance, 2024), Germany (Bitkom, 2025; Woessman et 
+al., 2025), Netherlands (ANP, 2025), and Japan (Bay, 2017). 
+39 Ipsos Education Monitor (2025).
+40 NBC New York Staff (2024). 
+41 National Education Association (2024). 
+42 Hatfield (2024).
+43 Prothero and Harwin (2024).
+44 UWE Bristol Media Relations Team (2025).
+45 Fundación MAPFRE (2025).
+46 Fondation pour l’Enfance (2025).
+47  European School Education Platform Editorial team 
+(2025).
+48  Each had at least two years of experience post licensure 
+and provided care for at least 30 patients in the past  
+30 months. 
+49  Although Evidence Line Three focused on three major 
+companies (TikTok, Snap, and Meta), they are not the only 
+digital platforms at which the leadership is aware that their 
+products pose significant risk of harm to minors. For  
+example, a 2016 internal presentation from the YouTube 
+Main App Team stated that they “aspire[d] to create an 
+app that is […] addictive.” Another presentation revealed 
+their goal to “increase habitual users” and “focus on 
+making YouTube a daily habit.” (In Re Social Media 
+Addiction Litig., 2024). Likewise, in litigation involving 
+Roblox, one employee acknowledged: You’re supposed  
+to make sure that your users are safe but the downside  
+to that, if you’re limiting user engagement, it’s hurting 
+our metrics. It’s hurting our active users, the time spent 
+on the platform, and in a lot of cases leadership doesn’t 
+want that. (See p. 31, paragraph 90 in Jane Doe v. Roblox 
+Corp., 2025).
+50  We compiled the quotes and statistics in open-source 
+Google Docs and translated them into essays published  
+on After Babel. See Haidt et al. (n.d.); Haidt and Rausch 
+(2025a); Haidt and Rausch (2025b). 
+51 The Wall Street Journal (n.d.); Reuters (n.d.).
+52 Haidt and Rausch (2025a).
+53 Link NKY (2024); State of Nebraska v. TikTok Inc. (2024).
+54  See p. 82, paragraph 213 in Commonwealth of Kentucky v. 
+TikTok Inc. (2024).
+55  See p. 10, paragraph 19 in Commonwealth of Kentucky v. 
+TikTok Inc. (2024). 
+56  See p. 82, paragraph 216 in Commonwealth of Kentucky v. 
+TikTok Inc. (2024). 
+57 Haidt and Rausch (2025a).
+58 Haidt and Rausch (2025b).
+59 State of New Mexico v. Snap Inc. (2024).
+60 FBI Memphis (2024).
+61  See pp. 59-60, paragraphs 132-134 in State of New Mexico 
+v. Snap Inc. (2024).
+62  See p. 54, paragraph 117 in State of New Mexico v.  
+Snap Inc. (2024).
+63  See p. 126, paragraph 317 in State of New Mexico v.  
+Snap Inc. (2024).
+64  See p. 100, paragraph 242 in State of New Mexico v.  
+Snap Inc. (2024). 
+65 The Wall Street Journal (2021).
+66  Written Testimony of Arturo Béjar before the  
+Subcommittee on Privacy, Technology, and the  
+Law (2023).
+67  State of New Mexico v. Meta Platforms, Inc. Doc. 36–1, 
+(2024); In Re Social Media Addiction Litig. (2024).
+68  See p. 148, paragraph 296 in State of New Mexico v.  
+Meta Platforms, Inc., Doc 36–1 (2024).
+69  See p. 151, paragraph 306 in State of New Mexico v.  
+Meta Platforms, Inc., Doc 36–1 (2024). 
+70 See p. 27 in In Re Social Media Addiction Litig. (2024).
+71 See p. 33 in In Re Social Media Addiction Litig. (2024).
+72 E.g., Bowles (2018).
+73 Liu et al. (2022); Orben (2020).
+74 Orben and Przybylski (2019).
+75 Kelly et al. (2019). 
+76 Grund (2025); Twenge et al. (2022). 
+77 Liu et al. (2022). 
+78 Rothwell (2023).
+79 See the online appendix for conversions from OR to RR. 
+80 Greb and Rausch (2025).
+81  Relative risks (RRs) were calculated as simple proportion 
+ratios using depression prevalence data from Tables 1  
+and 2 of Kelly et al. (2019). Each RR represents the 
+prevalence of depression in the exposed group divided  
+by the prevalence in the reference group, comparing: 
+social media use >5hours/day vs. <1hour/day; <7 hours  
+of sleep vs. >7 hours of sleep; cyberbullying victims vs.  
+not involved; and lowest economic quintile vs. highest 
+economic quintile. Values >1.0 indicate increased  
+depression risk.
+82  Murthy (2024); U.S. Department of Health and Human 
+Services, Office of the Surgeon General (2023). 
+83 Riehm et al. (2019).
+98
+World Happiness Report 2026
+84 Hancock et al. (2022).
+85  Committee on the Impact of Social Media on Adolescent 
+Health, Board on Population Health and Public Health 
+Practice (2024).
+86  Also note that the study does not provide separate results 
+for girls and boys, even though sex and gender-based 
+factors play a widely known role in mental health risks.
+87 Orben and Przybylski (2019).
+88  Twenge et al. (2022). For more details, see Underestimating 
+digital media harm. Here, ‘wellbeing’ included outcomes 
+such as “Restless, overactive, cannot stay still for long”; 
+“Shares readily with other children (treats, toys, pencils, 
+etc.)”; and “Generally obedient, usually does what adults 
+request.” The ‘wellbeing’ measure was overwhelmed with 
+outcomes unrelated to internalising symptoms. When 
+Twenge et al. (2022) reanalysed the same dataset and 
+code, restricting outcomes to internalising symptoms and 
+focusing on girls’ social media use, the associations 
+increased dramatically: median standardised betas were 
+roughly –0.20 for girls (most between –0.25 and –0.15), 
+compared to –0.04 for boys. 
+89  For a much deeper analysis of “blending” and related 
+problems in the cross-sectional studies, see Haidt and 
+Rausch (2026).
+90 McClean and Lebwohl (2025). 
+91 Riehm et al. (2019).
+92 Nagata et al. (2025).
+93 Grund and Luciana (2025).
+94 Vasconcellos et al. (2025).
+95 Odgers (2024).
+96  McLean and Lebwohl (2025). The three studies cited by 
+Odgers as showing only reverse prediction do not actually 
+show it: (1) Puukko et al. (2020) did not measure time 
+spent on social media, focusing instead on more positive 
+forms of digital communication including emailing and 
+direct messaging on WhatsApp. (2) Hancock et al. (2022) 
+blended social media with other screen use, they mixed 
+age groups and outcomes, and they still found no evidence 
+for reverse predictability (the distress  social media path 
+was zero). (3) Heffer et al. (2019) offers a case for reverse 
+predictability – but only for girls, and even that study also 
+found evidence for the forward direction. In other words,  
+it suggests a reciprocal relationship, which still implies that 
+social media use at Time 1 contributes to harm at Time 2.
+97  A new longitudinal study was published when this report 
+was in its final editing stage. Cheng et al. (2025) did not 
+f
+ind that social media use at Time 1 predicted later 
+internalising symptoms among boys and girls. We have 
+requested access to data and code, but have been told it 
+will take several months until they are publicly available. 
+98  This work faces both conceptual and empirical challenges 
+including issues of compliance (how many really reduced 
+their use?), short intervention windows (reduction for one 
+day versus multiple weeks), individuals reducing use while 
+all of their peers remain online, misinterpretation of 
+withdrawal effects, and varying definitions of “reduction”.
+99 Burnell et al. (2025).
+100  These values are from “Table 2. Social media restriction 
+effects by individual outcome, problematic cases removed.”
+101  Hedges’ g is a version of Cohen’s d that includes a 
+small-sample correction. In practice, they are interpreted 
+the same – for example, g = 0.20 is roughly equivalent to  
+d = 0.20. The values we give here are from their analyses 
+that exclude problematic studies. The corresponding rates 
+for the full dataset (including all studies) was g = 0.22  
+(for depression) and g = 0.17 (for anxiety). 
+102 See online appendix for details.
+103 Davis and Goldfield (2025).
+104 Rausch and Haidt (2025).
+105 Thrul et al. (2025).
+106 Stein (2024).
+107  Similarly, another recent meta-analysis by Lemahieu et al. 
+(2025) reported no significant effects of social media 
+abstinence on affective wellbeing or life satisfaction.  
+This study focused narrowly on short-term abstinence 
+interventions (most lasting about a week or less) and  
+on mood-related outcomes such as positive affect and 
+negative affect. They also included life satisfaction.  
+In other words, the authors did not examine clinical 
+outcomes like anxiety and depression, nor did they include 
+longer-term reduction studies. Their null findings are 
+therefore exactly what we would expect: when the analysis 
+is limited to short-term abstinence studies that measure 
+immediate mood states, there is little benefit to be 
+expected. As other research on behavioral addictions 
+shows, withdrawal from an addictive or habit-forming 
+behaviour can temporarily worsen mood before longer- 
+term benefits emerge (Lembke, 2021).
+108 Horwitz (2025).
+109  Meta Internal Research (n.d.). We create a website that 
+describes more than 20 other internal studies that Meta 
+conducted, nearly all documenting various risks to young 
+users via platform design. To learn more about Project 
+Mercury, see metasinternalresearch.org.
+110 McClean et al. (2025).
+111 
+Golin (2022).
+112 Donati et al. (2022).
+113 Arenas-Arroyo et al. (2022).
+114 Kyung et al. (2021).
+115 Pugno (2025).
+116 McDool et al. (2020).
+117 Churchill and Johnson (2026). 
+118 Braghieri et al. (2022).
+99
+World Happiness Report 2026
+119  Although most of these natural experiments offer  
+compelling evidence of population-level harm, they are not 
+without limitations. First, most studies examine broadband 
+internet access rather than social media use specifically. 
+Meanwhile, the only study that examined a social media 
+platform directly – Braghieri et al. (2022) – focused on 
+Facebook’s rollout in 2004–2006, when the platform was 
+text-based, desktop-only, and limited to college students. 
+This environment differed substantially from today’s 
+modern social media environment.
+120 Johnson and Persico (2025).
+121 Johnson and Persico (2025).
+122  Others include Lebedikova et al. (2024), and Brown 
+(2024).
+123 Orben et al. (2025).
+124 Pew Research Center (2025).
+125  We previously estimated the number of US teen users 
+(ages 13 to 17) of TikTok and Snapchat. We estimated that 
+in 2023 about 13.7 million teens in the US used TikTok, and 
+about 12.7 million of these teens were daily users of TikTok. 
+Additionally, we estimated that between 2019 and 2023, 
+there were about 13 to 15 million US teens (ages 13 to 17) 
+on Snapchat. We estimated that as of 2021, there were 
+nearly 3 million 8 to 12-year-olds in the US on Snapchat. 
+See Haidt et al. (2025a) for our TikTok estimates and Haidt 
+et al. (2025b) for our Snapchat estimates.
+126 Boer et al. (2020).
+127 Wells et al. (2021).
+128 Faverio et al. (2025).
+129 Haidt and Rausch (2025a).
+130 Beauchere (2023).
+131 Béjar (2024).
+132  Written Testimony of Arturo Béjar before the Subcommittee 
+on Privacy, Technology, and the Law (2023).
+133  Meta Internal Research (2025). Bad Experiences and 
+Encounters Framework (BEEF) Survey (2021). This survey 
+found that 10.8% of Instagram users aged 13-15 reported 
+being a target of bullying in the last week. Also see 
+Anderson (2018) where 59% of US teens report having 
+been cyberbullied. 
+134  Meta Internal Research (2025). Bad Experiences and 
+Encounters Framework (BEEF) Survey (2021). This survey 
+found that 8.4% of Instagram users aged 13–15 reported 
+seeing someone harm themselves or threaten to harm 
+themselves in the last week alone.
+135 Bergman (2026); Gerber (2025). 
+136 Faverio et al. (2025).
+137  See Schrijvers et al., (2024) on Europe; Twenge et al., 
+(2021), which uses PISA internationally; Rausch and Haidt 
+(2023a) on the Anglosphere; and Rausch and Haidt 
+(2023b) on the Nordic Countries. 
+138 Burnell et al. (2025).
+139 University of Warwick (2025).

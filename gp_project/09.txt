@@ -1,0 +1,1864 @@
+Studying the effects of digital arts-based interventions on teenagers’ social 
+media usage, brain connectivity, and mental health: study protocol of the 
+SMART project
+Lucía Vaquero a,b,c,d,e, Karleigh Groves a,b,c,f, Eva Luna Muñoz-Vidal a,b,c,g, Kevin Jamesh, J. L. Marlorh, 
+Christopher McIntyreh, Lorena Ostiai, Sean Sirotai, Lindsay Shieldsj,k, Franziska Degé l, 
+Elisa García-Mingo dand Pablo Ripollés a,b,c
+aDepartment of Psychology, New York University, New York, USA; bMusic and Audio Research Laboratory (MARL), New York University, 
+New York, USA; cCenter for Language, Music, and Emotion (CLaME), New York University, New York, USA; dResearch Group in Digital 
+Culture and Social Movements, Faculty of Political and Social Science, Complutense University of Madrid, Madrid, Spain; eDepartment of 
+Experimental Psychology, Cognitive Processes and Speech Therapy, Faculty of Psychology, Complutense University of Madrid, Madrid, 
+Spain; fDepartment of Psychology, Lehigh University, Bethlehem, PA, USA; gRehabilitation Sciences Program, Steinhardt School of Culture, 
+Education, and Human Development, New York University, New York, USA; hAmerican Composers Orchestra, New York City, USA; 
+iFreelance Teaching Artist / Visual Artist; jFort Hamilton High School, Brooklyn, USA; kEducational Theatre Association, Cincinnati, OH, USA; 
+lDepartment of Music, Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany
+ABSTRACT
+Background: Social media (SM) has become ubiquitous among youth. However, which SM 
+activities are beneficial or detrimental for the wellness of children and adolescents is still 
+under debate. While some reports highlight positive outcomes of SM in learning, social 
+interaction, and wellbeing, other investigations suggest that the overuse of SM induces 
+decreased attention, cognitive, and emotional control, and increases mental-health related 
+disorders (e.g. depression and anxiety). Interestingly, the cognitive and emotional functions 
+negatively affected by the intense use of SM, as well as some of its neural underpinnings, 
+have been previously and consistently reported to benefit from music and arts-based 
+interventions.
+Objectives: The protocol for the ‘Social Media Artistic tRaining in Teenagers (SMART)’ project 
+(ClinicalTrial: NCT06402253) is presented here: digital art-based interventions will be used to 
+teach adolescents how to use SM in more goal-oriented and stimulating ways, in the context 
+of learning music or photography composition/editing through specific open-source software.
+Methods: Participants (aged 13–16) will be evaluated before and after completing a 3-month 
+music or photography composition/editing intervention programme. Participants will also 
+provide weekly measures of SM usage and mood. A matched passive control group will also 
+be recruited, evaluated, and followed for 3 months. Evaluations will include cognitive 
+(attention), mood, and mental-health (depression, stress, anxiety, self-esteem) measures, as 
+well as functional and structural connectivity and morphological biomarkers obtained via MRI 
+and MEG techniques.
+Discussion: We expect observable changes in self-reported use and attitudes towards SM, and 
+benefits in attention, mood, and mental-health measures, as well as in the neural substrates 
+supporting these processes. The data we plan to collect will confirm or challenge these 
+expectations, aiming to improve our understanding of the impact of SM overuse on brain 
+function, cognitive state, and mental health. Our findings could also inform potential 
+strategies to mitigate SM negative effects.
+Trial registration: ClinicalTrials.gov identifier: NCT06402253..
+Estudio de los efectos de las intervenciones digitales basadas en artes 
+sobre el uso de redes sociales, conectividad cerebral y la salud mental 
+de los adolescentes: protocolo de estudio del proyecto SMART  
+Antecedentes: Las redes sociales (RS) se han vuelto omnipresentes entre los jóvenes. Sin 
+embargo, aún se debate cuáles actividades en RS resultan beneficiosas o perjudiciales para 
+el bienestar de niños y adolescentes. Mientras que algunos reportes destacan resultados 
+positivos de las RS en el aprendizaje, la interacción social y el bienestar, otras 
+investigaciones sugieren que el uso excesivo de las RS induce una disminución en la 
+atención, el control cognitivo y emocional, y aumenta los trastornos relacionados con la 
+salud mental (ej, depresión y ansiedad). De forma interesante, las funciones cognitivas y 
+ARTICLE HISTORY
+Received 7 March 2025 
+Revised 1 August 2025 
+Accepted 12 August 2025  
+KEYWORDS
+Arts-based interventions; 
+adolescents; social media; 
+mental health; cognition; 
+brain connectivity
+PALABRAS CLAVE
+Intervenciones basadas en 
+artes; adolescentes; redes 
+sociales; salud mental; 
+cognición; conectividad 
+cerebral; protocolo
+HIGHLIGHTS
+• In today’s highly digital 
+world, where smartphones 
+and social media are 
+ubiquitous among children 
+and adolescents, debate 
+persists over which online 
+activities benefit youth and 
+which may be harmful.
+• Mental health, attention, 
+cognitive and emotional 
+control, as well as the neural 
+underpinnings of these 
+brain functions, seem to be 
+negatively affected by social 
+media but positively 
+influenced by music, arts, 
+and creative training.
+• Our project –SMART– aims 
+to train 13–16 year-old 
+teenagers in composition 
+and editing of either music 
+or photography materials, 
+using this artistic experience 
+to promote critical thinking 
+around the use of social 
+media, in an attempt to 
+overcome the detrimental 
+mental health and cognitive  
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/by-nc/4.0/), which 
+permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been 
+published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent. 
+CONTACT  Lucia Vaquero l.vaquero@nyu.edu; Pablo Ripolles pripolles@nyu.edu 6 Washington Place, New York, 10003 NY, USA
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/20008066.2025.2550079.
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+2025, VOL. 16, NO. 1, 2550079 
+https://doi.org/10.1080/20008066.2025.2550079
+L. VAQUERO ET AL.
+2 
+emocionales que se ven afectadas negativamente por el uso intenso de RS, así como algunos 
+de sus fundamentos neuronales, han sido previa y consistentemente reportados como 
+beneficiados por intervenciones basadas en música y las artes.
+Objetivos: Aquí se presenta el protocolo para el proyecto ‘Social Media Artistic tRaining in 
+Teenagers (SMART)’: se emplearán intervenciones digitales basadas en artes para enseñar a 
+adolescentes a utilizar las RS de forma más estimulante y orientada a objetivos, en el 
+contexto del aprendizaje de composición/edición musical o fotográfica mediante programas 
+específicos de software de código abierto.
+Métodos: Los participantes (de 13 a 16 años) serán evaluados antes y después de completar un 
+programa de intervención de 3 meses de composición/edición musical o fotográfica. Los 
+participantes también proporcionarán mediciones semanales de uso de RS y estado de 
+ánimo. También se reclutará un grupo control pasivo equivalente, que será evaluado y 
+seguido durante 3 meses. Las evaluaciones incluirán mediciones cognitivas (atención), de 
+estado de ánimo y de salud mental (depresión, estrés, ansiedad, autoestima), así como 
+biomarcadores de conectividad funcional y estructural y morfológicos obtenidos mediante 
+técnicas de RNM y MEG (magnetoencefalografía).
+Discusión: Esperamos cambios observables con el uso autoinformado y las actitudes hacia las 
+RS, y beneficios en las mediciones de atención, estado de ánimo y salud mental, así como en los 
+sustratos neuronales que sustentan estos procesos. Los datos que planeamos recolectar 
+confirmarán o desafiarán estas expectativas, con el objetivo de mejorar nuestra 
+comprensión del impacto del uso excesivo de RS sobre la función cerebral, el estado 
+cognitivo y la salud mental. Nuestros hallazgos podrían, además, orientar estrategias 
+potenciales para mitigar los efectos negativos de las RS.
+1. Background
+The use of digital devices (i.e. smartphones, tablets) with 
+access to online activities and social media platforms has 
+exponentially increased in the last decades. Currently, 
+more than 60% of the global population uses the internet –with almost 95% of users connecting through their 
+smartphones– and around 5 billion people have a social 
+media (SM) account (Meltwater Global Digital Report, 
+2024). A growing social concern is the recognition that 
+this widespread digital connectedness is not just present 
+among adults but is perhaps even more prevalent among 
+youth. For the past two decades, children have increas
+ingly been introduced to smartphones and social 
+media as early as age two, and previous reports suggest 
+that around 10% of 1 year-old infants are already 
+being regularly exposed to these devices/sites nowadays 
+(Chang et al., 2018; Durham et al., 2021; Kim et al., 2020; 
+Zimmerman et al., 2007). Regarding SM usage, 40% of 
+children 8–12 years old report using these sites despite 
+being under the legal age to access these platforms, 
+although this may be changing with modifications that 
+SM companies are starting to implement, such as the 
+Instagram Teen Accounts (Meta News, 2024), or with 
+public-health-based governmental initiatives such as 
+Australia’s Online Safety Amendment (Social Media 
+Minimum Age) Act 2024 (Australian Government eSaf
+ety Commissioner, 2024). Nevertheless, more than a 
+third of adolescents aged 13–17 years report using SM 
+‘almost constantly’ – up to 7 h per day, on average (Melt
+water Global Digital Report, 2024; Office of the US Sur
+geon General, 2023).
+effects associated with the 
+passive use of these 
+platforms.
+impairments on impulse control, executive functions, 
+cognitive flexibility and emotional regulation, as well 
+as low self-esteem and poor academic performance 
+(Kim et al., 2020; Wacks & Weinstein, 2021). Impor
+tantly, some investigations have shown that these 
+effects can evolve into serious mental health issues at 
+mid- and long-term levels, such as anxiety and 
+depression disorders that can persist into adolescence 
+and adulthood (Conte et al., 2025; Elhai et al., 2019; 
+Ivie et al., 2020; Kim et al., 2020; Wacks & Weinstein, 
+2021). However, SM effects on youth are complex and 
+their overall impact can vary depending on individual 
+differences (e.g. gender) and how social media is used 
+(Orben et al., 2022; Vidal et al., 2024).
+Interestingly, SM has also been linked to positive 
+outcomes: such as promoting healthy habits, boosting 
+creativity, building support communities, and helping 
+in new-skill acquisition (Haddock et al., 2022; Lucero, 
+2017; Vaingankar et al., 2022). According to previous 
+research, prolonged used of smartphones and SM can 
+elicit cognitive and affective benefits associated with 
+empathic abilities in adolescents, and a greater engage
+ment in health promotion activities across the lifespan 
+(Gabarron et al., 2021; Manago et al., 2012; O’Reilly 
+et al., 2019; Uhls et al., 2017).
+Research has found evidence that excessive smart
+phone use during childhood and adolescence is associ
+ated with negative effects on cognitive and emotional 
+control. Specifically, cognitive and mental health 
+issues linked to overuse of smartphones/SM include 
+At the neural level, there is limited evidence regard
+ing the structural and functional brain underpinnings 
+of SM use/overuse. Neuroimaging reports with adult 
+participants have mainly shown a relationship 
+between SM usage and brain regions and networks 
+involved in reward processing and executive func
+tions. Specifically, excessive use or SM overuse is 
+linked to reduced grey matter volume in the amygdala, 
+ventral striatum, and the nucleus accumbens (He 
+et al., 2017), to enhanced connectivity between reward 
+pathways (e.g. connections to ventral striatum and 
+3
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+ventromedial prefrontal cortex; Wilmer et al., 2019), and 
+to deficient interhemispheric connectivity (e.g. corpus 
+callosum, He et al., 2018). Lower or regular SM usage, 
+on the other hand, has been reported to be associated 
+with enhanced structural and functional connectivity 
+in networks connecting reward-related areas with 
+regions related to executive functions (e.g. ventral stria
+tum and the dorsolateral prefrontal cortex; Wilmer et al., 
+2019), as well as with the self-referential cognition net
+work (consisting of the medial prefrontal cortex and 
+posterior cingulate cortex/precuneus, and involved in 
+self-reflection and comparisons with others), the salience 
+network (covering the anterior insula and dorsal part of 
+the anterior cingulate cortex), or the default mode net
+work (see Wadsley & Ihssen, 2023 for a review). Most 
+of these previous reports focused on investigating SM 
+or internet addiction, and their brain structural and 
+functional findings support well-known theories of 
+reward deficiency, enhanced impulsivity, and sensitivity 
+for immediate rewards, among others (He et al., 2017, 
+2018; Montag et al., 2017; Turel et al., 2018).
+These counterintuitive findings suggest that the 
+negative outcomes associated with SM use may not 
+directly result from excessive use itself (Montag 
+et al., 2021). Instead, the relationship between well- 
+being and SM use appears to be more complex, with 
+individual differences playing a crucial role in how 
+people experience the impact of SM. Based on pre
+vious reports (Verduyn et al., 2015, 2017), we hypoth
+esise that (i) the specific activities performed, (ii) 
+nature of content watched online, and (iii) whether 
+the use of SM is passive or active, may be crucial fac
+tors determining the effect of SM use on youth’s cog
+nition and mental health. This is supported by 
+research showing that the beneficial or detrimental 
+effects of SM on young users depend on a widespread 
+array of factors, including baseline mental health sta
+tus, number of SM accounts and concrete platforms 
+used, purpose and type of usage of these online sites, 
+and individual differences in demographic variables 
+(Nesi, 2020; Orben et al., 2022; Rajamohan et al., 
+2019; Vidal et al., 2024).
+Interestingly, the brain networks previously linked 
+to the negative impacts of SM have been shown to 
+undergo positive changes following art-based interven
+tions. Cognitive, creative, and artistically focused inter
+ventions in children and teenagers positively influence 
+wellness and induce neuroplasticity (Luis-Ruiz et al., 
+2020; Roman et al., 2017; Vander Linden et al., 2019; 
+Zatorre, 2013). Engaging in visual arts, aesthetic per
+ception activities, and music-related practices – such 
+as listening, composition, and performance – has 
+been shown to enhance the connectivity of both struc
+tural and functional brain networks across the lifespan. 
+These activities strengthen critical cortical and subcor
+tical structures, as well as key white matter pathways, 
+including the cingulum, corpus callosum, and the 
+inferior 
+longitudinal fasciculus, among others. 
+Additionally, they modulate brain plasticity functional 
+systems such as the Default Mode Network, auditory 
+and visual networks, and Executive Function/Cogni
+tive Control networks (Bashwiner et al., 2016, 2020; 
+Cheng et al., 2023; De Pisapia et al., 2016; Habibi 
+et al., 2018; Hennessy et al., 2019; Hong et al., 2023; 
+Hudziak et al., 2014; Jünemann et al., 2023; Li et al., 
+2018; Wang et al., 2022). These plastic changes seem 
+to be associated with better cognitive performance 
+across domains, including verbal memory, attention, 
+creativity, error prediction, and emotional control 
+(Chatterjee, 2011; François et al., 2015; Moumdjian 
+et al., 2017; Särkämö & Soto, 2012; Sihvonen et al., 
+2017). Based on these reports, we hypothesise that 
+art-based interventions could be a useful approach to 
+overcome the detrimental effects of an excessive passive 
+SM use in children and adolescents. We hypothesise 
+that the generalised brain stimulation and enriched 
+environment that art processes provide (Särkämö 
+et al., 2008; Zatorre, 2013), paired with their inherent 
+rewarding component (Mas-Herrero et al., 2023), will 
+elicit a boost in different cognitive and emotional func
+tions, that may transfer to other domains beyond those 
+explicitly practiced in visual arts and musical interven
+tions (although these have been less consistently repli
+cated, Alain et al., 2019; Moreno & Bidelman, 2014). It 
+is important to note, however, that previous reports 
+suggest that when music and visual arts interventions 
+are compared, music seems to be the experience associ
+ated with greater plastic changes or transfer effects to 
+other cognitive domains (Flaugnacco et al., 2015; Fran
+çois et al., 2013; Frischen et al., 2021; Jaschke et al., 2018; 
+Lu et al., 2022).
+Here we present and define a protocol for the 
+SMART (Social Media Artistic tRaining in Teenagers: 
+https://smartproject.blog/) intervention. The main 
+research question behind SMART is to assess whether 
+art appreciation and practice can change the way teen
+agers interact with and use SM; and whether and how 
+digital arts-based interventions can help to overcome 
+the negative influence of smart devices and social 
+media platforms on mental health.
+1.1. Goals of the current study
+SMART aims to promote changes in the way teenagers 
+use SM by implementing an arts-based intervention. 
+The protocol combines training in accessible, open- 
+source digital tools for the creation of music or visual 
+art with group discussions that stimulate critical think
+ing about SM. We hypothesise that the stimulation pro
+vided by the art-based training together with the SM 
+resources and reflections will foster a more mindful 
+and balanced approach to social media use, aiding the 
+participants, for instance, to be critical about the con
+tent shared online, to seek healthier and more 
+L. VAQUERO ET AL.
+4 
+respectful online interactions, and/or to look for more 
+stimulating activities to do online. In other words, the 
+main goal of this project is to assess how the SMART 
+intervention changes SM behaviour in teenagers.
+SMART’s secondary goal is to elucidate the behav
+ioural and brain mechanisms behind the effects that 
+the art-based training (in music or visual-arts) might 
+have on cognition and mental health. Based on pre
+vious work (Barnett & Vasiu, 2024; Fong et al., 2021; 
+Masika et al., 2020; Särkämö et al., 2014; Sihvonen 
+et al., 2017, 2020, 2021), we hypothesise that improve
+ments in mental health variables will correlate with 
+plastic changes in emotional and reward-related 
+centres (e.g. ventral striatum, amygdala, ventromedial 
+prefrontal cortex), while changes in cognitive function 
+will be related to plastic changes in prefrontal regions 
+related to attention and executive functions.
+1.2. Target population
+Teenagers aged 13–16 years (9th–10th graders in the 
+USA educational system) attending participating pub
+lic high schools in the New York City area. Target was 
+placed on public high schools because we believe the 
+population attending these institutions are more repre
+sentative of the general population of New York City.
+2. Methods
+2.1. Summary of intervention study design
+Two active groups and a passive control group will be 
+included in the study, with the two active groups 
+receiving one of the interventions (either music or 
+visual-arts). Interventions will last for 3 months (12 
+weeks), consisting of two 45-min arts-based classes 
+per week, plus a 15-minute session per week focused 
+on discussions, reflections, and activities around social 
+media. Before and after this intervention period, par
+ticipants will complete two evaluation phases where 
+measures of mental-health, behaviour, and cognition 
+will be collected. We will also collect weekly measures 
+of mood and SM usage from all participants through 
+online surveys. See Figure 1 for a schematic represen
+tation of study design.
+The study aims to acquire brain structural, func
+tional, and neurophysiological data through magnetic 
+resonance imaging (MRI) and magnetoencephalogr
+apy (MEG) techniques. This part of the protocol will 
+be optional due to restrictions imposed by the 
+New York State Department of Education during 
+their ethical review of the protocol. MRI and MEG 
+data will be collected at the Center for Brain Imaging 
+at New York University (New York City, USA).
+Assessments (behavioural, neuroimaging, and neu
+rophysiological data) will be done 1–3 weeks prior to 
+the beginning of the intervention (baseline evalu
+ation), and 1–3 weeks after the end of the intervention 
+(post-intervention evaluation). Behavioural assess
+ments will occur during the same class periods 
+assigned for the intervention sessions (i.e. during 
+regular class hours or after-school hours, as agreed 
+with the participating high schools), while neuroima
+ging and neurophysiological measurements will be 
+conducted outside of scheduled class times.
+2.2. Study setting
+Data collection is planned to be conducted in the 
+New York City area, through collaborative 
+Figure 1. Schematic representation of the SMART project design: 2 evaluations (Baseline, Post-Intervention), with a 3-month (i.e. 
+12 weeks) intervention or control period. Open-source software that will be used during the interventions is depicted by their logo 
+in the corresponding column: Soundtrap for the Music composition programme, and PixelR for the Visual-Arts (i.e. photography) 
+intervention programme. Abbreviations: MUS: music composition/edition intervention group; VIS: photography/visual-arts com
+position/edition intervention group; CON: control group with no intervention; min: minutes.
+5
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+partnerships with public high schools in Manhattan 
+and Brooklyn. Regular classrooms or auditorium 
+spaces will be used for SMART sessions, depending 
+on the availability in each high school and the size 
+of the student group at the time of intervention. Stu
+dents in both intervention groups will use their smart
+phones to take pictures (VIS), record sounds (MUS), 
+and do some level of editing through built-in and 
+available editing software in their personal devices 
+(VIS, MUS), and/or will use the available laptops in 
+the schools – e.g. Macbook Pro A2159– (MUS). Expert 
+instructors and teaching and counselling personnel 
+from the participating highschools will be present at 
+all intervention sessions (see details about personnel 
+below).
+2.3. Participants
+2.3.1. Inclusion & exclusion criteria
+As criteria for inclusion, students will be eligible irre
+spective of their country of birth, native language, 
+race, or gender. Furthermore, we will not exclude sub
+jects based on their neurodevelopmental, neurological, 
+or psychiatric disorders, or based on their background 
+or previous training in music, visual/plastic arts, or 
+f
+ilm/multimedia. Thus, any student attending the par
+ticipating high schools, and aged 13–16 years is a 
+potential participant.
+In addition, we intend to recruit the parents of child 
+participants to answer questions about their child. For 
+these participants, we have no inclusion criteria except 
+for being the parent/guardian of a child participating 
+in the study.
+2.3.2. Expected demographics
+Participants will be recruited from public high schools 
+from our city area with which agreements have been 
+set in place. Based on data from the from New York 
+State Education Department (NYSED) Student Infor
+mation Repository System (SIRS) regarding both gen
+eral city-wide data (Zimmerman, 2023) and average 
+data from our current participating research sites 
+(NYC Department of Education’s 2023–24 School 
+Quality Snapshot High School corresponding to our 
+participating high schools), the demographics of our 
+sample are expected to be: 47–56% female vs. 44– 
+53% male, and 0.01% non-binary students (please 
+note that the most recent official information found 
+on non-binary / gender non-conformant / gender 
+f
+luid / gender expansive students in the city of 
+implementation is from summer 2023 and is based 
+on documentation that students themselves had to 
+f
+ill out under the approval of their parents, which 
+may lead to some students deciding not to mark 
+their preferential gender category); 29–30% Asian, 
+3–8% Black, 26–31% Hispanic or Latinx, < 1% Native 
+American/Native Hawaiian/Pacific Islander, and 33– 
+35% White; 16–18% students with Individualised Edu
+cation Programs (IEPs); and 2–12% English-as-a- 
+second-language learners. In the US education system, 
+an IEP is a legal document developed for each child 
+enrolled in a public school who has an identified dis
+ability that requires special education. This document 
+is reviewed every year to ensure the appropriate pro
+gress in the child’s education (Mueller & Moriarty 
+Vick, 2019; IEP definition from the NYSED official 
+website).
+Demographics corresponding to parents of partici
+pants are expected to be similar to those of the student 
+participants. According to information obtained from 
+participating schools, the students that will be enrolled 
+in SMART will be coming mostly from Brooklyn, with 
+a few of them coming from Queens or the Bronx bor
+oughs of NYC. Families with teenagers in these bor
+oughs are expected to show significant economic 
+diversity, which may be connected to academic per
+formance disparities among our high-school stu
+dent-participants. Although specific socio-economic 
+status (SES) information from our participants and 
+their families would have to be directly asked, we 
+expect our cohort to reflect the average SES that has 
+been described for our participating high schools, as 
+well as from the NYC boroughs where they and 
+their families live. To mention a couple of specific 
+SES proxies, it is expected that between 56% and 
+73% of our students would be eligible for free lunch 
+(which indicates a medium-low family income, 
+2023–24 NYSED Student and Educator Report corre
+sponding to our participating high schools); and that 
+their families present a diverse range of maternal edu
+cation, from communities where only around 20% of 
+adults have college degrees (the Bronx: 21–23%) to 
+areas with bachelor’s degree attainment rates 
+approaching 50% (Brooklyn: 46%, Queens: 34–39%) 
+(Neches et al., 2024). This data suggests that our par
+ticipant cohort would likely encompass both economi
+cally disadvantaged and more privileged family 
+contexts typical of NYC’s outer boroughs and the 
+underserved public high schools they host.
+2.3.3. Sample size / power analysis
+A pre–post longitudinal experimental design will be 
+implemented. Recruited participants (whose parents 
+have given their written permission and who have 
+assented to participate) will be divided in three groups: 
+(a) Music composition/edition intervention (MUS 
+group), consisting in a training in using music cre
+ation and edition by learning to use open-source digi
+tal tools combined with an introduction to music 
+appreciation and structural musical concepts; (b) Pho
+tography composition/edition intervention (VIS 
+group), comprising image edition training using 
+open-source digital tools combined with an introduc
+tion to photography/visual art appreciation and basic 
+L. VAQUERO ET AL.
+6 
+photography concepts; (c) Control group, with no 
+specific intervention (CON group). Based on this 
+design, a sample size analysis using MorePower 
+(Campbell & Thompson, 2012) determined that, to 
+have 80% of power to detect a large effect in a 2 (Base
+line/Post) × 3 (Group: MUS, VIS, CON) mixed 
+between-within repeated measures ANOVA, 18 par
+ticipants per group are required. We intend to recruit 
+30 participants per group to account for attrition.
+2.3.4. Recruitment strategy
+Recruitment will take place adapting to the communi
+cation channels already in place at the participating 
+high schools. This process will be completed by 
+using flyers posted in the high school or sent to the 
+families physically and/or via the high-school newslet
+ter. Researchers will also attend school orientation, 
+open-house events, after-school fairs and/or specific 
+Q&A sessions at the schools or online to provide 
+information about the study to parents and students. 
+If students are interested in participating, researchers 
+will have consent, assent, and parent permission 
+forms available for students and their parents/guar
+dians to sign. Students will be asked to contact the 
+researcher if they are interested in participating. 
+Once they have contacted the researcher, they will 
+be given a physical parent consent form to bring 
+home for their parent or guardian to sign. After 
+their parents have reviewed and signed their consent 
+form granting them permission to participate, stu
+dents will be provided with an assent form to read 
+and agree to participate.
+Parents will receive an extra consent form and will 
+be asked to complete questionnaires at the beginning 
+and end of their child’s intervention. In that consent 
+form, parents will be asked whether they would like 
+to receive information about additional optional pro
+cedures within this same study. If they decide to 
+receive this information, the research team will 
+explain the optional neuroimaging sessions their 
+child could complete, and will provide the parents 
+with both parental consent and child assent forms 
+for both MRI and MEG sessions.
+While participants for the MUS and VIS groups 
+will be recruited from the participating high schools, 
+two complementary strategies will be employed to 
+recruit the control group: (a) utilising an internal lab 
+database, and (b) extending recruitment efforts within 
+the same participating high schools. In the first case, a 
+database of former research participants from our labs 
+and institutions who agreed to be recontacted will be 
+used to find a CON group matched in age, gender, 
+and socioeconomic status to the active-intervention 
+groups. In both cases, participants from the database 
+who agreed to participate in SMART will complete a 
+baseline and a 3-month follow-up evaluation and 
+will be contacted weekly to complete the mood and 
+SM usage surveys and will not receive any training. 
+In the second case, participants in the CON group 
+recruited from participating high schools, will be 
+offered to complete the training of their choice in 
+the following semester after they have completed 
+their participation as a control participant in the 
+programme.
+Student participants will be compensated for their 
+time in each of the two behavioural assessments with 
+a $25 Visa gift card. If any student withdraws from 
+the study earlier than expected, they will be compen
+sated with Visa gift cards for their first assessment ses
+sion only. Parents of students participating in SMART 
+will be also compensated for each of their assessments 
+with a $25 Visa gift card, being only compensated for 
+their first assessment if they withdraw from the study 
+early. Compensation of students and parents will be 
+handled independently, following each participant’s 
+assessment session(s) completion. The amount allo
+cated for compensating participants for their time 
+invested in the behavioural assessment part of our 
+protocol (i.e. $25) was chosen to match the maximum 
+amount possible as per the NYC Department of Edu
+cation guidelines for studies conducted in public high 
+school populations.
+If students choose and are given permission to par
+ticipate in the optional neuroimaging part of the 
+study, they will be compensated for their time with a 
+$40 Visa gift card for each of the two scanning sessions 
+(MEG, MRI) at each assessment point (baseline, post- 
+intervention). They will also receive a $10 Visa gift 
+card to reimburse their travels to NYU facilities, 
+where the Center for Brain Imaging is located. If 
+they choose to only complete one of the neuroimaging 
+sessions or only one of the assessments, participants 
+will be paid consequently, based on the sessions they 
+complete. Amounts for compensating participation 
+in the neuroimaging part of SMART (i.e. $40 per 
+scan, $10 for transportation) were decided based on 
+usual practices at NYU’s Center for Brain Imaging.
+2.3.5. Group assignment procedure
+Group assignments will be performed based on the 
+participating high school demands and curriculum 
+(during regular or after-school classes), as well as 
+on teaching artists’ availability, while attempting to 
+take students’ preferences into account as much as 
+possible. Thus, full randomisation will not be 
+implemented. Variables to control for school of ori
+gin will be included in the statistical analyses to 
+compensate.
+2.4. Study personnel
+2.4.1. Teaching artists
+Teaching artists (TAs) in charge of SMART’s arts- 
+based interventions have been selected to: (1) have 
+7
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+extensive artistic experience in the disciplines included 
+in our interventions, and (2) have experience in teach
+ing and in developing and leading workshops with an 
+artistic curriculum.
+For the music composition/edition intervention, all 
+TAs are part of the American Composers Orchestra 
+(ACO) education team. ACO is a New York-based 
+organisation dedicated to the creation, celebration, 
+performance and promotion of orchestral music by 
+American composers. ACO maintains a robust edu
+cational programme for teenagers and young adults 
+that leverages music composition and improvisation 
+as a gateway to creative thinking.
+Regarding the photography composition/edition 
+intervention, agreements have been placed with free
+lancing TAs, who have been selected with the follow
+ing criteria: (1) professional artists showing specific 
+higher education in visual-arts/filmmaking matters, 
+(2) extensive experience creating and participating in 
+visual arts/filmmaking projects with an important 
+emphasis on photography, (3) proven experience in 
+the use of open-source digital tools, and (4) experience 
+teaching visual-arts / photography / filmmaking con
+tent for youth audiences.
+2.4.2. High school personnel
+In order to adapt to actual demands of the participat
+ing high schools, and to disrupt as little as possible 
+their regular activities, the SMART project will be 
+implemented either (a) as part of the regular advi
+sory–arts’ lesson curriculum or any other open-curri
+culum subject, or (b) as part of the after–school 
+activities programme.
+In the first case, the regular high school teacher in 
+charge of the assigned subject will be present at all 
+times during the intervention sessions/periods. 
+These teachers will usually have a background in per
+forming arts or science-related domains. In the second 
+implementation alternative, personnel from the coun
+selling team or other personnel assigned by the princi
+pal to supervise the after-school activities will be 
+present during the intervention sessions.
+2.5. Description of the interventions
+The curriculum / syllabus for both interventions was 
+planned and developed with teaching artists and edu
+cation directors of ACO –MUS intervention–, and the 
+Downtown Community Television Center (DCTV, a 
+non-profit organisation that aims to use filmmaking 
+to inform and empower communities, with accessible 
+visual-arts educative programmes) –VIS intervention. 
+To create parallel content between the music and the 
+photography syllabi, the intervention materials were 
+created simultaneously for both types of interven
+tion-groups (MUS, VIS). ACO’s Sonic Spark Lab’s 
+lesson programme (https://www.americancomposers. 
+org/education/sonic-spark-lab) served as the basis 
+for our novel curriculum. ACO Sonic Spark Lab is 
+an educational arts-integrated programme addressed 
+to middle and high/school students that teaches how 
+to engage creativity and imagination to transform an 
+idea or ‘spark’ into an artistic project, such as a full 
+song. Several aspects of ACO Sonic Spark Lab’s pro
+gramme were tailored to fit the scientific demands, 
+timeline, and ideas of the SMART project. The 
+materials for the VIS intervention were created by 
+DCTV specialists by matching the structure of the 
+MUS ones, with input from the freelancing visual- 
+arts TAs. The materials for the MUS and VIS interven
+tion programmes, including the social media com
+ponent of the interventions can be found in the 
+Supplementary Materials.
+2.5.1. Music composition / edition (MUS group)
+Lessons in the MUS intervention will review basic 
+structural musical concepts, making the students prac
+tice active listening and music appreciation skills, 
+while teaching them to use specific open-source 
+music-composition software (i.e. Soundtrap). Specific 
+software was selected to be accessible (free to use) 
+and compatible with the usual digital devices the stu
+dents have access to (e.g. their smartphones, tablets, 
+and/or class laptops). Overall, our intervention pro
+gramme will give the students tools to express them
+selves and express their identity through music, 
+while learning about musical storytelling through the 
+creation of their own musical pieces from scratch.
+2.5.2. Visual-arts composition / edition (VIS 
+group)
+of 
+Lessons in the VIS intervention will review basic struc
+tural photography/visual-arts concepts as well as his
+tory 
+photography to provide a linear 
+understanding of how photography as a media has 
+evolved, teaching the students active observation and 
+visual-arts appreciation skills, and the use of specific 
+open-source photography edition software (i.e. built- 
+in photo editors in students’ smartphones and the 
+free software Pixlr). Specific software for this interven
+tion was selected to be accessible to the students (free 
+to use) and usable on their class laptops or other digi
+tal devices they may have access to. All in all, this 
+intervention programme will give the students 
+resources to express themselves and their identity 
+through photography / visual-arts, while learning 
+about visual storytelling through the creation of their 
+own photography projects from scratch.
+2.5.3. Social media component of the 
+interventions
+During the intervention period, activities involving 
+the direct use of social media or reflections around it 
+will be included, aligning with the goals and activities 
+L. VAQUERO ET AL.
+8 
+planned for every week as part of the arts-based ses
+sions. This will be implemented via guided discussions 
+with the students or activities implemented in class, 
+under the guidance of the SMART research team, 
+for 15 min a week. Among other topics, during this 
+allocated time students will participate in activities 
+including: looking for artistic inspirations, comment
+ing on their favourite artists, discussing popularity 
+online, reflecting on what artists share online, con
+verse about the expression of opinions online / hate 
+culture, and giving and managing constructive criti
+cisms. The social media component of the interven
+tions can be found in the Supplementary Materials.
+2.6. Outcome measures
+2.6.1. Social media usage
+We have developed a self-report questionnaire, the 
+‘Usage Attitudes & Opinions about Social Media 
+Questionnaire’ (UAOSMQ) to measure different 
+aspects of social media usage. The questionnaire will 
+be completed at baseline and post-intervention. The 
+full questionnaire can be found in the Supplementary 
+Materials. In addition to the UAOSMQ, participants 
+will provide weekly measures of social media use. 
+These measures will be collected for all groups, includ
+ing the CON. The following sections specify the differ
+ent SM-related measures that will be collected.
+2.6.1.1. Changes in attitudes and importance given to 
+SM. Changes in attitudes and importance given to SM 
+will be measured using the following items of the 
+UAOSMQ: 6 (open/ended question about their 
+opinion of SM) and 7 (multiple forced choice or 
+MFC with 5 levels, ranging from ‘Not important at 
+all’ to ‘I can not imagine a day without using social 
+media’).
+2.6.1.2. Changes in SM profiles followed in SM.
+Changes in SM profiles followed will be measured 
+using the following items of the UAOSMQ: 3 (list 
+where they can mark and add as many options as 
+needed), 4 (MFC to mark whether the profiles fol
+lowed are mostly female, male, mixed, LGBTIQ+ or 
+neutral-led or if they do not know), and 5 (list to 
+mark the options that apply to what they expect 
+from the accounts they follow, i.e. entertainment, 
+news, etc.). Furthermore, the post-intervention ver
+sion of the UAOSMQ includes an item for the partici
+pants to self-report on their perceived change in 
+profiles they follow: item 16 (open-ended question 
+about whether they have changed the profiles they 
+follow).
+2.6.1.3. Changes in mood and emotional reaction 
+while being online. Changes in Mood and Emotional 
+Reaction while being online will be measured using 
+the following items of the UAOSMQ: 8, 10.1, and 
+10.2 (these three items consist of lists of emotions to 
+mark and add as many as apply for them in each 
+situation).
+2.6.1.4. Changes in detrimental behaviours while 
+being online. Changes in several negative online beha
+viours will be measured using UAOSMQ items: 9.1 
+(MFC with 5 levels to report whether they compare 
+themselves with the people they see online, ranging 
+from ‘Yes, always’ to ‘No, never’) and 9.2 (MFC with 
+3 levels to report how they feel when they compare 
+themselves with people online, ranging from ‘Mostly 
+happy’ to ‘Mostly unhappy’).
+2.6.1.5. Changes in the use of smartphones during in- 
+person social contexts. Changes in the use of smart
+phone / social media while being with friends will be 
+registered with UAOSMQ items: 13.1 (MFC with 5 
+levels to report whether they use their smartphone 
+while being with friends, ranging from ‘Yes, always’ 
+to ‘No, never’), 13.2 (MFC with 5 levels to report 
+whether they use SM specifically, when using their 
+smartphones in this social gatherings, ranging from 
+‘Yes, always’ to ‘Non, never’), and 14 (open-ended 
+question for them to explain what they think the use 
+of smartphones and SM in social contexts adds to 
+the situation).
+2.6.1.6. Changes in self-reported overall screen-time.
+Changes in self-reported overall screen-time will be 
+measured using item 1 of the UAOSMQ (MFC with 
+5 levels, ranging from ‘Less than 1 hour/day’ to 
+‘More than 10 hours/day’).
+2.6.1.7. Changes in SM platforms and overall per
+ceived usage. Using UAOSMQ item 2 (participants 
+can mark and add as many options as needed), we 
+will measure changes in the SM platforms used. In 
+addition, during the post-intervention evaluation, 
+there are 3 items that will help us measure the changes 
+the participants have perceived in their usage of SM: 
+15.1 (MFC with 4 levels to report whether they think 
+they have changed in their way of using SM, ranging 
+from ‘Not really, I use them in the same way’ to 
+‘Yes, I have completely change the way I use social 
+media’), 15.2 and 16 (both of them open-ended ques
+tions to report how has that change been and what 
+have been the changes in the profiles they follow).
+2.6.1.8. Changes in types of posts shared online.
+Changes in types of posts shared online will be 
+measured using the following items of the UAOSMQ: 
+11.1 (open-ended question about what they share 
+online), 11.2 (MFC with 6 levels to report frequency 
+of posting, ranging from ‘Once a month’ to ‘Several 
+posts per day’), and 12 (subdivided in 6 sub-items 
+9
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+showing different potential situations and then asking 
+how likely they would be to share a post in that situ
+ation using a MFC that reflects a range of ‘taking a 
+couple of pictures or video and sharing on your favor
+ite platform’ to ‘taking a picture or a video for your 
+records only’).
+2.6.1.9. Weekly evolution of overall screen-time.
+Number of hours of screen-time use will be provided 
+by each participant via a self-report questionnaire to 
+be filled by using the screen-time built-in app of 
+their smartphone once a week.
+2.6.1.10. Weekly evolution of apps most used during 
+weekday. Participants will provide the list of actual 
+most-used apps and for how long has each of them 
+been used during a given weekday as listed in the 
+built-in screen-time app of their smartphones. Specifi
+cally, we will ask the participants during a weekday 
+(Tue-Fri, depending on the days the SMART team 
+will be in the school in each participating site) to fill 
+in the information corresponding to the previous day.
+2.6.1.11. Weekly evaluation of apps most used during 
+weekend day. As recorded for weekdays, participants 
+will consult and annotate every week the list of their 
+most-used apps and the amount of time invested in 
+each of them during a weekend day. On the day of 
+registering these weekly measures, we will ask the par
+ticipants to fill the information corresponding to the 
+previous Saturday.
+2.6.1.12. Output measures from parental reports.
+Parents/guardians will fill the parent/guardian version 
+of the UAOSMQ as well, in order to measure parents’ 
+attitudes and importance towards SM, but mostly, 
+their perceptions of their children’s attitudes, usage 
+and importance of SM, structured in a parallel way 
+as the UAOSMQ filled by the teen participants, and 
+differing on items: 1.2 (open-ended question about 
+their opinion on the amount of time their child spends 
+online), 6 (open-ended question about parent’s 
+opinion on SM –pre-intervention–, or whether their 
+opinion has changed in the last 3 months –post-inter
+vention–), 7 (MFC with 5 levels, ranging from ‘less 
+than an 1 hour/day’ to ‘more than 10 hours a day’ to 
+measure the time the parents spend on SM), 8 (lists 
+of emotions to mark and add as many as apply to 
+report the feelings parents have while using SM), 
+and 14 (open-ended question to report whether the 
+parents have ever shared their personal opinion 
+about SM with their child). The parental version of 
+the UAOSMQ can be found as Supplementary 
+Material.
+2.6.2. Mental health markers
+2.6.2.1. Evolution and changes in mood. The ‘Positive 
+and Negative Affective Scale’ (PANAS – Watson et al., 
+1988; primary outcome) will be collected at baseline 
+and post-intervention and also on a weekly basis 
+during the intervention period (or 3-month partici
+pation, in the case of the CON group). The PANAS 
+consists of a list of 10 positive emotion-related adjec
+tives and a list of 10 negative emotion-related adjec
+tives, presented in an intercalated order. Its score 
+ranges from 10 to 50 for Positive Affect, with greater 
+values meaning greater presence of positive mood; 
+and from 10 to 50 for Negative Affect, with greater 
+values meaning greater presence of negative mood.
+In addition, we will also measure the baseline vs 
+post-intervention potential differences in Total Mood 
+Disturbance index (secondary outcome), a score 
+obtained through the Profile of Mood and States 
+Scale (POMS, McNair et al., 1992). The Total Mood 
+Disturbance measure is calculated out of summing 
+up the negative-mood subscales (Anger-Hostility: 
+0–20; Confusion-Bewilderment: 0–20; Depression- 
+Dejection: 0–28; Fatigue-Inertia: 0–20; Tension- 
+Anxiety: 0–24) and subtract the positive mood 
+subscale (Vigor-Activity: 0–24). The higher the scores 
+the greater the probability of having a mood-related 
+issue.
+2.6.2.2. Changes in self-Esteem. We will use the 
+Rosenberg Self-Esteem Questionnaire (Rosenberg, 
+1965) at both evaluation timepoints to understand 
+potential post – baseline differences in self esteem (pri
+mary outcome). This test ranges from 0 to 30, with 
+scores between 15 and 25 indicating a normal range 
+and scores below 15 suggesting low self esteem.
+2.6.2.3. Changes in depression. The Children 
+Depression Inventory (CDI, Kovacs, 1981, 1992) will 
+be used to measure post – baseline differences in 
+depressive state (primary outcome) in our partici
+pants. The CDI is a 27-item scale ranging from 0 to 
+54: the higher the score, the higher the depressive 
+state.
+In addition, we will also collect the ‘Depression, 
+Anxiety, and Stress Scale 21’ or DASS-21 (Lovibond 
+& Lovibond, 1995). Using the DASS-21 – Depression 
+subscale we will measure differences between baseline 
+and 3-month/post-intervention in depression states 
+(secondary outcome). 7 items are dedicated to 
+measuring depression within the DASS-21 scale. 
+Scores range from 0 to 42 points, with higher scores 
+indicating more severe depressive symptoms: scores 
+14–20 suggest moderate depression, scores greater 
+than 28 suggest extremely severe depression.
+2.6.2.4. Changes in anxiety. Anxiety will be mainly 
+measured via the ‘Screen for Child Anxiety Related 
+L. VAQUERO ET AL.
+2.6.3. Cognitive markers
+10 
+Disorders’ (SCARED, Birmaher et al., 1997) ques
+tionnaire, whose scores range from 0 to 82. Values 
+greater than 25 in the total score indicate the pres
+ence of anxiety disorder. Further, it can be subdi
+vided in subscales for Panic Disorder (cut-off: 7), 
+Generalized Anxiety Disorder (cut-off: 9), Separ
+ation Anxiety Disorder (cut-off: 5), Social Anxiety 
+Disorder (cut off: 8), and School Avoidance (cut 
+off: 3). Hence, post – baseline differences in Anxiety 
+as measured by SCARED (primary outcome) will be 
+explored.
+Moreover, we will measure changes in anxiety 
+before and after the intervention period by applying 
+the DASS-21 – Anxiety subscale (secondary outcome). 
+DASS-21 dedicates 7 items to measure anxiety. Scores 
+range from 0 to 42 points, with higher scores indicat
+ing more severe depressive symptoms: scores 10–14 
+suggest moderate anxiety, scores greater than 20 
+suggest extremely severe anxiety.
+Lastly, we will also measure post-intervention – 
+baseline changes in social anxiety (secondary outcome) 
+via the ‘Social Anxiety Scale for Adolescents’ question
+naire (SAS-A, La Greca & Lopez, 1998). The SAS-A is 
+an 18-item scale whose total scores range from 18 to 
+90 points; it also counts with subscales in Fear of 
+Negative Evaluation (8–40), Social Avoidance and 
+Distress–New (6–30), and Social Avoidance and Dis
+tress–General (4–20). The higher the scores, the 
+greater the social anxiety symptoms (the usual rec
+ommended cut-off for interpreting this test’s results 
+is 50; Ranta et al., 2012).
+2.6.2.5. Changes in stress. Post-intervention – baseline 
+differences in stress (secondary outcome) will be 
+measured via the DASS-21 – Stress subscale. 7 items 
+within the DASS-21 are dedicated to evaluating stress 
+states. Scores range from 0 to 42 points, with higher 
+scores indicating more severe stress symptoms: scores 
+19–25 suggest moderate stress, scores greater than 34 
+suggest extremely severe stress.
+2.6.2.6. Output measures from parental reports. Par
+ticipants’ parents who decide to participate in the 
+project will be asked to fill a baseline and a post- 
+intervention evaluation concerning some aspects of 
+their child’s mental health. Specifically, participating 
+parents will fill the parent/guardian report from: 
+BASC3 (a questionnaire with 29 MFC items identi
+fying behavioural and emotional risk of the child, 
+evaluating the relationships between the student 
+and their parents, conformed by 4 subscales with 
+specific ranges of normality, Reynolds & Kram
+phaus, 2015), and SCARED (a test with 41 MFC 
+items measuring social anxiety in their kids, with 
+scores above 25 indicating potential presence of 
+social anxiety in their child; Birmaher et al., 1997).
+Based on previous findings of art-based interventions’ 
+influence on cognitive functions (Chatterjee et al., 
+2011; Flaugnacco et al., 2015; François et al., 2013; 
+Frischen et al., 2021; Jaschke et al., 2018; Hennessy 
+et al., 2019; Särkämö & Soto, 2012), we decided to 
+assess the effects of the intervention in attention, ver
+bal learning and memory, and working memory.
+2.6.3.1. Changes in selective attention. Selective atten
+tion will be measured via a computerised attentional 
+f
+lanker task (Eriksen & Eriksen, 1974; Sanders & 
+Lamers, 2002) previously validated elsewhere (Orpella 
+et al., 2025). In brief, in each trial, a single line formed 
+with 5 arrows is displayed on a screen. The surround
+ing arrows in the row could: point in the same direc
+tion as the one located at the centre (congruent 
+condition), point in the opposite direction (incongru
+ent condition), be changed by squares (neutral con
+dition), or be changed by ‘X’ symbols in which case 
+the participant will have to inhibit their response 
+(‘No-Go’ inhibition condition; see Figure 2(A,B)). 
+Participants will be asked to respond as quickly as 
+possible using the computer keyboard arrow keys 
+whether the arrow in the centre of the row is pointing 
+to the left or the right, except in the case of the No-Go 
+trials, where the correct response is not to press any 
+button. Each trial is preceded by a fixation cross dis
+played in the centre of the screen for 2 s; then, the 
+f
+lanker stimulus appears for a maximum of 2 s and 
+participants’ responses will be encoded during a win
+dow of 3 s maximum after the flanker stimulus 
+appears on the screen.
+The task will start by presenting 24 training trials to 
+familiarise the participants with the task. After each of 
+these trials, feedback is provided by displaying on the 
+screen the words ‘Correct!’ or ‘Incorrect!’ immediately 
+after response or after the 3-second after-stimulus 
+onset window if no response is provided. After the 
+training trials, 72 test trials will have to be completed, 
+with the same structure as the training trials but with
+out any feedback displayed on the screen. Testing 
+trials will be organised as follows: 18 trials per con
+dition, with half of the presentations showing the 
+centre arrow pointing towards the right, and the 
+other half pointing towards the left. Furthermore, 
+the task has been programmed so that trial duration 
+is standardised in order to maintain the overall dur
+ation of the task at 6 min. Trial standardisation is pro
+vided by making the test trials appear exactly 5 s apart 
+by introducing variable duration intervals after par
+ticipants’ responses in a way that reaction time plus 
+the introduced interval is always equal to 3 s; adding 
+up the two seconds allocated for the pre-stimulus 
+f
+ixation cross presentations, results in the 5 s window 
+of maximum total trial duration.
+11
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+Figure 2. Schematic representation of the cognitive tasks. Flanker Task: (A) Depiction of the Familiarisation Phase, with fixation 
+cross between trials, a possible response in the arrow-buttons of the computer keyboard, followed by the corresponding feedback 
+in each case. From top to bottom, congruent, incongruent, neutral, and No-Go conditions. (B) Test Phase, with the same organ
+isation and type of presentation of stimuli and conditions, but without feedback given to participants. FOIB task: (C) Target Fam
+iliarisation Phase in the two possible memory set sizes (top, high or MMS7: 7 different targets; bottom, low or MMS2: 2 different 
+targets). (D) Recognition test, where participants are presented with individual stimuli (faces) and they have to answer whether 
+they are targets or not. Feedback is provided to reinforce memorising the correct targets. (E) Task Familiarisation & Test Phases are 
+presented in the same manner: moving stimulus (i.e. faces) on a grey background, with a score counter and a Next button at the 
+centre of the screen. The difference is in the first part (Task Familiarisation) participants have to achieve 50 points, while in the 
+actual task (Test Phase) they have to get up to 200 points by recognising and tapping on the correct targets. Abbreviations: MMS: 
+memory set size; Y: Yes; N: No.
+Measures of response accuracy and reaction time 
+(measured from the onset of stimulus presentation) 
+for congruent, incongruent, neutral trials will be 
+obtained. For No-Go trials only accuracy will be 
+used as the correct answer is not to press any button 
+and, therefore, reaction times cannot be collected. 
+Variables from the Flanker task will allow us to 
+measure post-intervention – baseline differences in 
+attentional and inhibition/cognitive control functions 
+(primary outcome).
+2.6.3.2. Changes in focused attention and executive 
+functions. A previously developed gamified task called 
+‘Foraging Inattentional Blindness Task’ (FOIB) or 
+‘FORAGEKID’ (Gil Gomez de Liaño & Wolfe, 2022) 
+will be used for exploring focused attention and execu
+tive functions at both evaluation timepoints. In collab
+oration with these authors, we modified the 
+FORAGEKID task to adapt the stimuli to something 
+more attractive to adolescent participants (pictures 
+of celebrities, instead of pictures of stuffed animals). 
+The FOIB task allows the simultaneous evaluation of 
+executive functions and attention development in an 
+engaging and fun way, operating as a videogame. In 
+this game, participants are presented with visual tar
+gets and distractors that move around the screen, 
+and they have to find some preselected targets as 
+quickly as possible until reaching a pre-agreed score.
+The task has been programmed in Matlab 2018b 
+(The Mathworks, Natick, MA, USA) and the Psycho
+physics Toolbox version 3. The task will be presented 
+on Dell Inc. Inspiron 15 3515 laptops (with Microsoft 
+Windows 11 as OS) and participants will have to 
+respond by using the laptop’s trackpad. Monitor resol
+ution will be 1366 × 768 pixels. The stimuli (targets 
+and distractors) will be randomly moving at a constant 
+speed of 44 pixels/sec, changing directions at pseudo- 
+random intervals. The stimuli are images of well- 
+known celebrities (singers, actors, fashion models, 
+politicians, etc.) presented on a homogeneous grey 
+background. In the centre of the screen, a score will 
+be displayed and updated, with the amount of points 
+L. VAQUERO ET AL.
+12 
+the participant is gaining or losing, depending on their 
+performance on the task (correctly identified targets 
+add 1 point, non-target stimuli selected as targets 
+will subtract points to the final score).
+Stimuli images will be drawn from an image pool of 
+150 different ‘celebrities’. Each image will be a circle 
+placed on an invisible rectangle that would subtend 
+a visual angle of 1.33° height, 1.00° width at a 60 cm 
+viewing distance (although viewing distance will not 
+be controlled). In the different screens, image presen
+tation will change with possible set sizes being 40, 80 
+or 120 images. Targets will constitute 20–30% of the 
+presented items in each display. Participants will be 
+not informed about the number of targets or set 
+sizes, and targets will be randomly selected for them 
+in each display. Two runs of the task will be completed 
+by each participant to allow for two memory load con
+ditions: Low-Load Memory Set Size with 2 targets to 
+look for (MMS2), and High-Load Memory Set Size 
+with 7 different targets to search (MMS7). The mem
+ory set size indicates the number of potential targets 
+that have to be held in memory by the participants, 
+which is different from the visual set size of the num
+ber of image items displayed in each presentation 
+screen of the game. The order of presentation of 
+MMS2 and MMS7 will be randomised across 
+participants.
+The task contains a short target familiarisation 
+phase, in which the whole MSS is presented, followed 
+by individual presentation of each image in the MSS, 
+and ending with a recognition/memory test in which 
+participants are presented with images adding up to 
+double the size of the MSS (4 in the MSS2 and 14 in 
+the MSS7, 50% of them will be targets), and asked 
+one by one whether the image is a target or not. Par
+ticipants will have to get at least 80% of correct 
+responses to proceed with the game part of the FOIB 
+task; otherwise, they will repeat the recognition/mem
+ory test until reaching the 80% of correctly recognised 
+targets. Participants will have to answer whether the 
+presented images are targets (blue) or not (red) 
+using two keys of the laptop keyboard marked with 
+a sticker in blue and red colours. Responses will be fol
+lowed by immediate feedback: the words ‘Correct!’ or 
+‘Incorrect!’ will be displayed in the centre of the 
+screen. After this, a task familiarisation phase will be 
+completed, where the participants will have to recog
+nise their targets among the moving stimuli, and select 
+them as quickly as possible, completing a total score of 
+50 points. Participants can always, at any point during 
+the task, change displays by clicking on a ‘Next’ button 
+located on the centre of the screen, right above the 
+score counter. Travel time between displays after the 
+‘Next’ button is touched is set to 2 s. After completion 
+of the task familiarisation phase, a reminder with all 
+targets appears on the screen. Then, the test phase 
+will be completed, which will proceed as the 
+familiarisation phase, but participants will have to 
+reach 200 points this time. This procedure will be 
+repeated for both MSS2 and MSS7 in the correspond
+ing order for each participant. Total completion of the 
+two runs will take around 20–30 min. See Figure 2(C, 
+D,E) for a schematic representation of this task.
+Diverse variables elicited from response times and 
+search strategy can be computed from the FOIB task 
+results. First, percentage of correct responses from the 
+total tapping times (the times the participant used 
+the trackpad to select a stimuli item to respond) will 
+be computed. Then, regarding response patterns, we 
+will study runs, defined as repetitions of target 
+response (i.e. tapping the image of Billie Eilish when 
+the previous tapped target was also Billie Eilish), and 
+switches (i.e. tapping the image of Brad Pitt after tap
+ping on Billie Eilish). Runs and switch trials will equal 
+100% of correct responses. Since participants can 
+change display at any point during the task, targets 
+left on the previous display can be counted as misses. 
+Then, when distractor items are tapped on, selected 
+as targets, these will be considered as false alarm 
+(FA) errors, which will grant us the computation of 
+FA-Error Rates. Then, to study search quitting behav
+iour, we will calculate the average rate of leaving one 
+screen for the next display (calculated as the total num
+ber of points collected at the point of clicking the 
+‘Next’ button, divided by the time spent in the whole 
+task), and the instantaneous rate of leaving for the 
+next display (calculating the average reaction times 
+for each of the last 10 items tapped upon right before 
+clicking the ‘Next’ button, counting in reverse order 
+from the display switch moment).
+All these variables will give us information about 
+focus attention, visual memory and visual search 
+strategy, allowing us thus for the study of executive 
+functions. Hence, post-intervention – baseline differ
+ences in focused attention, visual search patterns and 
+executive functions (secondary outcome) will be 
+explored.
+2.6.3.3. Changes in verbal learning and memory.
+Measures of verbal learning and memory will be gath
+ered via the Rey’s Auditory Verbal Learning test 
+(RAVLT, Schmidt, 1996; Vakil & Blachstein, 1993), a 
+standard test consisting in the presentation and 
+immediate recollection of a 15-word list for five 
+times, the presentation and recollection of a distractor 
+list, and a final recollection of the repeated list without 
+presenting it again. The higher the number in each 
+trial or on the memory trial, the better the partici
+pant’s verbal learning and memory functions are 
+assumed. Thus, measures from the RAVLT will 
+grant us the possibility of studying potential post- 
+intervention – baseline changes in verbal learning and 
+memory (primary outcome).
+13
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+2.6.3.4. Changes in auditory working memory. Audi
+tory working memory will be tested at both evaluation 
+timepoints through the WAIS-V (Weschler Adult 
+Intelligence Scale, Pearson) Letter Number Sequen
+cing, a subtest of the IQ battery consisting of the pres
+entation of letters and numbers in a mixed order, 
+followed by the participant’s recollection and manipu
+lation of the stimuli so that they mentally organise and 
+say out loud first the numbers in increasing order, and 
+then the letters in alphabetical order. Scores range 
+from 0 to 21, with higher scores indicating higher 
+auditory working memory abilities (Egeland, 2015: 
+Wang et al., 2023). This test will allow us to explore 
+potential post-intervention – baseline differences in 
+auditory working memory (primary outcome).
+2.6.3.5. Changes and insights from parental reports.
+Parents will also fill the BRIEF2 questionnaire (Gioia 
+et al., 2015), a 63 MFC-item tool to discard learning 
+disabilities, attention and executive function dis
+orders, and other neuro and neuropsychological 
+developmental issues.
+2.6.4. Neuroimaging markers – MRI
+Using a 3.0T Siemens Prisma scan located at the Cen
+ter for Brain Imaging at New York University, partici
+pants who assent and whose parents consent of their 
+participation in the neuroimaging section of the pro
+tocol will complete an MRI session at baseline and 
+post-intervention. This session will serve to obtain 
+anatomical and structural connectivity. The following 
+sequences will be collected: T1-weighted, as previously 
+used to explore grey matter alterations after arts-based 
+interventions (Bashwiner et al., 2016; Habibi et al., 
+2018; Hudziak et al., 2014); diffusion-weighted MRI, 
+to explore plastic effects on white matter after arts- 
+based training (Cheng et al., 2023; Hong et al., 2023; 
+Li et al., 2018); resting state data, to study differences 
+in (MRI) functional connectivity at rest after arts- 
+based interventions (Bashwiner et al., 2020; De Pisapia 
+et al., 2016; Hennessy et al., 2019; Jünemann et al., 
+2023; Li et al., 2018); and a pathology-discarding 
+T2-weighted structural image.
+Before entering the scanner, participants will have 
+to answer a scanning contraindication form to make 
+sure it is safe for them to undergo this procedure; 
+everything metallic that participants may be carrying 
+on their outfits / bodies will be removed and a metal 
+detector will be used to guarantee participant’s safety 
+to complete the MRI session.
+2.6.4.1. Changes in functional connectivity at rest.
+Participants will complete a 6 min-long MRI resting 
+state sequence with the following parameters: voxel 
+size = 2.0 × 2.0 × 2.0 mm, TR = 1000 ms, TE = 37.40 
+ms, 66 interleaved slices, FoV = 208 mm. Participants 
+will have to maintain their gaze looking at the screen, 
+where a fixation cross will be placed in the centre for 
+the total duration of this sequence (i.e. 6 min). They 
+will be asked to keep their eyes open looking at the 
+screen, and be relaxed but as still as possible, trying 
+not to fall asleep. Resting-state information will 
+grant the study of potential differences in functional 
+connectivity at rest between baseline and post-interven
+tion evaluations (primary outcome).
+2.6.4.2. Changes in grey matter morphology / brain 
+anatomy. Participants will complete a T1-weighted 
+MRI sequence at both evaluations, that will allow for 
+the study of participants’ cortical and subcortical 
+grey matter. MPRAGE T1-weighted data will be 
+acquired with the following parameters: voxel size =  
+0.8 × 0.8 × 0.8mm, TR = 2400 ms, TE = 2.24 ms, 256 
+interleaved slices acquired in a single shot, FoV =  
+256 
+mm. During the anatomical acquisition 
+sequences, a neutral-relaxing video with slow-motion 
+nature pictures and no sound will be displayed to 
+entertain participants, and to reduce potential anxiety 
+for being inside the scanner. Participants will be asked 
+to be as relaxed but as still as possible and either look 
+at the video or close their eyes. T1-weighted data will 
+grant us the possibility of studying post-intervention – 
+baseline differences in grey matter brain morphology 
+(primary outcome).
+2.6.4.3. Changes in brain structural connectivity. A 
+diffusion-weighted MRI sequence will enable the 
+study of participants’ white matter structural connec
+tivity. The following parameters will be used to acquire 
+this data: voxel size = 1.5 × 1.5 × 1.5 mm, TR = 4150 
+ms, TE = 85.20 ms, 81 interleaved slices, FoV =  
+225 mm, 128 diffusion-weighted volumes with 9 inter
+leaved non-diffusion-weighted images; b-value of 
+1500 s/mm2. As described for the T1-weighted 
+sequence, participants will be asked to be as still as 
+possible and relaxed, and to either look at a neutral 
+nature video without sound or to just close their eyes.
+Diffusion MRI data will allow for exploring the 
+baseline vs. post-intervention differences in brain struc
+tural connectivity (primary outcome).
+2.6.5. Neurophysiological markers – MEG
+Participants who assent and whose parents consent to 
+their participation in the neurophysiological section of 
+the protocol will complete an MEG session. Data will 
+be collected using a 157-channel whole-head MEG 
+biomagnetometer with 5-cm baseline axial gradi
+ometers and max inter-sensor spacing of 2.5 cm 
+(Kanazawa Institute of Technology, Kanazawa, 
+Japan) scan located at the Center for Brain Imaging 
+at New York University (NYU)’s premises.
+Before entering the MEG scanner, all participants 
+will have to fill a form with some demographic infor
+mation, and will have to answer again a scanning 
+L. VAQUERO ET AL.
+14 
+contraindication form to make sure it is safe for them 
+to undergo this procedure. In order to localise their 
+head position during the recordings, five electromag
+netic coils will be attached to the forehead of each par
+ticipant. The location of these coils will be registered 
+with respect to the MEG sensors at the beginning 
+and end of the experimental session. Participants’ 
+head shape will be digitised immediately before enter
+ing the MEG scanner using a Polhemus digitiser in 
+combination with the Source Signal Imaging 3D digi
+tiser software, taking into account the anatomical 
+landmarks where the coils will be placed plus two 
+additional points: the nasion and bilateral tragus. 
+This will grant the proper alignment of MEG data 
+with an anatomical magnetic resonance template or 
+participants’ own MRI anatomical data, if available 
+for the whole cohort. After this preparatory phase, 
+participants will enter the magnetically shielded 
+room, and lay supine for the whole MEG recording 
+session. Visual and auditory stimuli (including the 
+f
+ixation cross used during the resting-state task) will 
+be presented to participants by using Presentation 
+software in a PC connected to the MEG display 
+system.
+The experimental session will consist of a resting 
+state sequence, an auditory function localisation task, 
+and an auditory / melodic pre-attentive change detec
+tion paradigm. We decided to focus on auditory- 
+related tasks (auditory localisation + auditory viola
+tion-detection) because, based on previous reports 
+(Flaugnacco et al., 2015; François et al., 2013; Frischen 
+et al., 2021; James et al., 2024; Jaschke et al., 2018; Lu 
+et al., 2022; Wang et al., 2022), we hypothesise that the 
+music composition intervention will have the greatest 
+neuroplastic effect – when compared to the passive 
+control or the photography intervention groups.
+The auditory function localisation task performed 
+in the middle of our session will be only used as a 
+confirmation of the spatial location of auditory pro
+cessing in our participants, but no post-intervention 
+vs. baseline differences are expected or will be checked 
+in this data. In this task, participants will be presented 
+with 2 tones (250 and 1000 Hz) in an alternating way 
+with a jitter at 900, 1000, 1110, 1200 and 1300 ms. 
+Each tone will be presented 100 times, with a duration 
+of 0.40 ms each time. Stimulus presentations will be 
+done through the MEG-compatible headphones, 
+while we ask participants to fixate their gaze on a 
+f
+ixation cross displayed at the centre of the screen. 
+The duration of this task will be 5 min.
+2.6.5.1. Changes in neurophysiological correlates of 
+pre-attentive auditory detection. A previously vali
+dated melodic multi-feature MMN paradigm (Putki
+nen et al., 2014; Vaquero et al., 2021) will be 
+implemented. MMN responses are consistently 
+evoked and detected in healthy participants when 
+presenting them with a sequence of repeated auditory 
+stimuli –standard– that gets suddenly altered by a less 
+probable stimulus –deviant– that changes particular 
+sound features (duration, frequency, or intensity of a 
+tone, the interstimulus interval, etc.). These sound fea
+tures suppose a combination of different character
+istics or the presentation of more complex patterns, 
+or that imply the absence of an expected trait in the 
+pattern with respect to the previously presented 
+stimuli (Grimm & Escera, 2012; Näätänen et al., 
+2005). Interestingly, previous works in the field have 
+reported observable modifications in MMN responses 
+after musical training or long-term practice (Paraske
+vopoulos et al., 2012; Putkinen et al., 2014; Virtala et 
+al., 2014).
+Thus, during this paradigm, participants will be 
+presented with a silent movie (an excerpt from ‘Mod
+ern Times’ –Charles Chaplin, 1936– prepared expli
+citly for this experiment) and asked to pay attention 
+to it. At the same time, participants will be passively 
+presented via MEG compatible headphones with a 
+continuous melodic stream where standard melodies 
+get altered in melodic or rhythmic features. The 
+MMN responses to these auditory violations have 
+been suggested to reflect pre-attentive detections of 
+discrepancies between the input sound and what was 
+predicted based on the previous auditory presentation, 
+implying that there is a memory trace serving as an 
+internal template against which sensory inputs get 
+compared to in a sort of automatic fashion (Koelsch 
+et al., 2019; Näätänen et al., 2007; Winkler et al., 
+2009). The visual stimuli (silent film, in this case) 
+ensures thus that participants’ attention is on the 
+visual and not the auditory stimuli. Participants were 
+instructed to pay attention to the action of the 
+movie, and asked after the experiment to respond to 
+a 10-item questionnaire about the movie. The score 
+in this questionnaire will be used as a proxy of the 
+level of attention participants were paying to the visual 
+stimuli.
+The auditory stimuli consists of 360 brief melodies 
+previously composed specifically for this paradigm 
+(full details about these melodies are described in Put
+kinen et al., 2014). In brief, they are melodies played 
+on acoustic piano tones respecting the Western tonal 
+rules and recursively repeated. Melodies start with a 
+triad (300 ms) followed by four tones varying in 
+length, with a 50-ms gap between each tone, and fol
+lowed by a final tone whose duration is 575 ms. 
+Each melody lasts 2100 ms, and they will be presented 
+with a 125 ms gap between them. The whole exper
+iment lasts for 15 min, where participants will be pre
+sented with these melodies in a looped manner.
+Six different deviants can be included in the melo
+dies: three low-level changes (i.e. not affecting the 
+melodic contour) and three high-level changes (i.e. 
+modifying the melodic contour). Melodies can contain 
+15
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+more than one deviant or change. Low-level changes 
+are: (i) Mistuning: moving upwards the pitch of a 
+tone half a semitone, 3% of the fundamental frequency 
+of the original sound (appearing in 20% of the total set 
+of melodies); (ii) Timbre Deviant: the timbre of one 
+tone is change for that of a flute (instead of the original 
+piano played for the rest of the tones, happening in 
+16% of the melodies); (iii) Rhythm Mistake or Timing 
+Delay: including a 100 ms silence gap (appearing in 
+17% of the melodies). High-level changes are: (i) Mel
+ody Modulation: altering the third or four tone of a 
+melody in pitch (happening in 22% of the melodies, 
+this slightly alters de presented melody and continues 
+until a new Melody Modulation appears); (ii) Rhythm 
+Modulation: affecting the second or third tone, in this 
+deviant a long tone gets replaced by a short tone 
+(shortening) or a short tone gets replaced by a long 
+one (lengthening) by introducing the reversal of the 
+duration of two sequential tones (appearing in 22% 
+of the melodies); (iii) Transposition or Key Change: 
+the whole melody gets transposed by one semitone 
+up or down its original key (happening in 26% of 
+the melodies) –after a transposition, the following 
+melodies stay in the transposed key until a new Trans
+position deviant appears (Tervaniemi et al., 2014). All 
+deviants were musically plausible, and the high-level 
+variants become the new repeated form of the melody 
+in the following presentations in a roving-standard 
+fashion (Cowan et al., 1993). Only one deviant of the 
+same kind can occur within each melody, and each 
+single tone can be altered only by one type of deviant. 
+After a high-level change, the ‘new standard’ melodic / 
+rhythmic pattern or key will be repeated at least once 
+(on average, three repetitions happen) before the next 
+change of the same kind appears.
+The MMN paradigm will be repeated in the MEG 
+protocol at both evaluation times. This way, we will 
+explore whether there are any differences after the inter
+vention in these neurophysiological correlates of pre- 
+attentive musical/auditory detection (primary outcome).
+2.6.5.2. Changes in functional connectivity at rest 
+within different frequency bands. A resting state 
+sequence with eyes open will be collected at both 
+evaluation timepoints. Participants will have to fix 
+their gaze on a fixation cross displayed on the screen 
+in front of them while laying on the MEG bed, without 
+doing any particular task. This sequence will last for 5 
+min. Potential baseline vs. post-intervention differences 
+in brain connectivity at rest between brain sources of 
+interest will be calculated within different frequency 
+bands (secondary outcome) and compared between 
+groups.
+2.6.6. Intervention observation measures
+In addition to the TAs, a team member will attend 
+every lesson of each intervention group (MUS, VIS) 
+and will collect information about treatment fidelity 
+and student engagement.
+2.6.6.1. Treatment fidelity. Accuracy and fit between 
+the actual lessons carried out and the original planned 
+lesson programmed for every week and session of the 
+intervention will be annotated. These annotations will 
+take the form of a percentage of accuracy and fit to the 
+original plan –in other words, treatment fidelity (sec
+ondary outcome).
+2.6.6.2. Students’ engagement during interventions.
+During each intervention session, participants’ attend
+ance and engagement (secondary outcome) will be 
+recorded and rated using a 1–7 Likert scale.
+2.6.6.3. Students’ feedback about the intervention. At 
+the end of the intervention, students participating in 
+the active groups (MUS, VIS) will fill a questionnaire 
+in order to rate how much they have liked the inter
+vention programme, and express their opinions 
+about the type of intervention programme in which 
+they have participated. We will use a brief question
+naire specifically developed for this purpose (see Sup
+plementary Materials).
+2.7. Data management and storage
+Subjects will be identified by a code for data files that 
+will be used for analysis within the study team. The 
+correspondence between identifiable data and partici
+pant codes will be in an encrypted file in a RAID server 
+to which only the principal investigator (PI) has access 
+to. Physical copies of informed consents will be stored 
+in a secured locked cabinet in the PI’s office at 
+New York University. Anonymized behavioural, neu
+roimaging and neurophysiological data will be stored 
+in a local computer within NYU premises for data 
+analysis. The complete anonymized dataset and 
+workflow, with specific instructions for potential rea
+nalysis and replication, will be made publicly available 
+(shared with NYU and non-NYU affiliated research
+ers) at OpenAIRE, Zenodo, or similar public reposi
+tories. Identifiable data will be deleted after 5 years 
+of data collection. For this protocol paper, all data 
+and materials are available in the supplementary 
+materials.
+2.8. Statistical analysis
+All behavioural analysis and analysis performed on 
+neuroanatomical, structural or functional connectivity 
+values extracted from neuroimaging or neurophysiolo
+gical data will be performed using JASP computer soft
+ware (JASP Team (2024); Version 0.19.3; https://jasp- 
+stats.org/), R (R Core Team (2021); version 4.1.2; 
+2021-11-01; https://www.R-project.org/), MNE-python 
+L. VAQUERO ET AL.
+16 
+(Gramfort et al., 2013), the CONN toolbox (Whitfield- 
+Gabrieli & Nieto-Castanon, 2012), Statistical Para
+metric Mapping software package v.12 (SPM12, Well
+come Department of Imaging Neuroscience, London, 
+UK, available at: https://www.fil.ion.ucl.ac.uk/spm/), 
+FMRIB Software Library (FSL www.fmrib.ox.ac.uk/fsl/), 
+and the Automatic Fiber Quantification software 
+(AFQ, Stanford University, described in Yeatman 
+et al., 2012). For details see Supplementary Materials, 
+section Statistical Analysis).
+2.9. Monitoring, safety & ethics
+The study was designed and is being carried out in 
+accordance with the declaration of Helsinki (World 
+Medical Association, 2013). The initial proposal for 
+this project was reviewed, specifically regarding ethical 
+concerns, by the European Commission in Research 
+and Innovation. The final protocol has been reviewed 
+and approved by the Institutional Review Board of 
+New York University (NYU Protocol Record IRB- 
+FY2023-7419), and the Institutional Review Board of 
+the New York City Department of Education (NYC 
+DOE IRB protocol number 4952). All study personnel 
+engaging with students in the high schools –including 
+TAs– have or will complete general ethics education 
+applied to behavioural cognitive studies (CITI train
+ing), as well as appropriate federal background checks 
+and fingerprinting (for child abuse and any other 
+criminal activity clearance) to work within the public 
+school system.
+Furthermore, this study protocol has also been 
+reviewed and registered as a Clinical Trial within the 
+US National Institutes of Health system (Clinical
+Trials.gov, trial number: NCT06402253).
+Recruitment processes will be carried out and clo
+sely monitored with personnel from the participating 
+high schools. Supervisors from all the collaborating 
+institutions will monitor and ensure the appropriate 
+development and completion of the protocol.
+Treatment fidelity and students’ engagement will be 
+monitored at every intervention session, and a field 
+diary will be implemented to note as many details as 
+possible of both positive and negative outcomes, feed
+back, or maladjustment that may occur during the 
+development of the interventions, but also the project 
+as a whole.
+2.9.1. Mental-health issues response protocol
+Since the beginning of the partnership with the differ
+ent research sites, the scientific team of SMART has 
+worked closely with the counselling team of the parti
+cipating high schools to guarantee that any mental- 
+health or safety issue detected in any of the student 
+participants during SMART evaluations, weekly sur
+vey completion, or intervention sessions is properly 
+and timely addressed. To that end, a mental-health 
+issue response protocol tailored to the resources of 
+each participating high school, as well as a mental- 
+health resource document, were created in collabor
+ation with the counselling department of each partici
+pating high school. These documents and protocols 
+were originally inspired by materials from the Hartley 
+Lab at NYU and are attached to this manuscript in 
+Supplementary Materials. All involved personnel in 
+SMART will follow the Mental Health Response Pro
+tocol adjusted to each research site’s resources, when 
+and if needed.
+2.9.2. Consultation and communication with 
+direct stakeholders
+Collaborating high school personnel participated in 
+the development of the intervention programme, 
+and are going to be consulted at least weekly to best 
+adapt the implementation and individual sessions 
+and activities to the student group’s general work- 
+load, mood, and specific requirements during the 
+implementation period. Further, each intervention 
+session contains activities that can be easily adapted 
+to specific requirements or preferences of the student 
+group. As such, participating students will be con
+sulted for preferences and interests at least weekly, if 
+not in every session, to maintain an appropriate level 
+of motivation throughout the sessions, while at the 
+same time keeping the rigour and main structure of 
+the intervention so that it is still replicable.
+Lastly, in addition to the communication efforts 
+planned for this project targeting scientifically and 
+general audiences (frequent updates on the project’s 
+website, outreach activities and articles, formal articles 
+in scientific journals), two specific communication 
+initiatives will be implemented to ensure that partici
+pating families, students and high-school personnel 
+get to know the results of the data collected and the 
+implications and conclusions that our project may 
+have. First of all, at the end of the data collection 
+period for the active groups, a SMART Exhibition 
+will take place to share basic information about our 
+participating cohort, personnel and institutions, as 
+well as to showcase the students’ artistic works. This 
+event will invite all enrolled students and their 
+families, the involved and directive personnel from 
+the participating high schools, as well as the SMART 
+research and teaching-artist team and other potential 
+stakeholders. Lastly, an end-of-the-project symposium 
+event is planned. Its objective will be to communicate 
+to all involved personnel and stakeholders the results, 
+conclusions, and potential implications of our project. 
+A summary of our findings, as well as any official pub
+lications whenever they are ready will be made avail
+able and shared with all participants, families, high 
+school personnel, research and teaching artists team, 
+and any other potential identified stakeholder.
+17
+EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY 
+3. Discussion
+The main motivation and research question behind 
+SMART is whether art appreciation and practice can 
+change the way teenagers interact with SM, overcom
+ing the negative influence of smart devices and SM 
+platforms, and ultimately leading to beneficial cogni
+tive and emotional effects.
+We expect that the designed interventions, due to 
+their artistic content, emphasis on critical thinking 
+and promotion of a more stimulating use of SM, will 
+be able to modify the attitudes and opinions that teen
+agers have of SM, as well as modify the activities they 
+perform online. Importantly, we expect our interven
+tions to positively affect mental-health markers, lead
+ing 
+to 
+a 
+post-intervention 
+improvement in 
+depression, anxiety, stress and self-esteem indicators. 
+At the cognitive level, better executive functions and 
+attentional performance is expected after the 3- 
+month interventions.
+Further, we expect this cognitive and mental-health 
+improvement to be paired with brain structural and 
+functional / neurophysiological changes (see Figure 3). 
+Specifically, we hypothesise that improvements in 
+mental health will correlate with plastic changes in 
+GMV of emotional and reward-related centres such 
+as ventral striatum and ventromedial prefrontal cortex 
+(Cheng et al., 2023; Särkämö et al., 2014; Vaquero 
+et al., 2016). We expect cognitive improvements to 
+be related to plastic changes in prefrontal regions 
+and networks related to attention and executive func
+tions (as measured by structural and functional MRI) 
+(Hennessy et al., 2019; Jaschke et al., 2018).
+Functional connectivity measured by fMRI at rest is 
+also expected to show more efficient patterns post- 
+intervention in the active groups (MUS, VIS) when 
+compared to the passive control groups, and especially 
+significant effects are hypothesised for the MUS group 
+in comparison with the other two groups (Bashwiner 
+et al., 2020; Hennessy et al., 2019; Jünemann et al., 
+2023; Li et al., 2018). Structural MRI data is expected 
+to show alterations in audio-motor and visual regions 
+and structural networks, but also in limbic and cogni
+tive control related regions/pathways (Bashwiner 
+et al., 2016; Cheng et al., 2023; Habibi et al., 2018; 
+Hong et al., 2023; Hudziak et al., 2014; Li et al., 2018).
+In addition, the neurophysiological pre-attentive 
+responses to musical alterations within a melodic stream 
+(MMN responses) are expected to be faster and/or 
+greater in amplitude post-intervention, specifically in 
+the MUS group (as measured by MEG; Putkinen et al., 
+2014, 2021; Tervaniemi et al., 2014). Regarding MEG- 
+measured functional connectivity at rest, there are not 
+that many descriptions in the literature that can help 
+us draw specific expectations. Nevertheless, based on 
+previous reports (Lu et al., 2022; Wang et al., 2022), 
+we hypothesise that effects on theta bands from regions 
+related to executive functions will show post-interven
+tion changes in the active groups (especially, in MUS).
+We also expect the students involved in the active 
+interventions to show increased engagement during 
+the classes led by our teaching artists. Further, in 
+SMART, we are targeting public high schools from 
+the NYC area in order to provide artistic resources 
+to underserved youth communities that may have 
+difficulties accessing these kinds of resources (both 
+Figure 3. Schematic representation of the brain regions and networks that have been described to be negatively affected by social 
+media and positively affected by artistic interventions/practice. SMART interventions are thus expected to have some plastic 
+effects in these regions/networks and/or the cognitive domains supported by them. Laterality is not taken into consideration 
+in this visualisation. Abbreviations: ACC: Anterior Cingulate Cortex; PCC: Posterior Cingulate Cortex; Inf: Inferior.
+L. VAQUERO ET AL.
+18 
+artistically and mental-health related) or education 
+elsewhere. Our interventions may also serve as a 
+potential career or hobby discovery for the partici
+pants, which can promote long-term benefits related 
+to their well-being and motivation.
+We expect SMART to require adjustments during its 
+implementation. For example, recruitment strategies 
+and contact with prospective participants and their 
+families are going to depend greatly on the participating 
+high schools’ communications strategy and infrastruc
+ture. Resources such as the laptops to use during the 
+interventions will also depend on the participating 
+high schools’ hardware and other resources’ availability. 
+Even though the TAs selected for this project have 
+extensive teaching and arts-based experience and have 
+been trained specifically to implement the SMART pro
+ject according to our research and scientific-team guide
+lines, the fact that different TAs will be in charge of 
+implementing the intervention sessions may add some 
+variability in the results that could be difficult to control 
+for (if not post-hoc, during the statistical analyses). 
+Finally, adjustments in the intervention programme 
+due to unforeseen circumstances, environmental issues 
+related to the high schools’ context, difficulties or 
+specific characteristics from the particular cohort of stu
+dents, etc., may be necessary, potentially diverging from 
+our original plan and intervention curriculum. Other 
+miscellaneous issues we foresee could be related to 
+data acquisition, such as loss of data due to technical 
+or human errors. The team will be trained to follow 
+the established protocol and avoid to the maximum 
+extent possible these kinds of mistakes.
+If the predicted benefits afforded by digital artistic 
+interventions are confirmed, the SMART project 
+could break new ground in the treatment of the adverse 
+effects of SM in teenagers and might have an impact in 
+policy-making regarding adolescents’ mental health 
+and education. Projects like SMART have the potential 
+to guide and promote public health ventures that could 
+advise youth to use the arts paired with a creative and 
+critical thinking approach to use digital devices, per
+form online activities and overall use SM in a healthier 
+way. Moreover, the conclusions and materials devel
+oped within this project have the potential to be applied 
+in clinical contexts (e.g. health education, therapeutic 
+purposes) in a wide array of physical and mental health 
+conditions, even beyond adolescents. For instance, 
+arts-based interventions like the ones proposed here 
+could be developed for the management of stress, 
+depression, and anxiety symptoms associated with 
+chronic health conditions, both in the physical and 
+mental health realms (such as cancer, major 
+depression, Parkinson’s disease, long COVID-19, chil
+dren treated with growth hormone therapy, or ADHD, 
+among others; de-Graft Aikins et al., 2024; Mas-Her
+rero et al., 2023; Saville et al., 2025; Sihvonen et al., 
+2017), and could be beneficial both for patients of 
+those conditions or their main caregivers (Bourne 
+et al., 2021; Pérez-Núñez et al., 2024).
+Finally, as an overall goal and expectation, we hope 
+SMART conclusions help us raise awareness around 
+the beneficial impacts on well-being that arts-related 
+activities can have during adolescent development.
+Acknowledgements
+The authors would like to thank Dr. Karolina Świder, Prof. 
+Beatriz Gil Gomez de Liaño, Prof. Rosa María Baños Rivera, 
+Dr. Luis Fernandez-Luque and Prof. Fernando Maestu 
+Unturbe for their helpful insight provided during the initial 
+planification of the project. Also, we would like to thank 
+Prof. Catherine Hartley for her invaluable assistance in all 
+steps of the design, planification, and preparation for 
+implementation processes, especially in the preparation of 
+the neuropsychological and mental well-being assessment, 
+and the creation of the mental-health resources document; 
+as well as Prof. Beatriz Gil Gomez de Liaño for her feedback 
+and insight regarding the design of the cognitive evaluation 
+included in SMART, and more specifically, for her support 
+concerning the FOIB task. Further, we would like to thank 
+Isabelle Burger-Weiser for her crucial assistance during 
+the processes of IRB revisions and amendments that have 
+been needed to obtain ethics approval for the SMART pro
+tocol. Lastly, we would like to thank the Principals, Assistant 
+Principals, Counseling Team, Safety and Security, and 
+Administrative personnel from all participating high 
+schools for making the implementation of this project poss
+ible; especially, to Kaye Houlihan, Alicia Perez Katz, Rosaria 
+Mancini, Laura Kaplan, Stephanie Smith, Jacob Baty, Ismail 
+Salem, and Thomas Oberle.
+Disclosure statement
+No potential conflict of interest was reported by the 
+author(s).
+Funding
+In addition, LV holds a Horizon Europe funded Marie Sklo
+dowska-Curie Action Global Postdoctoral Fellowship 
+(Grant Agreement ID# 101063319). PR, Prof. Catherine 
+Hartley, and LV were recipients of a 2023 Grant for Music 
+Research from the GRAMMY Museum Foundation. 
+ELMV is a recipient of the Steinhardt Doctoral Fellowship 
+Program. JLM is a 2024 awardee of the ‘Washington 
+National Opera/The Kennedy Center American Opera 
+Initiative’ and an ‘American Opera Project Fellow’ (2023- 
+2025). LO is a recipient of the 2025 Media Art and Tech’s 
+Marco Cosio fellowship (Brown Institute for Media Inno
+vation, Columbia Journalism School & Stanford Engineer
+ing – Columbia University).
+ORCID
+Lucía Vaquero 
+Karleigh Groves 
+http://orcid.org/0000-0003-0361-0771
+http://orcid.org/0009-0006-4904-8568
+Eva Luna Muñoz-Vidal 
+9052
+Franziska Degé 
+Elisa García-Mingo 
+http://orcid.org/0009-0008-2081- 
+http://orcid.org/0000-0002-1046-076X
+http://orcid.org/0000-0001-8448- 
+1849
+Pablo Ripollés http://orcid.org/0000-0002-8463-3723

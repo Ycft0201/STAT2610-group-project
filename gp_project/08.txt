@@ -1,0 +1,1334 @@
+Students’ struggle with digital addiction: the 
+truth of brain rot
+Mustafa Gül1*
+Abstract
+Background Due to the high level of digital addiction, the term brain rot was chosen as the word of the year for 2024 
+determined by a public vote conducted by Oxford University, and it has been used by experts to express the effect 
+of consuming an excessive amount of low-quality online content, especially on social media. This study investigates 
+the prevalence of brain rot among higher education students in a faculty of education, explores its underlying causes, 
+examines its implications for education, and identifies potential preventive measures.
+Methods A qualitative case study design was employed to gain an in-depth understanding of the phenomenon. 
+The study group comprised 113 students enrolled in various departments of the Faculty of Education at a public 
+university in Türkiye during the 2024 to 2025 academic year. Participants were selected using criterion sampling, a 
+purposive method designed to identify information-rich cases. Data were collected through observations, semi
+structured interviews, and document analysis, and analyzed using content analysis.
+Results The findings indicate that nearly all participants experienced symptoms of brain rot, which were attributed 
+to emotional factors, habitual behaviors, and environmental, social, and cognitive influences. It has been determined 
+that brain rot primarily causes students to experience attention deficits, learning difficulties, mental fog, diminished 
+cognitive performance, reduced academic achievement, weakened social relationships, reluctance to attend school 
+or engage in educational activities, and decreased time efficiency. Participants recommended several strategies to 
+mitigate brain rot, including educational interventions, environmental modifications, digital usage regulation, digital 
+detox, and personal self-regulation practices.
+Conclusions The results highlight how students’ experiences of brain rot are reflected in their educational lives and 
+underscore the measures that need to be taken to prevent its occurrence.
+Keywords Digital addiction, Internet addiction, Social media addiction, Brain rot
+*Correspondence:
+Mustafa Gül
+mstfgl24@gmail.com
+1Department of Educational Sciences, Kahramanmaras Sütçü İmam 
+University, Avşar Campus, Onikişubat District, Kahramanmaraş, Türkiye
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Gül BMC Psychology
+           (2026) 14:98 
+Page 2 of 15
+Introduction
+T
+he widespread integration of computers, the internet, 
+smartphones, and digital platforms into daily life has 
+transformed how individuals engage in communication, 
+learning, and leisure. These tools are extensively used 
+across all age groups for diverse purposes [1]. However, 
+their pervasive use, particularly among students, has also 
+given rise to various risks, most notably digital addiction 
+[2]. Defined as a dependence on multiple forms of digi
+tal media, including the internet, digital games, smart
+phones, and social networking platforms [3], digital 
+addiction is widely recognized as a modern behavioral 
+disorder [4].
+Users are drawn to digital media for numerous reasons, 
+including identity construction, entertainment, escap
+ism, information seeking, self-expression, interpersonal 
+interaction, stress relief, and staying current with trends 
+[5–10]. Moreover, platform architecture, such as infinite 
+scrolling, content flow algorithms, and gamified features, 
+has been shown to reinforce compulsive use [5, 11].
+Research increasingly links digital addiction to a range 
+of psychosocial and academic problems, including stress, 
+social anxiety, depression, loneliness [12, 13], insomnia, 
+eating disorders [14], reduced academic motivation [15] 
+and declining academic performance [16]. Studies also 
+highlight its role in attention deficits, impaired social 
+relationships, and physical symptoms such as back pain 
+and fatigue [2, 17, 18].
+While digital addiction has been extensively studied 
+[19–22], a newly emerging and less explored phenom
+enon, brain rot demands urgent academic attention [23]. 
+Voted the Word of the Year in 2024 by Oxford Univer
+sity Press, brain rot is broadly defined as the cognitive, 
+emotional, and behavioral deterioration resulting from 
+overexposure to low-quality online content, particularly 
+via social media [24]. Though indirectly foreshadowed by 
+Henry David Thoreau’s [25], reflections on mental stag
+nation in Walden, the term has recently gained traction 
+to describe the cognitive fatigue and superficiality char
+acterizing digital life in the 21 st century [23].
+Brain rot is associated with broader constructs such 
+as digital, internet, and social media addiction [26–28]. 
+Recent scholarship points to its adverse impact not only 
+on individuals’ cognitive and emotional development but 
+also on educational and societal systems at large [29, 30]. 
+As global concern about its effects grows, scholars have 
+emphasized the need for structural educational reform 
+to counteract its influence [23]. Brain rot should not be 
+understood as a type of addiction. Rather, it refers to a 
+condition that arises as a consequence of digital, internet, 
+and social media addictions. Conceptually, while addic
+tion denotes a behavioral dependence characterized by 
+compulsive engagement and withdrawal symptoms, brain 
+rot represents the cognitive and affective deterioration 
+that follows such addictive engagement. Grounded in 
+neuroscientific evidence, brain rot manifests as mental 
+exhaustion and a measurable decline in cognitive func
+tions and attentional capacity resulting from prolonged 
+exposure to excessive digital content [31–33]. At the 
+same time, brain rot is an important problem that also 
+affects the educational process [16]. Therefore, solutions 
+need to be found on a global scale [23]. Teachers are 
+faced with the task of combating the threat of brain rot.
+In addition, pre-service teachers play a pivotal role in 
+shaping society’s digital awareness and literacy. As future 
+educators, their attitudes and behaviours towards digi
+tal technologies will significantly influence how upcom
+ing generations engage with digital media. Therefore, 
+examining the digital habits and awareness levels of this 
+group is crucial, not only for understanding their per
+sonal development but also for ensuring a more digi
+tally responsible and conscious educational culture. As 
+future educators, their awareness of brain rot, both in 
+theory and in practice, is critical to addressing its edu
+cational implications. For this reason, this study focuses 
+on pre-service teachers to explore how brain rot affects 
+their learning experiences and academic functioning. The 
+research also seeks to identify contributing factors and 
+possible interventions.
+Specifically, the study aims to (1) examine pre-service 
+teachers’ awareness of brain rot and digital addiction, (2) 
+explore the perceived effects of brain rot on educational 
+engagement, readiness, and productivity, and (3) iden
+tify their suggestions for preventing and mitigating the 
+phenomenon. By addressing a timely and underexplored 
+topic, this study contributes to the emerging literature on 
+brain rot and offers insights for educational stakeholders 
+seeking to promote healthier digital habits.
+Method
+T
+his section outlines the research model, study group, 
+data collection tools, data analysis, and validity-reliability 
+measures.
+Research model
+T
+he present study was conducted using a case study 
+design. Case studies are research designs that aim to col
+lect in-depth information about real-life, contemporary 
+situations and to present the examined case through 
+identified themes [34]. This design is frequently preferred 
+in practice-oriented fields such as education [35]. In this 
+context, the case examined in the current research is 
+brain rot. Since the study aimed to reveal how students 
+experience brain rot, the reasons behind it, and how 
+this situation reflects on their educational processes, 
+a case study design was deemed suitable. Case studies 
+aim to obtain detailed information about the investi
+gated situation by utilizing various data sources such as 
+Page 3 of 15 Gül BMC Psychology           (2026) 14:98 
+observations, interviews, and documents [35]. In this 
+research, these three techniques were used to capture the 
+depth of the situation. To ensure the data were not lim
+ited or biased and to achieve data triangulation, multiple 
+data collection techniques were employed [34].
+Patton [36] emphasizes that, to conduct an in-depth 
+analysis of a case, it is essential to gather detailed per
+spectives from different individuals related to the situ
+ation. Accordingly, in this study, the observations and 
+opinions of university students from different depart
+ments who experience brain rot were examined in detail.
+Study group
+The study group comprised 113 pre-service teachers 
+enrolled in the Faculty of Education at Kahramanmaraş 
+Sütçü İmam University, a public university in Türkiye, 
+during the 2024 to 2025 academic year. Criterion sam
+pling, a purposive method targeting information-rich 
+cases aligned with research objectives [36], was used to 
+select students who (1) were enrolled in teacher educa
+tion programs and (2) reported experiencing symptoms 
+of brain rot [36]. Ethical standards were strictly followed. 
+Participants’ identities were anonymized using codes 
+(K1–K15 for interviews; D1–D113 for documents). As 
+shown in Tables 1 and 72 participants were female and 
+41 were male, spanning six departments: early childhood, 
+elementary, science, English language, social studies, and 
+Turkish language education.
+Students reported an average of 6 h and 30 min of daily 
+unproductive screen use, with only 32 min and 30 s of 
+productive use. Face-to-face interviews were conducted 
+with 30 students selected from a total of 113 partici
+pants. In qualitative research, the sample size is deter
+mined by the point at which data saturation is reached 
+[37]. Accordingly, the number of interviews in this study 
+was established based on the principle of data saturation. 
+Data saturation was considered to have been achieved 
+when no new codes or themes emerged during successive 
+interviews and participant responses began to repeat. 
+At this point, the sample was limited to 30 participants. 
+Moreover, it was observed that this number of interviews 
+ensured sufficient depth, variation, and richness of data 
+to address the research objectives comprehensively.
+Table 2 shows that the interviews were conducted with 
+30 university students studying in 6 different depart
+ments of the Faculty of Education. These participants 
+are students in the departments of preschool, classroom, 
+science, English, social studies, and Turkish teaching. 
+20 of the participants are female, and 10 are male. Their 
+ages are concentrated in the 19, 20, and 21 age groups. 
+According to Table 2, almost all participants mostly use 
+screens inefficiently, with inefficient screen time aver
+aging 4 h and 38 min per day. The participants’ average 
+daily use of screens efficiently is 1 h and 36 min. It is also 
+observed that K3, K10, K19, and K25 use screens more 
+efficiently, while K29 uses screens equally efficiently and 
+inefficiently. During the interviews, students were asked 
+again about their efficient and inefficient screen use. 
+Many reported spending considerably more time on 
+screens for non-educational or unproductive purposes 
+than indicated in the documented screen-time records. 
+It was determined that the screen time reported in the 
+participant observation form differs from the screen time 
+presented in the interviews. This striking difference may 
+be related to the students being able to confront them
+selves more openly while writing and not specifying 
+names in the document.
+Data collection instruments
+Three tools were used to gather research data in the 
+study: observation forms, participant documents, and 
+semi-structured interviews.
+Observation
+Researcher and participant observation forms were 
+developed by the researcher. The former tracked digital 
+usage over three months by instructors; the latter docu
+mented six days of individual screen use. Of 140 distrib
+uted forms, 113 valid responses were analyzed.
+Table 1 Demographic characteristics and reported Screen-Time of participants
+Department Participants Female Male Average Unproductive
+Screen Time
+Average Productive
+Screen Time/Day
+Preschool Ed. 22 17 5 7 h 45 min
+Elementary Ed. 21 14 7 6 h 30 min
+Science Ed. 5 4 1 6 h 30 min
+English Language Ed. 25 13 12 7 h 30 min
+Social Studies Ed. 20 11 9 7 h 45 min
+Turkish Language Ed. 20 13 7 6 h 15 min
+Total 113 72 41
+TOTAL SCREEN TIME 6 h
+30 min
+32 min
+30 s
+Page 4 of 15 Gül BMC Psychology           (2026) 14:98 
+Documents
+Documents are written materials providing information 
+about phenomena, behaviors, or situations [37]. Partici
+pants were asked to write reflective narratives on their 
+brain rot experiences. To ensure relevance, the document 
+prompts were aligned with research sub-questions and 
+reviewed for bias and completeness [37, 38]. The narra
+tives explored how students conceptualized brain rot, 
+described their experiences, identified its causes and 
+educational impacts, and proposed potential solutions.
+Interviews
+Semi-structured interview protocols were developed 
+through literature review and expert input. A pilot with 
+five students refined the questions. Of the 113 partici
+pants, 30 consented to interviews. All instruments were 
+carefully archived after data collection.
+Data collection procedure
+As outlined in Fig. 1, the study began with a litera
+ture review, followed by selection of 140 students. 
+Observation forms were administered in six classes, and 
+expert feedback was used to refine instruments. Inter
+views were conducted with 30 students, and 113 docu
+ments were analyzed. Based on these inputs, a participant 
+observation form was created and validated by experts.
+Data analysis
+The analysis phase is the stage in which the data are 
+interpreted, comparisons are made, and a framework for 
+comments is created [36]. In the analysis of the data of 
+this study, the content analysis technique and the induc
+tive analysis method were adopted [36]. Data were ana
+lyzed in three phases. First, the data obtained through 
+the participant observation form were tabulated. The 
+table included each student’s daily screen time and the 
+efficiency status of this time. The researcher observa
+tion form data were used to diversify and substantiate the 
+data obtained through the document form and the inter
+view form within the framework of the research find
+ings. In the second phase, documents from 113 students 
+were analyzed using content analysis. In the third phase, 
+Table 2 Information on interviewed participants
+Participant Department Class Age Gender Daily Unproductive Screen Time Daily Productive Screen Time
+K1 Preschool Education 1 19 K 4 h 1 h
+K2 Preschool Education 1 20 K 5 h 1 h
+K3 Preschool Education 1 20 K 1 h 3 h
+K4 Preschool Education 1 20 K 6 h 1 h
+K5 Preschool Education 2 20 K 6 h 1 h
+K6 Preschool Education 2 21 K 7 h 1 h
+K7 Preschool Education 2 21 E 6 h 1 h
+K8 Preschool Education 2 21 E 6 h 1 h
+K9 Preschool Education 2 21 E 6 h 1 h
+K10 Preschool Education 1 35 E 1 h 3 h
+K11 Elementary Education 2 20 K 4 h 1 h
+K12 Elementary Education 2 20 K 4 h 1 h
+K13 Elementary Education 2 21 K 6 h 2 h
+K14 Elementary Education 2 21 K 6 h 1 h
+K15 Elementary Education 2 20 K 5 h 2 h
+K16 Science Studies Ed. 1 19 K 5 h 2 h
+K17 English Language Ed. 4 24 K 5 h 1 h
+K18 English Language Ed. 2 21 K 6 h 30 min
+K19 English Language Ed. 2 19 K 30 min 3 h
+K20 English Language Ed. 2 20 E 5 h 1 h
+K21 English Language Ed. 2 22 E 7 h 1 h
+K22 Social Studies Ed. 1 19 K 5 h 2 h
+K23 Social Studies Ed. 1 20 K 6 h
+K24 Social Studies Ed. 1 19 E 6 h 2 h
+K25 Social Studies Ed. 1 19 E 2 h 6 h
+K26 Turkish Language Ed. 1 20 K 4 h 2 h
+K27 Turkish Language Ed. 1 18 K 4.5 h 30 min
+K28 Turkish Language Ed. 1 19 K 4 h 1 h
+K29 Turkish Language Ed. 1 18 E 3 h 3 h
+K30 Turkish Language Ed. 1 18 E 6 h 2 h
+ TOTAL SCREEN TIME 4 h 38 min 1 h 36 min
+Gül BMC Psychology
+           (2026) 14:98 
+Page 5 of 15
+Fig. 1 Data collection process
+the interview data of 30 students were analyzed. In the 
+content analysis process, codes were first extracted, and 
+then categories and themes were created based on these 
+codes [34–36]. In this study, the coding was carried out 
+separately by the researcher and a faculty member spe
+cializing in educational sciences at the same university. 
+T
+he agreement between the coders was calculated using 
+Miles and Huberman’s formula (Reliability = Agreement/
+(Agreement + Disagreement) × 100) [39]. The agree
+ment between the researcher’s and the expert’s codes 
+was found to be 0.91. In cases where there were different 
+codes, the codes were reviewed again, and the researcher 
+and the expert discussed and decided on the new code 
+[40]. In the final phase, interview transcripts from 30 stu
+dents were similarly coded. Discrepancies between cod
+ers were resolved through discussion [40]. Findings were 
+supported by direct quotations from participants, and all 
+data sources were integrated to construct a comprehen
+sive understanding of the phenomenon.
+Validity and reliability
+In qualitative research, ensuring validity and reliability 
+is predicated on conducting the study ethically [35]. To 
+carry out this research ethically, the recommendations 
+of Christensen, Johnson, & Turner were followed, giv
+ing careful attention to participants’ voluntary involve
+ment and providing students with detailed information 
+about the study [41]. This research was approved by 
+the Kahramanmaraş Sütçü İmam University Social and 
+Human Sciences Ethics Committee (Decision No. 2025
+21, dated 21.03.2025). Participants included in the study 
+were provided with detailed information about the pur
+pose, process, confidentiality principles, and voluntari
+ness of the study. Written informed consent was obtained 
+from all participants, and they were informed of their 
+right to withdraw from the study at any time. Partici
+pants’ identities were kept confidential, with codes such 
+as Ö1, Ö2 for participants and D1, D2 for documents 
+[42]. Additionally, efforts were made to faithfully reflect 
+the research process. To ensure the validity and reliability 
+of the study, the four strategies recommended by Lincoln 
+& Guba for qualitative research credibility, transferabil
+ity, dependability, and confirmability were employed [43]. 
+T
+he work conducted within this framework is summa
+rized below.
+Credibility refers to the accuracy of findings and was 
+ensured through triangulation, prolonged engagement, 
+participant validation, expert review, and researcher 
+reflexivity [34, 36]. Data triangulation in this study was 
+achieved using observations, interviews, and docu
+ment analysis, enhancing the depth and consistency of 
+f
+indings.
+T
+he researcher engaged with participants from Sep
+tember 2024 to March 2025, observing them in natu
+ral settings and collecting in-depth data. Two experts 
+reviewed the instruments, and participant validation was 
+obtained by confirming the accuracy of data with par
+ticipants. The researcher’s role was shared transparently 
+with participants to minimize bias and increase trust.
+Generalizability is not a goal in qualitative research; 
+instead, transferability refers to the extent to which find
+ings can be applied to other contexts [35]. To support 
+Page 6 of 15 Gül BMC Psychology           (2026) 14:98 
+transferability, the research process from sampling to 
+data collection and analysis was described in detail, fol
+lowing the recommendations of Lincoln and Guba [43]. 
+Findings were presented with direct participant quota
+tions, and language was kept clear and accessible. Addi
+tionally, tables and figures were used to help readers 
+evaluate the applicability of results in their own contexts.
+Dependability concerns the consistency of findings. To 
+ensure this, the researcher and an expert independently 
+coded the data and developed themes. Discrepancies 
+were resolved through discussion, strengthening the reli
+ability of results [34, 40].
+Confirmability addresses the objectivity of the research 
+and was achieved by grounding all interpretations in par
+ticipant data. An audit trail of the entire research process 
+was maintained, ensuring transparency and enabling 
+external verification [34]. Direct quotations were used 
+to reduce researcher bias and ensure that conclusions 
+reflected participants’ authentic views. All procedures 
+were also documented systematically to allow future 
+researchers to track the methodological steps taken.
+Findings
+This section presents the results derived from observa
+tions, documents, and interviews, organized around the 
+study’s objectives: participants’ experiences with brain 
+rot, its causes, educational impacts, and suggested pre
+vention strategies.
+Participants’ experiences of brain rot
+Findings from all data sources indicated that all 113 par
+ticipants experienced symptoms of brain rot. Table 3 
+presents one participant’s six-day digital usage, showing 
+37 h of unproductive screen time compared to only 1 h 
+and 50 min of productive use. Reflecting on this, the par
+ticipant stated:
+I didn’t know I was this addicted. After observ
+ing myself for six days and filling out this form, I 
+realized that I need to take precautions. No won
+der I have been unable to focus on my studies and 
+research. (K4)
+In a classroom observation on December 22, 2024, when 
+assigned a research task during a philosophy of educa
+tion course, the student instead accessed a shopping site 
+on their phone. On December 15, she was observed using 
+their phone throughout the class break.
+Causes of participants’ brain rot
+This section presents the findings regarding the underly
+ing causes of participants’ experience of brain rot, based 
+on thematic analysis. As shown in Table 4, these causes 
+are grouped under the themes of emotional causes, 
+habitual patterns, environmental causes, social causes, 
+and cognitive causes. Among these, emotional factors 
+were reported as the most prominent contributors.
+Participants frequently identified boredom and the 
+desire for relaxation as key emotional drivers. Many 
+noted that they turned to digital media to escape monot
+ony or to find temporary relief. This is illustrated in K14’s 
+reflection:
+I get bored easily… I use my phone to relax, but I 
+guess that’s what’s rotting my brain.
+Similarly, avoiding tasks or seeking inaction was com
+monly reported as a coping strategy to escape academic 
+or personal responsibilities (K11, D35). Classroom obser
+vations supported these accounts; during a session on 
+Table 3 Six-day digital tool usage data of a sample participant
+Day Unproductive screen time Productive screen 
+time
+Monday 8 h (Social media, shopping 
+websites)
+15 min (Academic 
+studies)
+Tuesday 6 h (Social media, gaming) 30 min (Research)
+Wednesday 5 h (Social media, gaming) 20 min (Homework)
+Thursday 6 h (Social media, gaming) 15 min (Homework)
+Friday 5 h (Social media, shopping 
+websites)
+Saturday 7 h (Social media, gaming) 30 min (Research)
+Table 4 Findings on the perceived causes of brain rot among 
+participants
+Theme Codes Doc. (f) Int. 
+(f)
+Emo
+tional 
+causes
+Boredom/desire for relaxation 30 12
+Avoiding tasks/desire for inaction 28 10
+Feeling lacking when not on social media 10 8
+Escaping from real problems 8 6
+Feeling happy on social media 3 2
+Habitual 
+causes
+Wanting to spend time 24 8
+Spending fun time 20 6
+Perceived sense of rest 12 5
+Desire for convenience 4 2
+Environ
+mental 
+causes
+Home confinement during the pandemic 10 15
+Influence of social surroundings 8 3
+The allure of digital content 4 2
+The digitalization of education 3 2
+Slowness of real life 2 3
+Easy access 2 2
+Peer pressure 2 1
+Social 
+causes
+Desire for individuality 10 4
+Meeting the need for communication 7 7
+Being seen on social media 8 3
+Desire for validation 6 1
+Cogni
+tive 
+causes
+Mental exhaustion 8 2
+Curiosity 5 2
+Quick access to information 4 3
+Gül BMC Psychology
+           (2026) 14:98 
+Page 7 of 15
+December 9, 2024, students appeared disengaged and 
+were seen using their phones, suggesting task avoidance 
+through digital distraction.
+Another emotionally driven cause was the feeling of 
+lack or disconnection when not using social media. Par
+ticipants expressed concerns about missing out, feeling 
+incomplete or anxious if not constantly online. One par
+ticipant explained:
+When I don’t pick up my phone, I feel like I won’t be 
+able to keep up with current events. (K29)
+Some participants also identified emotional motiva
+tions behind brain rot, including a desire to escape real
+life problems and a need to feel happy in their following 
+statements:
+When I go through negative experiences in life, I use 
+my phone to forget about them. (K5)
+Some participants, on the other hand, stated that 
+they act based on the feeling of happiness. This situ
+ation is reflected in K29’s statements:
+When I’m online, I feel happy, like I disappear. 
+(K29).
+In a subsequent observation conducted on December 10, 
+2024, students were again seen spending their breaks on 
+their phones, often smiling as they did so, suggesting a 
+momentary sense of enjoyment or relief during use.
+In terms of habitual causes, many participants men
+tioned that they engaged with digital content simply to 
+pass the time or as a form of entertainment and rest. K20 
+stated: “I have too much free time, I just want to kill it,” 
+while K23 described their use as driven by “a need for 
+entertainment.” Others framed it as a perceived sense of 
+rest (D7). The desire for convenience was also evident, as 
+expressed by a participant:
+I prefer not to think, I choose convenience, I don’t 
+question, I take the easy way out, I’ve lost my read
+ing habit. (D23)
+Among environmental causes, the COVID-19 pan
+demic was frequently cited as a significant contributor 
+to increased experiences of brain rot. As one participant 
+explained:
+T
+he pandemic period was very impactful. We were 
+locked at home during the pandemic, we had noth
+ing to do, so we clung to our phones. (K11)
+Participants also highlighted other environmental influ
+ences such as peer pressure (D76), the perceived slowness 
+of real life (D18), and the appeal and easy accessibility of 
+digital content (D18). Finally, the digitalization of edu
+cation was noted as a contributing factor. A 20-year-old 
+female participant described how academic use of digital 
+tools often led to distraction:
+Our teachers give us assignments, so I have to check 
+my phone and research on the internet, but then I 
+end up drifting off to other things. (D12)
+T
+his pattern was also evident during an observation on 
+December 17, when students were encouraged to use AI 
+tools for a class activity. While conducting their research, 
+many were observed switching between academic plat
+forms and social media, reflecting a blurred boundary 
+between purposeful engagement and distraction.
+In relation to social causes, many participants high
+lighted a desire for solitude as a contributing element 
+to their experience of brain rot (D23). Others pointed 
+to the need for communication (K6), the urge to remain 
+visible on social media (K13), and the desire for peer 
+approval (K17). For instance, some participants reported 
+going online initially to connect with others, only to find 
+themselves overwhelmed or distracted (K20). Others 
+expressed that they felt invisible unless they were active 
+on social platforms. As one participant explained:
+Everyone sees me through my social media. If I don’t 
+post something, if I don’t log in, it feels like no one 
+will see me. (D26)
+Within the scope of cognitive causes, participants identi
+f
+ied mental exhaustion, curiosity, and the perceived effi
+ciency of quick information access as key contributors to 
+their experience of brain rot (D109). Several described 
+feeling too mentally fatigued to engage in sustained 
+thinking, leading them to seek cognitive relief through 
+digital media. Although this initially served to satisfy 
+their curiosity or provide a sense of rest, many reported 
+becoming passively absorbed in unrelated or trivial con
+tent. As one participant put it:
+I feel mentally exhausted, I just want to rest, and 
+this pulls me into it. (K15)
+T
+his behavioral pattern was also evident during an obser
+vation on October 08, 2024 in a philosophy of education 
+class, where most students, when posed with reflec
+tive questions, turned to phone applications rather than 
+engaging in independent thought.
+Findings on the effect of the participants’ brain rot on their 
+education
+T
+his section presents the effects of participants’ brain rot 
+experiences on their education. As displayed in Table 5, 
+Page 8 of 15 Gül BMC Psychology           (2026) 14:98 
+the findings are categorized under two main themes: 
+impacts on educational readiness (affective, cognitive, 
+and physical effects) and impacts on educational effi
+ciency (cognitive, social, and time efficiency).
+Under the educational readiness theme, the most pro
+nounced effects of brain rot appeared in participants’ 
+affective states. Participants consistently described diffi
+culties with attention regulation and mental clarity. For 
+instance, D17 noted, “I’m an unmindful user. I spend so 
+much time on screens that my brain feels like it’s stopped. 
+I experience constant attention deficits in class.” Simi
+larly, K12 and K27 described feelings of cognitive stagna
+tion and emotional numbness, suggesting a diminished 
+capacity for sustained engagement. These challenges 
+were also apparent during an observation on October 15, 
+2024, in which students were frequently observed check
+ing their phones during a lesson presentation, indicating 
+fragmented attention and reduced focus.
+Emotional impacts of brain rot were prominently 
+reported and manifested in various interrelated forms. A 
+recurrent theme across participants was attention defi
+ciency and cognitive sluggishness, which often accom
+panied broader mental health deterioration, including 
+what several described as “mental fog.” K26 character
+ized this condition as an addictive state: “I am an addict; I 
+can’t do other activities anymore. Sometimes I don’t even 
+eat.” Emotional exhaustion and burnout were frequently 
+reported, as reflected in D59’s admission: “Sometimes 
+I spend so much time on my phone that burnout never 
+leaves me; I can’t care for my friends and family or ful
+fil my responsibilities.” Feelings of depression, stress, and 
+anxiety were also common. D35 stated, “My quality of life 
+is quickly decreasing; my anxieties are increasing. I feel 
+sadness and hopelessness.” Other participants reported 
+a persistent sense of emptiness (K29), heightened regret 
+and guilt over lost time and academic delays (K2), and 
+a significant decline in self-confidence and self-worth 
+(D46). For example, K8 described feeling disconnected 
+and isolated: “I become disconnected from my sur
+roundings; I feel isolated.” Participants also highlighted 
+increased irritability, impatience, and a reduced capacity 
+for emotional regulation. One participant stated in the 
+documents that they have particularly become intoler
+ant. This situation is reflected in D22 as: “I no longer have 
+patience or tolerance for anything.”
+Cognitive impacts of brain rot were prominently 
+reflected in participants’ reports of diminished edu
+cational readiness. A recurring issue was the inability 
+to maintain focus during lessons, which participants 
+frequently attributed to mental fatigue and cognitive 
+overload (K13). Several students also described signs of 
+cognitive decline, including reduced intellectual engage
+ment and difficulty processing or retaining new informa
+tion. One participant explained this issue:
+Table 5 Findings on the impact of brain rot on participants’ 
+educational readiness and productivity
+Theme Category Codes D 
+(f)
+I(f)
+Impact on 
+educational 
+readiness
+Emotional 
+impact
+Attention deficiency 92 74
+Deterioration of mental health 
+(mental fog)
+57 5
+Falling into depression 20 4
+Feeling anxious and stressed 18 2
+Sense of emptiness 13 4
+Burnout 3 2
+Loss of self-confidence 3 1
+Withdrawal/feeling lonely 2 1
+Intolerance/impatience 2 1
+Cognitive 
+impact
+Inability to focus on lessons 102 19
+Causing cognitive decline 57 5
+Experiencing mental fatigue 16 7
+Loss of motivation to learn 14 6
+Drifting away from science/
+manipulation
+2 1
+Physical 
+impact
+Experiencing sleep problems 11 5
+Experiencing head and neck 
+problems
+2 6
+Experiencing eye health 
+problems
+2 6
+Experiencing muscle and skeletal 
+problems
+2 4
+Being overweight 4 1
+Experiencing excessive fatigue 3 2
+Impact on 
+educational 
+productivity
+Impact on 
+cognitive 
+efficiency
+Negatively affecting thinking 
+skills
+64 12
+Experiencing forget fulness 20 9
+Losing the habit of reading 16 13
+Not studying or experiencing 
+problems (regarding duration, 
+depth, form, procrastination)
+12 16
+Decline in academic success 16 4
+Having difficulty understanding 10 2
+Having difficulty learning 9 2
+Experiencing problems in 
+problem-solving
+9 1
+Inability to fulfill responsibilities 8 6
+Failure to actualize self-potential 8 6
+Impact 
+on social 
+efficiency
+Weakening of social relationships 9 13
+Experiencing problems in com
+munication with friends
+4 3
+Not participating in educational 
+activities
+3 1
+Showing reluctance to attend 
+school
+2 1
+Impact 
+on time 
+efficiency
+Experiencing time loss 24 11
+Losing the perception of time 8 4
+Gül BMC Psychology
+           (2026) 14:98 
+Page 9 of 15
+I am experiencing mental exhaustion. I’ve stopped 
+questioning information, lost interest in differ
+ent perspectives, and feel my capacity to learn is 
+decreasing. (D17)
+Additionally, it has been determined that brain rot causes 
+problems in students such as losing learning motivation 
+and distancing themselves from science, with students 
+reporting a weakening desire to read, study, or engage 
+critically with course material (K24). Another effect of 
+the brain rot involved the internalization of misinforma
+tion and reduced critical thinking (D71). Likewise, sev
+eral participants described drifting away from scientific 
+reasoning and becoming influenced by unverified con
+tent encountered online (D23). These findings suggest 
+that brain rot not only undermines cognitive focus but 
+also weakens students’ motivation, critical capacity, and 
+alignment with scientific inquiry.
+Physical symptoms, particularly those associated with 
+disrupted sleep, were also prevalent. K23 remarked that 
+irregular sleep patterns negatively affected their ability to 
+follow lessons. Several participants also reported head
+aches, musculoskeletal pain, fatigue, and weight gain, as 
+illustrated by K29 and D45. These observations were cor
+roborated by classroom monitoring on 22 October 2025, 
+during which students remained physically inactive, 
+using their phones throughout an extended class break.
+In terms of educational productivity, participants 
+emphasized the adverse impact of brain rot on cognitive 
+functioning, memory retention, and academic perfor
+mance. K11 linked the decline in higher-order thinking 
+skills to digital overexposure, while D53 described diffi
+culties with information recall as detailed in his following 
+remarks:
+After reading 5–10 pages of a book, my hand reaches 
+for the phone, and when I pick the book up again, I 
+have forgotten what I read. It happens in class too, 
+as soon as I leave class, I look at my phone, hours 
+pass, then I wonder what we studied in class today, 
+and there’s nothing….
+Many participants also emphasized that brain rot had 
+disrupted their reading habits and studying routines, cit
+ing reduced duration, depth, and consistency of effort, as 
+well as chronic procrastination. The cumulative effect of 
+these issues was a noticeable decline in academic achieve
+ment. Students reported difficulties in understanding 
+course material, absorbing new information, and apply
+ing their knowledge (K3, D5). Others cited problems in 
+problem-solving tasks, an inability to manage academic 
+responsibilities, a sense of underachievement and unre
+alized potential (D27, D18). This pattern was evident 
+during a class activity on 5 November 2024, where 
+students struggled to recall previously covered content 
+and immediately turned to their phones for answers. 
+T
+hese accounts indicate that brain rot not only compro
+mises students’ cognitive efficiency but also obstructs 
+their academic growth and personal development.
+T
+he findings also indicate that brain rot significantly 
+undermines students’ social efficiency within educational 
+settings. Many participants reported a weakening of 
+social relationships and a noticeable decline in the qual
+ity of their interactions. For instance, D27 likened the 
+experience to “being locked in a dark room,” suggesting 
+a sense of social isolation that negatively affected their 
+connections with others. Challenges in communica
+tion with peers were frequently noted, particularly dur
+ing class breaks when most students preferred to remain 
+absorbed in their phones rather than engage in conversa
+tion. An observation conducted on November 12, 2024, 
+confirmed this pattern: while a few students interacted 
+socially, the majority isolated themselves with their 
+devices. Furthermore, participants expressed a marked 
+reluctance to attend school and participate in educational 
+activities, often attributing this avoidance to cognitive 
+overload and emotional fatigue associated with excessive 
+digital exposure. This was reflected in a participants’ fol
+lowing statements:
+My desire to go to school is decreasing. I don’t want 
+to do anything related to school that would tire my 
+mind. (D4)
+T
+hese findings collectively suggest that brain rot not only 
+impairs individual academic functioning but also dis
+rupts students’ social engagement and willingness to be 
+actively involved in their educational environments.
+Findings on participants’ suggestions for preventing brain 
+rot
+T
+his section presents participants’ suggestions for pre
+venting brain rot, as categorized in Table 6 under four 
+main themes: providing education, organizing the envi
+ronment, usage control, and the developing individual 
+alternatives.
+Across all themes, participants consistently empha
+sized the critical role of education. They advocated for 
+targeted training on digital addiction, digital literacy, the 
+harms of brain rot, and conscious technology use. As one 
+participant stated, “There should be awareness and sensi
+tization training on addiction and brain rot” (K13), while 
+another highlighted the importance of media-based out
+reach: “Information and awareness training should be 
+given in the media on how to use technology appropri
+ately without becoming addicted” (D13).
+Another prominent theme involved organizing educa
+tional and social environments to discourage excessive 
+Page 10 of 15 Gül BMC Psychology           (2026) 14:98 
+digital use. Many participants underscored the need for 
+engaging, creative school activities that support students’ 
+personal development. One participant noted:
+Schools should design activities that boost students’ 
+self-confidence and catch their interest. Activities 
+should encourage creativity. (D22).
+Additionally, strong family communication and parental 
+role modelling were frequently cited as preventive fac
+tors. As one participant reflected:
+Families should put down their phones and spend 
+quality time with their children. They can do art 
+activities together or read books. (K22).
+Several students also recommended the development of 
+educational platforms aimed at fostering healthier digi
+tal habits (D6). Relatedly, student-centered classroom 
+practices that promote collaboration and active learning 
+were also considered beneficial. For instance, participants 
+suggested implementing debates, problem-solving tasks, 
+and experimental learning to enhance lesson engagement 
+(D54, D76). Teachers were also seen as pivotal role mod
+els in this process as stated by a participant:
+Teachers and parents should be role models for stu
+dents. (D15).
+In addition, participants raised concerns about the 
+increasing reliance on digital tools within the classroom. 
+Some students recommended reducing digital activities 
+in lessons to minimize distractions and addictive behav
+iors. One participant explained her experience:
+Our professors give assignments, I have to check my 
+phone, research on the internet, sometimes I even 
+read the book on the screen. But then I end up spend
+ing hours hovering [around] useless websites. (D12)
+Under the theme of usage control, participants called for 
+setting screen time limits, especially enforced by fami
+lies (K22). Others recommended introducing children 
+to digital devices at a later age and limiting their use 
+once introduced (D12). The idea of “digital detox” also 
+emerged, with participants encouraging outdoor activi
+ties and time away from screens:
+Digital detox is essential, we should go outside, take 
+walks, and pick up different hobbies. (D34)
+In this context, school-family cooperation was consid
+ered vital. As one participant noted:
+Both the school and the family have a lot of work to 
+do to prevent brain rot. Only if they work together 
+can this problem be solved. (D82)
+Finally, in terms of developing individual alternatives, 
+students emphasized cultivating hobbies (e.g., art, sports, 
+culture) and participating in social activities. These were 
+seen not only as diversions from digital overuse but also 
+as meaningful ways to enhance well-being. One partici
+pant shared his suggestions:
+New hobbies can be found and done, trips can be 
+organized, socializing can be increased, art can be 
+practiced. For example, I play the guitar and sing, 
+which helps me prevent brain rot. (K10)
+Other students stressed the importance of building 
+responsibility and self-regulation (D23, K14), while a few 
+advocated for broader lifestyle changes. One participant 
+highlighted:
+Table 6 Findings on participants’ suggestions for preventing 
+brain rot
+Theme Codes Doc. 
+(f)
+Int. 
+(f)
+Providing 
+Education
+Digital addiction awareness training 
+should be provided
+29 12
+Education on the harms of brain rot 
+should be given
+29 12
+Training on conscious technology use 
+should be provided
+16 3
+Organizing the 
+environment
+Engaging activities should be orga
+nized at schools
+27 9
+Communication in families should be 
+prioritized
+12 9
+Family elders (parents) should set an 
+example
+8 6
+Educational platforms should be 
+created
+5 3
+Student-centered activities should be 
+implemented in lessons
+5 1
+Teachers should be guides and role 
+models
+4 2
+Students should be given opportuni
+ties to work together
+4 1
+Less emphasis should be placed on 
+digital activities in lessons
+2 1
+It should be banned at school 1
+Usage control Time limitations should be set 31 6
+Introducing screens later in childhood 7 1
+Digital detox 7 1
+Schools and families should 
+collaborate
+6 2
+Developing 
+individual 
+alternatives
+Develop hobbies (Art, sports, culture) 59 12
+Develop a sense of responsibility 8 4
+Gain self-regulation skills 5 2
+Change lifestyle when necessary 2 1
+Gül BMC Psychology
+           (2026) 14:98 
+Page 11 of 15
+To get rid of brain rot, we should live an active life, 
+take care of our bodies and souls, pick up different 
+activities, and live life to the fullest. (D3)
+Discussion
+T
+he study suggests that preservice teachers in the faculty 
+of education may exhibit patterns of cognitive fatigue and 
+reduced attention span, potentially influenced by a com
+bination of emotional, habitual, environmental, social, 
+and cognitive factors. Emotional drivers such as the 
+desire to relieve boredom, the tendency to avoid respon
+sibilities, the sense of incompleteness when disconnected 
+from social media, the need to escape real-life challenges, 
+fear of missing out (FOMO), and the pursuit of happiness 
+through online platforms emerged as key contributors. 
+Uğurlu [44] similarly found that boredom during free 
+time significantly predicts social media addiction among 
+university students. Twenge and Campbell [45] argued 
+that digital addiction functions as an emotional coping 
+mechanism among youth, echoing the present study’s 
+f
+indings. Przybylski et al. [46] introduced the concept of 
+FOMO to describe the persistent concern about missing 
+out on social interactions, which aligns with the partici
+pants’ reported anxiety when offline. In addition, Meng 
+and Leung [8] found that escapism and entertainment 
+motives drive excessive use of platforms like TikTok, 
+reinforcing the emotional underpinnings of brain rot 
+observed in this study.
+With regard to habitual factors, students reported 
+using digital devices to fill free time, entertain them
+selves, relax, and pursue convenience often in repetitive 
+and unconscious ways. Notifications and likes in digital 
+content cause the release of dopamine. Dopamine brings 
+about the expectation of reward and, consequently, 
+behavioral addiction [47]. These findings reflect Duhigg’s 
+[48] habit loop theory, which explains how behaviors 
+become automatic through cue-routine-reward cycles. 
+T
+he recurring use of digital media in idle moments sug
+gests that brain rot, for many students, has become a 
+deeply ingrained habit. This pattern aligns with [5], who 
+found that entertainment motives are significant predic
+tors of social media dependency. Uğurlu [44] further con
+f
+irmed that increased free time is associated with greater 
+risk of social media addiction.
+Environmental and social factors also contributed sub
+stantially to brain rot. Participants cited the COVID-19 
+pandemic, peer influence, the digitalization of educa
+tion, and the accessibility and appeal of digital content as 
+major drivers. UNESCO [49] similarly reported that the 
+pandemic accelerated digital device dependency among 
+youth, increasing vulnerability to addictive behaviors. 
+Büyükgebiz Koca and Tunca [14] found that loneliness 
+during the pandemic was linked to pathological inter
+net use among young people, corroborating this study’s 
+results. Students’ efforts to maintain online visibility 
+and conform to digital norms reflect Festinger’s [50] 
+Social Comparison Theory, which posits those individu
+als evaluate themselves in comparison to others—often 
+using social media as the primary reference point. Like
+wise, Balcı et al. [5] emphasized that platforms like Tik
+Tok are intentionally designed to maximize engagement 
+and dependency. Cognitive contributors such as mental 
+fatigue, heightened curiosity, and the desire for immedi
+ate access to information also fueled brain rot. Dinç [51] 
+identified curiosity as a central driver of internet addic
+tion, while Kızılkaya [11] found that the search for psy
+chological relief contributes to problematic digital use 
+both findings consistent with this study.
+Brain rot was also found to significantly affect stu
+dents’ educational experiences, particularly in terms of 
+educational readiness and productivity. This study pro
+vides pre-service teachers with a valuable opportunity 
+to enhance their awareness of brain rot and its potential 
+impact on the educational process, thereby equipping 
+them with an advantage in addressing related challenges 
+T
+his research allows pre-service teachers to gain an 
+important advantage in overcoming problems caused by 
+brain rot in the educational process by increasing their 
+level of awareness of this concept [52]. Such awareness 
+is crucial, as teachers who understand the cognitive and 
+emotional effects of brain rot can act as positive role 
+models for their future students, promoting healthier 
+and more balanced digital behaviors. The findings, par
+ticularly the frequent reports of attention deficits, men
+tal fog, and emotional difficulties among participants, 
+underscore the importance of integrating digital well
+being education into teacher training programmes. Kan
+dasamy et al. [17] identified similar effects in their work 
+on internet addiction, highlighting mental, emotional, 
+and physical consequences Within the scope of educa
+tional readiness, brain rot causes cognitive decline, atten
+tion deficit, mental fatigue, and fogginess. According to 
+social cognitive theory, paying attention and encoding 
+into memory are very important in the process of devel
+oping behavior [53]. Unlike the results of this study, 
+Lodge and Harrison [54] mention in their research that 
+the effect of technology on attention is not unidirec
+tional; for example, some video games may improve 
+visual attention skills. The researchers revealed, in the 
+context of attention learning theory, that attention is not 
+a fixed ability and can be shaped through experience and 
+the environment. Ophir et al. [55] found that constant 
+exposure to digital media diminishes cognitive control 
+and concentration. Recent findings by Lakilaki et al. [56] 
+reinforce these conclusions, showing that digital overex
+posure impairs attention and focus in academic settings. 
+Consistent with the findings of this study, Sparrow et al. 
+[57] demonstrated that the widespread use of the internet 
+Gül BMC Psychology
+           (2026) 14:98 
+Page 12 of 15
+fosters a form of cognitive offloading, leading to cogni
+tive laziness and a diminished capacity for deep informa
+tion processing. Similarly, Carr [52] argued that extensive 
+internet use encourages superficial learning patterns and 
+contributes to forgetfulness by weakening long-term 
+memory consolidation. Recent research on brain rot fur
+ther supports these perspectives, indicating that the phe
+nomenon emerges as a consequence of excessive digital 
+content consumption, which disrupts sustained attention 
+and cognitive engagement. In this context, Adam & Cik 
+Soh [31] revealed in their research that brain rot caused 
+by excessive screen time can lead to problems such as 
+memory issues, decreased attention span, and impaired 
+decision-making. Nayak [32] noted that the concept of 
+brain rot has become increasingly widespread in recent 
+years and defined brain rot, as also demonstrated in this 
+study, as a decline in cognitive functions and attention 
+span. This decline caused by brain rot can lead to more 
+serious problems, such as the transformation of cultural 
+richness into consumable commodities and the superfi
+cialization of cultural wealth [52].
+T
+he emotional toll of brain rot in this study marked by 
+symptoms of depression, anxiety, emptiness, guilt, addic
+tion, burnout, and reduced self-confidence echoes find
+ings by Gökbulut and Bilen [58], who demonstrated that 
+social media addiction correlates with elevated stress, 
+anxiety, and depressive symptoms. Shen et al. [13] and 
+Jaishy et al. [59] similarly reported that dysfunctional 
+internet use leads to significant psychological distress. In 
+their study on brain rot, Yousef et al. [33] concluded that 
+brain rot has negative effects on mental health. These 
+results indicate that brain rot may have long-term effects.
+Physically, students described symptoms such as 
+insomnia, neck and back pain, and eye strain condi
+tions supported by Cain and Gradisar [60], who found 
+that increased screen time disrupts sleep cycles, and by 
+Achangwa et al. [61], who reported musculoskeletal dis
+comfort among those with smartphone addiction. Yazgan 
+[62] conducted a study on brain rot and found that the 
+condition leads to sleeplessness and adversely affects 
+learning and memory processes.
+From an educational productivity perspective, brain 
+rot was found to reduce students’ ability to comprehend 
+course material, retain information, and engage in deep 
+learning, while also contributing to procrastination and 
+academic underperformance. Rathakrishnan et al. [16] 
+similarly concluded that smartphone addiction negatively 
+impacts academic achievement. Kirschner and Karpinski 
+[22] found that frequent use of platforms like Facebook 
+correlates with reduced study time and poorer academic 
+outcomes. Sun and Chao [63] further demonstrated that 
+multitasking with digital media leads to fragmented 
+attention and diminished academic performance. These 
+results align with Aznar-Díaz et al. [19], who identified 
+a strong link between problematic internet use and aca
+demic procrastination.
+Socially, participants reported difficulties in maintain
+ing peer relationships and initiating face-to-face interac
+tions, contributing to isolation and reluctance to attend 
+school. Han, Nagduar, and Yu [21] showed that digital 
+addiction impairs interpersonal communication, while 
+Achangwa et al. [61] highlighted its role in reducing real
+life social engagement. Students in this study expressed 
+reduced motivation to attend classes or engage in school 
+activities, echoing Akbaba and Kaya’s [15] finding that 
+problematic internet use lowers academic motivation. 
+Finally, brain rot was found to disrupt students’ sense 
+of time and time management. Gök [64] reported that 
+students often use digital tools inefficiently, leading to 
+significant time loss. Jojo and Sundaramoorthy [65] 
+emphasized that weak time management skills often tied 
+to a lack of personal responsibility are associated with 
+excessive internet use, supporting this study’s findings. 
+Owens [66] reported findings that diverge from those of 
+the present study, concluding that young people perceive 
+brain rot as digital engagement, and that the time spent 
+in this process cannot be considered leisure time, as they 
+believe this time provides them with relaxation. In addi
+tion, Owens associated brain rot with earlier forms of 
+purposeless entertainment, such as “killing time” or pas
+sively watching television, arguing that the phenomenon 
+should not be regarded as entirely new.
+In response to these challenges, participants proposed 
+several strategies to prevent brain rot, including educa
+tional interventions, environmental restructuring, usage 
+control, and the development of personal alternatives. 
+Education was seen as a crucial tool in combating brain 
+rot, with calls for digital literacy training, awareness cam
+paigns on digital addiction, and guidance on responsible 
+technology use. Aribowo and Bagaskara [67] found in a 
+way that supports the results of this study, that brain rot 
+is not only an individual problem but a structural issue 
+produced by the digital ecology, and therefore, measures 
+need to be taken at the societal level. These suggestions 
+align with Achangwa et al. [61], who advocated for tar
+geted education to mitigate smartphone addiction.
+Participants also emphasized the importance of fam
+ily dynamics and parental modeling [68] highlighted 
+that internet addiction strains family relationships and 
+that improved communication can serve as a protective 
+factor. Recommendations for limiting screen time and 
+implementing digital detox practices were also raised. 
+Young [27] demonstrated the effectiveness of time 
+restrictions in curbing internet addiction, while Varma 
+[69] recommended structured detox periods as a preven
+tive strategy.
+In terms of educational practices, participants advised 
+reducing digital content in classrooms, arguing that it 
+Gül BMC Psychology
+           (2026) 14:98 
+Page 13 of 15
+exacerbates brain rot. Miniakhmetova et al. [70] sup
+ported this concern, noting that increased digital learn
+ing may heighten students’ susceptibility to digital 
+dependency. Student-centered, collaborative classroom 
+strategies were proposed as alternatives. Bağcı [1] simi
+larly recommended engaging teaching methods to reduce 
+digital reliance among university students.
+Finally, students proposed developing personal alter
+natives to screen use, such as engaging in arts, sports, 
+and cultural activities, as well as participating in social 
+events. These strategies were complemented by calls 
+for increased self-regulation and personal responsibil
+ity. Wibowo et al. [59] found that individuals with higher 
+self-regulation are less susceptible to digital addiction, 
+while Lakilaki et al. [56] observed that outdoor and 
+physical activities can mitigate the effects of brain rot. 
+Together, these findings underscore the importance of 
+both systemic interventions and personal coping strate
+gies in addressing the cognitive and educational risks 
+associated with brain rot.
+Recommendations
+Schools could implement phone-use restrictions during 
+specific hours or lessons to minimize digital distraction 
+and support sustained attention. The use of applica
+tions that monitor students’ daily screen time should be 
+encouraged and made more widespread. Educators can 
+foster deep reading habits by encouraging students to 
+engage with printed materials more frequently and to 
+practice slow, reflective reading to strengthen cognitive 
+focus and comprehension.
+T
+his study lays the groundwork for quantitative 
+research aimed at determining the wider prevalence of 
+the “brain rot” phenomenon or for longitudinal studies 
+that aim to track the long-term effects of digital habits. 
+Furthermore, future cross-cultural comparative studies 
+would provide valuable insights by revealing how digital 
+behaviors and the manifestations of brain rot vary across 
+different cultural and educational contexts.
+Limitations
+T
+he study was conducted only at a single university in 
+Türkiye; therefore, the findings may not be generaliz
+able to broader populations or different cultural con
+texts. Although data triangulation was employed, the 
+screen-time data derived from participants’ self-reports 
+may be subject to bias, as participants might not have 
+reported their digital habits with complete accuracy. Fur
+thermore, as the researcher actively conducted observa
+tions throughout the study, this involvement may have 
+introduced subjective influences during the interpreta
+tion process, making it challenging to entirely eliminate 
+researcher bias.
+Although the study was conducted with 113 partici
+pants, in-depth interviews were carried out with only 
+30 individuals. While the findings indicate that the 
+majority of participants exhibited symptoms of “brain 
+rot,” detailed qualitative insights into the experiences of 
+those who were not interviewed remained limited. This 
+limitation was partially mitigated through the use of data 
+triangulation.
+Conclusions
+T
+his study on brain rot, a phenomenon emerging among 
+students as a consequence of digital addiction, revealed 
+that the condition arises from a complex interplay of 
+emotional, habitual, environmental, social, and cogni
+tive factors. Emotional factors included boredom and the 
+desire for relaxation, avoidance of tasks or inactivity, feel
+ings of deficiency when not engaging with social media, 
+escapism from real-life problems, and happiness derived 
+from online interactions. Habitual tendencies such as fill
+ing free time, seeking entertainment or rest, and opting 
+for convenience were also influential. Additionally, envi
+ronmental, social, and cognitive reasons—such as the 
+pandemic period, peer pressure, the digitalization of edu
+cation, the appeal and accessibility of digital content, the 
+desire for individuality, and anxieties regarding commu
+nication and visibility further contributed to the devel
+opment of brain rot. The findings indicate that brain rot 
+manifests in educational contexts in two primary dimen
+sions: educational readiness and educational efficiency. 
+In terms of readiness, students suffering from brain rot 
+reported attention deficits, mental fog, depression, anxi
+ety, feelings of emptiness, regret or guilt, burnout, loss of 
+self-confidence, impatience, social withdrawal, loneliness, 
+difficulty focusing on lessons, cognitive decline, mental 
+fatigue, forgetfulness, sleep disturbances, and physical 
+symptoms such as eye strain and neck or back pain. In 
+relation to educational efficiency, the condition led to 
+challenges in comprehension and learning, a decline in 
+academic achievement, procrastination, weakened social 
+relationships, reluctance to attend school, and reduced 
+engagement in educational activities. Furthermore, brain 
+rot was found to undermine students’ time management, 
+resulting in significant time loss and a distorted percep
+tion of time.
+Abbreviations
+FOMO  
+Fear of Missing Out
+UNESCO  United Nations Educational, Scientific and Cultural Organization
+Acknowledgements
+The authors have no acknowledgements to make.
+Consent to participate declaration
+All participants were informed about the purpose, procedure, and their rights 
+regarding the study. They voluntarily agreed to participate and provided 
+informed consent prior to data collection.
+Gül BMC Psychology
+           (2026) 14:98 
+Page 14 of 15
+Authors’ contributions
+The sole author was responsible for all aspects of this study, including 
+conceptualization, data collection, analysis, and manuscript preparation.
+Funding
+The author did not receive any financial support for this study.
+Data availability
+Data are kept by the authors and can be shared upon request.
+Declarations
+Ethics approval and consent to participate
+The approval request for this research has been submitted to the Rectorate 
+of Kahramanmaraş Sütçü İmam University – Social and Human Sciences 
+Ethics Committee on 12 February 2025. This research has been approved by 
+the aforementioned committee on 27 March 2025, with reference number 
+E-72321963-050.04-405671. The study was conducted in accordance with 
+Decision No. 21, taken at the meeting dated March 21, 2025 (Session No. 2025
+6) of the Ethics Committee for Social and Human Sciences at Kahramanmaraş 
+Sütçü İmam University, and within the framework of the APA ethical 
+principles. All procedures performed in this study were in accordance with the 
+ethical standards of the institutional committee and with the 1964 Helsinki 
+Declaration and its later amendments or comparable ethical standards.
+Consent for publication
+The structure of this study makes consent for publication not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 1 July 2025 / Accepted: 12 December 2025
